@@ -8,11 +8,11 @@
 
 Control categories:
 
-Techinical Controls:
+Technical Controls:
 Using software to control what functions can and cannot happen on a system. This ranges from firewalls to block data leaving or entering a system/network to using `operating system controls` to prevent users accessing certain data and functions.
 
 Managerial Controls:
-Implmenting security designs and security policies that staff and users must be trainned on and adhear to as a standard operating procedure for keeping data safe. 
+Implementing security designs and security policies that staff and users must be trained on and adhere to as a standard operating procedure for keeping data safe. 
 
 Operational Controls:
 Using people for control and security. Such as security guards, awareness programs, and posters informing staff how to keep data safe.
@@ -25,7 +25,7 @@ Physical security measures to prevent physical access such fences, locks, badge 
 Control Types:
 
 Preventive Control:
-Prevents access to a specific resource such as a firewall, security policies, locked doors, and guards checking ID to verfiy authorisation.
+Prevents access to a specific resource such as a firewall, security policies, locked doors, and guards checking ID to verify authorisation.
 
 - Technical Control: Firewall
 - Managerial Control: Security policy
@@ -42,7 +42,7 @@ Tries to discourage an attacker or an intrusion attempt. For example, a splash s
 - Physical Control: Warning signs
 
 Detective Control:
-These controls may not prevent an attack or access but they are able to identify when an intrusion has accured or been attempted and log the neccesary data.
+These controls may not prevent an attack or access but they are able to identify when an intrusion has occurred or been attempted and log the necessary data.
 
 - Technical Control: Collect and review system logs
 - Managerial Control: Review login reports
@@ -53,20 +53,20 @@ Corrective Control:
 This control is used after an event has taken place to try reverse the impact of the event or continue operations with minimal downtime.
 
 - Technical Control: Restoring from a backup
-- Managerial Control: Create policies for reporting security issus
+- Managerial Control: Create policies for reporting security issues
 - Operational Control: Contacting law enforcement
 - Physical Control: Fire extinguishers.
 
 Compensating Control:
-This envolves using temporary solutions until you are able to fix the issue perminantly.
+This involves using temporary solutions until you are able to fix the issue permanently.
 
 - Technical Control: Firewall blocking instead of patching the issue.
-- Managerial Control: seperation of duties.
-- Operational Control: simulatanieous guard duties
+- Managerial Control: separation of duties.
+- Operational Control: simultaneous guard duties
 - Physical Control: generator to keep systems running.
 
 Directive Control:
-This is where you inform and direct people on how to be more secure. This is a very week security control.
+This is where you inform and direct people on how to be more secure. This is a very weak security control.
 
 - Technical Control: Store sensitive files in a protected folder
 - Managerial Control: Create compliance policies and procedures
@@ -74,5 +74,5 @@ This is where you inform and direct people on how to be more secure. This is a v
 - Physical Control: a sign on a door saying "Authorised personnel only"
 
 
-It is important to note that some organisations may cobine types of controls and some security controls may exist in diffrent categories and types. 
+It is important to note that some organisations may combine types of controls and some security controls may exist in different categories and types. 
 
