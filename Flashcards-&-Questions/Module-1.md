@@ -3,6 +3,8 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### Security Controls
+
 <details>
   <summary>1. Name all the control categories</summary>
   - Technical, Managerial, Operational, and Physical
@@ -139,4 +141,57 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   - Operational: train users on proper security policies
   - Physical: A sign on a door saying "Authorised personnel only"
 </details>
+
+
+-----
+
+### The CIA Triad
+
+<details>
+  <summary>1. What is the other name for the CIA triad?</summary>
+  - AIC Triad.
+</details>
+
+
+<details>
+  <summary>2. What does the C in CIA triad stand for and what does it mean?</summary>
+  - Confidentiality. To prevent disclosure of information to unauthorised users or systems.
+</details>
+
+
+<details>
+  <summary>3. What does the I in CIA triad stand for and what does it mean?</summary>
+  - Integrity. Messages cannot be modified without detection.
+</details>
+
+
+<details>
+  <summary>4. What does the A in CIA triad stand for and what does it mean?</summary>
+  - Availability. To make sure our systems and networks are always up and running.
+</details>
+
+
+<details>
+  <summary>5. Give 3 examples of how you can insure confidentiality:</summary>
+  - Encrypting data before it is send over the network. Access Controls to restrict users access to specific resources. Two factor authentication when signing in to accounts.
+</details>
+
+
+<details>
+  <summary>6. Give 4 examples of how you can insure integrity:</summary>
+  - Hashing the data, using Digital Signatures, Using certificates, and non-repudiation.
+</details>
+
+
+<details>
+  <summary>7. Give 3 examples of how you can insure Availability:</summary>
+  - Building systems using redundancy, Fault tolerance (adding extra components incase of failure), and Patching systems doing updates and fixing security holes.
+</details>
+
+
+<details>
+  <summary>8. What is non-repudiation?</summary>
+  - The act of making sure someone cannot later deny an action or message after it is sent.
+</details>
+
 
