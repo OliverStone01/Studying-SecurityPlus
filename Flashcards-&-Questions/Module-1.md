@@ -195,3 +195,50 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 </details>
 
 
+-----
+
+### Non repudiation
+
+<details>
+  <summary>1. What is an example of non-repudiation?</summary>
+  - signing a contract using private and public keys.
+</details>
+
+
+<details>
+  <summary>2. What is proof of integrity?</summary>
+  - It means we can verify that data has not been changed.
+</details>
+
+
+<details>
+  <summary>3. What is one way we can insure data has not been changed?</summary>
+  - Hashing the data.
+</details>
+
+
+<details>
+  <summary>4. What is hashing?</summary>
+  - Hashing takes data and runs it through an algorithm to get a hash value that will only be produced when the data is identical. This allows us to check if data has been changed.
+</details>
+
+
+<details>
+  <summary>5. Are hash values different in length depending on the ammount of data passed to the algorithm?</summary>
+  - No, hash values are typically the same length no matter how much data you pass to the algorithm.
+</details>
+
+
+<details>
+  <summary>6. What are two other names for hashing?</summary>
+  - Message digest and fingerprint.
+</details>
+
+
+<details>
+  <summary>7. What is the difference between a public and private key?</summary>
+  - A public key is kept secret and is used when hashing data you want to send to someone. The person receiving your message then uses your public key (Which can be shared with anyone) to decrypt your message to make sure nothing has been changed in the message and to confirm the message came from you.
+</details>
+
+
+-----
