@@ -242,3 +242,48 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 -----
+
+### The AAA framework
+
+<details>
+  <summary>1. What are the 3 parts of the AAA framework?</summary>
+  - Authentication, Authorisation, and Accounting
+</details>
+
+
+<details>
+  <summary>2. What is identification?</summary>
+  - Identification is telling the system who you claim to be. Usually via a username.
+</details>
+
+
+<details>
+  <summary>3. What is the first A of the AAA framework and what does it mean?</summary>
+  - Authentication. Proves you are who you say you are by providing a password and other authentication factors.
+</details>
+
+
+<details>
+  <summary>4. What is the second A in the AAA framework and what does it mean?</summary>
+  - Authorisation. This is what you have access to based on who you are.
+</details>
+
+
+<details>
+  <summary>5. What is the last A in the AAA framework and what does it mean?</summary>
+  - Accounting. This is where the system logs everything from who logged in, what time they logged in, what they did, and when they logged out 
+</details>
+
+
+<details>
+  <summary>6. How can a device be trusted onto a network without typing a password each time?</summary>
+  - We can assign the device with a certificate that allows the device to be authenticated.
+</details>
+
+
+<details>
+  <summary>7. Who must sign this certificate?</summary>
+  - The certificate authority (CA).
+</details>
+
+
