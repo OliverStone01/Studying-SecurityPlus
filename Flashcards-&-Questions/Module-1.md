@@ -320,6 +320,93 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   - Create the final gap analysis report that details where weaknesses are and what we can do to get our security to where we want it to be.
 </details>
 
+-----
+
+### Zero Trust
+
+<details>
+  <summary>1. What is zero trust?</summary>
+  - Zero trust means that you must authenticate to use any resources on the network or system.
+</details>
+
+
+<details>
+  <summary>2. How do we implement zero trust?</summary>
+  - We first need to split the network into functional planes so that we can add and define rules and policies.
+</details>
+
+
+<details>
+  <summary>3. What are the 2 planes of operation?</summary>
+  - Data plane and control plane.
+</details>
+
+
+<details>
+  <summary>4. What is the data plane?</summary>
+  - The control plane is where we manage the actions of the data plane. Such as defining rules and policies on how packets and other data should be processed and forwarded.
+</details>
+
+
+<details>
+  <summary>5. What is the control plane?</summary>
+  - The control plane is where we manage the actions of the data plane. such as defining rules and policies on how packets and other data should be processed and forwarded.
+</details>
+
+
+<details>
+  <summary>6. What is adaptive identity?</summary>
+  - It is a system that allows us to check users are who they  say they are by checking the IP address, physical location, type of connection, and the relation to the organisation. 
+</details>
+
+
+<details>
+  <summary>7. Give an example of using adaptive identity:</summary>
+  - A user says they are in the US and is trying to login to a US account but using adaptive identity shows that they are actually in China. Proving the user is not who they say they are
+</details>
+
+
+<details>
+  <summary>8. What is a threat scope reduction?</summary>
+  - Reduces the amount of entry points to a network or physical building.
+</details>
+
+
+<details>
+  <summary>9. What is a policy driven access control?</summary>
+  - Examins the adaptive controls and a predefined set of rules to determine if the user is who they say they are.
+</details>
+
+
+<details>
+  <summary>10. What are security zones?</summary>
+  - Security zones are areas you define for example separate departments in a company. You can then set specific rules for each zone and define how they talk to each other.
+</details>
+
+
+<details>
+  <summary>11. What is the policy enforcement point?</summary>
+  - This is a gatekeeper that all the traffic must pass through and be subject to examination. The data will be passed to the policy decision point where the policy engine then decides whether to grant, deny, or revoke the request.
+</details>
+
+
+<details>
+  <summary>12. What is the abbreviation for the policy enforcement point?</summary>
+  - PEP.
+</details>
+
+
+<details>
+  <summary>13. What does PDP stand for?</summary>
+  - Policy Decision Point.
+</details>
+
+
+<details>
+  <summary>14. What does the policy administrator do?</summary>
+  - It sends back the decision from the policy engine to the PDP back to the PEP.
+</details>
+
 
 
 
