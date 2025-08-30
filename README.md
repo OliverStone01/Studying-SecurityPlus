@@ -1,2 +1,2 @@
 # Studying-SecurityPlus
-This repo is where all my study notes, flashcards, test questions, and a journal on mock test results are kept. For studying, I'm watching and taking notes from Professor Messer on YouTube, Reading the official Security+ book while taking notes and then creating flashcards and practice questions from my notes.
+Here are all my study notes and flashcards/test questions ive made while learning and preparing to take the Security+ exam. For studying, I'm watching Professor Messer on YouTube and Reading the official Security+ book followed by testing my self on my flashcards and the security+ practice tests book.
