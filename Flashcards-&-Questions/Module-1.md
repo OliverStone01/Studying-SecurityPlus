@@ -287,3 +287,39 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 </details>
 
 
+-----
+
+### The Gap Analysis
+
+<details>
+  <summary>1. What is a Gap Analysis?</summary>
+  - The study of diffrence between where your security is now and where you want it to be.
+</details>
+
+
+<details>
+  <summary>2. What is a baseline?</summary>
+  - Internal goals set inside of the organisation on where your security should be.
+</details>
+
+
+<details>
+  <summary>3. What are two things you can examine when setting a baseline?</summary>
+  - Examine the employees and their current training level and the IT processes of the company.
+</details>
+
+
+<details>
+  <summary>4. What do we need to do when creating a Gap Analysis?</summary>
+  - We need to compare and evaluate existing system, identify weaknesses, and create a detailed analysis of broad security categories and break them into smaller segments.
+</details>
+
+
+<details>
+  <summary>5. What do you do once you have finished analysing the Gap Analysis?</summary>
+  - Create the final gap analysis report that details where weaknesses are and what we can do to get our security to where we want it to be.
+</details>
+
+
+
+
