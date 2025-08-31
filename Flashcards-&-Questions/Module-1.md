@@ -407,6 +407,87 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   - It sends back the decision from the policy engine to the PDP back to the PEP.
 </details>
 
+-----
+
+### Physical Security 
+
+<details>
+  <summary>1. What are bollards and barricades?</summary>
+  - These are used to prevent access or guide people into specific access point using barriers, cones, and even water features with a bridge that everyone must cross.
+</details>
+
+
+<details>
+  <summary>2. What is Access Control Vastibule?</summary>
+  - The act of restricting access to areas where other areas are open.
+</details>
+
+
+<details>
+  <summary>3. Give an example where access control vestibule is used:</summary>
+  - When you have multiple interal doors that are unlocked when the access door is locked. But once the access door is unlocked, the other lock to prevent immediate access.
+</details>
+
+
+<details>
+  <summary>4. What are the benefits of having access control vestibule?</summary>
+  - It allows you to have a one at a time system where each user must unlock each door to gain access. This allows you to have controlled areas.
+</details>
+
+
+<details>
+  <summary>5. What is the main benefit of fences?</summary>
+  - Prevent easy access to restricted areas. They can also provide privacy depending on what material and design you use.
+</details>
+
+
+<details>
+  <summary>6. What does CCTV stand for?</summary>
+  - Closed Circut Television.
+</details>
+
+
+<details>
+  <summary>7. What is video surveillance used for?</summary>
+  - For logging who did what in a specific area. Monitoring and alerting motion or object detection.
+</details>
+
+
+<details>
+  <summary>8. Why do we use security guards?</summary>
+  - Security guards are a great method of physical control as they can authenticate people and investigate incidents.
+</details>
+
+
+<details>
+  <summary>9. Do security guards work alone?</summary>
+  - No, we use multiple guards to prevent one person having access to all assets.
+</details>
+
+
+<details>
+  <summary>10. Why is lighting a good security feature?</summary>
+  - Attackers want to remain hidden from cameras and guards. Adding lighting removes areas where attackers can hide.
+</details>
+
+
+<details>
+  <summary>11. What are the 4 types of motion detection?</summary>
+  - Infrared sensors, pressure sensors, microwave sensors, and ultrasonic
+</details>
+
+
+-----
+
+
+
+
+
+
+
+
+
+
 
 
 
