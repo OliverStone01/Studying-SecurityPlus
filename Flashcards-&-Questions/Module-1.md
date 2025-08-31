@@ -479,7 +479,30 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### Deception and Disruption
 
+<details>
+  <summary>1. What is a honeypot?</summary>
+  - A honeypot is a way to attract attackers to a fake system so that we can see what type of attackers and bots they are using.
+</details>
+
+
+<details>
+  <summary>2. What is a bigger and more believable honeypot called?</summary>
+  - A honey net. This consists of multiple fake servers, workstations, switches, routers, and firewalls.
+</details>
+
+
+<details>
+  <summary>3. What is a honey file?</summary>
+  - A honey file is a fake file that we label as something like "password.txt" to attract attackers. We can apply alerts to alert us when a user accesses this file.
+</details>
+
+
+<details>
+  <summary>4. What is a honey token?</summary>
+  - A honey token is a fake token or fake email address we setup to detect when an attacker tried to take our information.
+</details>
 
 
 
