@@ -473,7 +473,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>11. What are the 4 types of motion detection?</summary>
-  - Infrared sensors, pressure sensors, microwave sensors, and ultrasonic
+  - Infrared sensors, pressure sensors, microwave sensors, and ultrasonic.
 </details>
 
 
@@ -505,12 +505,55 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 </details>
 
 
+-----
+
+<details>
+  <summary>1. What is change management?</summary>
+  - The way we process updates and patches to systems to prevent downtime and security vulnerabilities in any enviroment
+</details>
 
 
+<details>
+  <summary>2. What is a formal change control process?</summary>
+  - This is the process we follow to make sure we have the least amount of risk and downtime.
+</details>
 
 
+<details>
+  <summary>3. List the common processes:</summary>
+  
+  - Complete a request form
+  - Document the reason for change
+  - Identify the scope of the change
+  - Schedule a date and time of the change
+  - Analyse the risk of change
+  - Get approval from the change control board
+  - Get end-user acceptance and check for issues
+</details>
 
 
+<details>
+  <summary>4. Who is impacted if the process goes wrong?</summary>
+  - The stakeholders
+</details>
+
+
+<details>
+  <summary>5. What type of risk do you have to analyse before making the change</summary>
+  - Minor risks, Major risks, and risk of not changing.
+</details>
+
+
+<details>
+  <summary>6. What can we use to test the change before pushing to production?</summary>
+  - We can copy our systems to a sandbox enviroment and test the roll out and then test the backout plan.
+</details>
+
+
+<details>
+  <summary>7. What is a backout plan?</summary>
+  - A backout plan the the plan for reversing the upgrade using things like backups and reverting to previous software system versions.
+</details>
 
 
 
