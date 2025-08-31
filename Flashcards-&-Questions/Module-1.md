@@ -507,6 +507,8 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### Change Management
+
 <details>
   <summary>1. What is change management?</summary>
   - The way we process updates and patches to systems to prevent downtime and security vulnerabilities in any enviroment
