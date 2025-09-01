@@ -1,6 +1,6 @@
 #### 🎓 Professor Messer Study Notes
 
-## Change Management - CompTIA Security+ SY0-701 - 1.2
+## Change Management - CompTIA Security+ SY0-701 - 1.3
 
 [Link to video](https://youtu.be/48wRbMdHFVI?si=WoxnpZe08JFvZfrg)
 
@@ -27,5 +27,6 @@ You can test the processes and how the systems will react in a `sandbox` envirom
 You can also use this to test your backout procedures by upgrading the system and then reversing the upgrade.
 
 A backout plan is a plan on how to revert back to a previous state. We can do this using backups.
+
 
 
