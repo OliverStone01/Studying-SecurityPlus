@@ -557,5 +557,61 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   - A backout plan the the plan for reversing the upgrade using things like backups and reverting to previous software system versions.
 </details>
 
+-----
+
+### Technical Change Management
+
+<details>
+  <summary>1. Who usually does the upgrades to a system?</summary>
+  - A technician
+</details>
+
+
+<details>
+  <summary>2. What is an allow list?</summary>
+  - A list of software and applications that the user is able to run on their system. Everything else will not run.
+</details>
+
+
+<details>
+  <summary>3. What is a deny list?</summary>
+  - A list of software and applications that the user is unable to run on their system. Everything else will run fine.
+</details>
+
+
+<details>
+  <summary>4. What software is commonly seen as a deny list?</summary>
+  - Anti-virus software
+</details>
+
+
+<details>
+  <summary>5. What is important about the scope when doing upgrades?</summary>
+  - It tells you what systems need to be upgraded and how long you have to complete the task. It is important that you only complete the tasks taht have been approved during the time allocated.
+</details>
+
+
+<details>
+  <summary>6. What is downtime?</summary>
+  - The length of time the system will be unavailable for.
+</details>
+
+
+<details>
+  <summary>7. What is a legacy application?</summary>
+  - An older application that is no longer supported by the developer.
+</details>
+
+
+<details>
+  <summary>8. What is classed as a dependancy system?</summary>
+  - When a system relies on other systems. This means that when you upgrade one software, you may be required to upgrade the other.
+</details>
+
+
+<details>
+  <summary>9. Why is it important to document changes?</summary>
+  - To be able to track changes and track system version and configuration.
+</details>
 
 
