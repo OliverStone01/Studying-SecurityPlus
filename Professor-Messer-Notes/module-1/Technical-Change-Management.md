@@ -1,6 +1,6 @@
 #### 🎓 Professor Messer Study Notes
 
-## Technical Change Management - CompTIA Security+ SY0-701 - 1.2
+## Technical Change Management - CompTIA Security+ SY0-701 - 1.3
 
 [Link to video](https://youtu.be/KiEptGbnEBc?si=2qBOYbbPAgQ2YOJS)
 
@@ -27,6 +27,7 @@ Legacy applications are old applications that are are no longer supported by the
 Dependencies are services or systems that rely on other systems or services. This might mean that we need to update another system before we upgrade this system.
 
 It is important that you document and track changes to a file or configuration data over time. This makes it easier to revert changes and keep track of the systems configuration.
+
 
 
 
