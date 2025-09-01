@@ -661,3 +661,59 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 </details>
 
 
+-----
+
+### Encrypting data
+
+<details>
+  <summary>1.What do we call data in storage?</summary>
+  - Data at rest
+</details>
+
+
+<details>
+  <summary>2. Name 4 devices where we can encrypt data at rest:</summary>
+  - USB drive, SSD, Hard drive, and cloud storage
+</details>
+
+
+<details>
+  <summary>3. What are the 4 types on encyption we can do to data at rest?</summary>
+  - individual file encryption, full disk encryption, record-level encryption, or transparent encryption
+</details>
+
+
+<details>
+  <summary>4. Where do you typically see record-level and transparent encryption?</summary>
+  - A database
+</details>
+
+
+<details>
+  <summary>5. What software can we use for full-disj encryption?</summary>
+  - Windows = Bitlocker, Mac = FileVault
+</details>
+
+
+<details>
+  <summary>6. What software can we use on windows to encrypt individual files?</summary>
+  - EFS (encryption file system)
+</details>
+
+
+<details>
+  <summary>7. How do we encrypt data in transport?</summary>
+  - For a browser, we can use HTTPS. Or we can use a VPN (virtual private network) to transfer data from one network to another through a encrypted tunnel.
+</details>
+
+
+<details>
+  <summary>8. Do alogrithms need to be kept secret?</summary>
+  - No, only the keys.
+</details>
+
+
+<details>
+  <summary>9. What can we do to make keys more secure?</summary>
+  - Key stretching. This is where we make the keys longer by constantly running them through a hash function multiple times.
+</details>
