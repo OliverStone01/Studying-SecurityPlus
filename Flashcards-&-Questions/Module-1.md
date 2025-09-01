@@ -717,3 +717,39 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   <summary>9. What can we do to make keys more secure?</summary>
   - Key stretching. This is where we make the keys longer by constantly running them through a hash function multiple times.
 </details>
+
+
+-----
+
+### Key exchange
+
+<details>
+  <summary>1.What is out-of-band key exchange?</summary>
+  - Exchanging keys off the internet. In person for example
+</details>
+
+
+<details>
+  <summary>2. What is in-band exchange?</summary>
+  - Exchanging keys over the internet
+</details>
+
+
+<details>
+  <summary>3. Give an example of how to do in-band exchange in a secure way:</summary>
+  - We can use asymmetric encryption to send a symmetric key to someone else.
+</details>
+
+
+<details>
+  <summary>4. What is in-band exchange commonly used for?</summary>
+  - Exchanging session keys with a server.
+</details>
+
+
+<details>
+  <summary>5.What is key exchange algorithm?</summary>
+  - This is where we take our private key and merge it with someone elses public key. Once the other person does the same with their private key and our public key, we can symmetric keys without any data going over the internet.
+</details>
+
+
