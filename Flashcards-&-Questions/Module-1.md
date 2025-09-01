@@ -615,3 +615,49 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 </details>
 
 
+-----
+
+### Public Key Infrastructure
+
+<details>
+  <summary>1. What does the public key infrastructure refer to?</summary>
+  - The procedures, hardware, and software that creates, distributes, manages, stores, and revokes digital certificates. It also referes to the binding on the public keys to people or devices.
+</details>
+
+
+<details>
+  <summary>2. What is symmetric encryption?</summary>
+  - To use the same key to encrypt and decrypt data. Sometimes referred to as secret key algorithms.
+</details>
+
+
+<details>
+  <summary>3. What is asymmetric encryption?</summary>
+  - To use two diffrent keys to encrypt and decrypt data.
+</details>
+
+
+<details>
+  <summary>4. What are the two keys used in asymmetric encryption?</summary>
+  - The public key and the private key.
+</details>
+
+
+<details>
+  <summary>5. What is a private key?</summary>
+  - The private key is supposed to be kept a secret and is the only key that can decrypt data that is encrypted by the public key.
+</details>
+
+
+<details>
+  <summary>6. What is a public key?</summary>
+  - The public key is allowed to be known to the public and can be used to encrypt data to be sent to the owner of the private key.
+</details>
+
+
+<details>
+  <summary>7. Explain how Bob would send Alice a message using asymmetric encryption.</summary>
+  - Bob would encrypt his message using Alices public key. He will then send this encrypted data to Alice who would then decrypt the message using her private key.
+</details>
+
+
