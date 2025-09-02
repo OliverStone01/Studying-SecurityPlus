@@ -1,6 +1,6 @@
 #### 🎓 Professor Messer Study Notes
 
-## Encryption Technologies - CompTIA Security+ SY0-701 - 1.2
+## Encryption Technologies - CompTIA Security+ SY0-701 - 1.4
 
 [Link to video](https://youtu.be/u61J0xR_XPU?si=Qczt-ESGMiDMG5fM)
 
@@ -29,6 +29,7 @@ To manage security on a device, we use a `Security enclave` which is a seperate 
 - Root cryptographic keys
 - Performs AES encryption in hardware
 - and much more.
+
 
 
 
