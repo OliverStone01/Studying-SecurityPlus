@@ -752,4 +752,176 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   - This is where we take our private key and merge it with someone elses public key. Once the other person does the same with their private key and our public key, we can symmetric keys without any data going over the internet.
 </details>
 
+-----
 
+### Encryption Technologies
+
+<details>
+  <summary>1. What does TPM stand for?</summary>
+  - Trusted Platform Module
+</details>
+
+
+<details>
+  <summary>2. Where is the TPM located?</summary>
+  - A chip plugged into the devices motherboard
+</details>
+
+
+<details>
+  <summary>3. What does the TPM do?</summary>
+  - It is where all cryptography takes place, creates random keys and is a random number generator
+</details>
+
+
+<details>
+  <summary>4. How many types of storage does a TPM have?</summary>
+  - 2
+</details>
+
+
+<details>
+  <summary>5. What are the 2 types of storage?</summary>
+  - Persistent memory which means keys are burned into the memory and they are unable to be removed.
+Versatile memory which is where we store our keys and hardware configuration information.
+</details>
+
+
+<details>
+  <summary>6. What type of protection does the TPM have?</summary>
+  - Password protection and is not vulnerable to dictionary attacks.
+</details>
+
+
+<details>
+  <summary>7. What would we use for large data centres instead of a TPM?</summary>
+  - HSM
+</details>
+
+
+<details>
+  <summary>8. What does HSM stand for?</summary>
+  - Hardware security module
+</details>
+
+
+<details>
+  <summary>9. Why do we use HSM instead of TPM?</summary>
+  - Provides redundancy and is able to store thousands of cryptographic keys.
+</details>
+
+
+<details>
+  <summary>10. What can we add to a HSM to improve its performance?</summary>
+  - High-end cryptographic hardware and cryptographic accelerators.
+</details>
+
+
+<details>
+  <summary>11. What do we use to manage our keys?</summary>
+  - Key management system
+</details>
+
+
+<details>
+  <summary>12. What is a Security Enclave?</summary>
+  - A processor chip separate from the main processor that only focuses on security.
+</details>
+
+
+<details>
+  <summary>13. Name 6 things a Security Enclave can do/has</summary>
+  - Has its own boot process
+  - Monitors the systems boot process
+  - True random number generator
+  - Real-time memory encryption
+  - Performs AES encryption in hardware
+</details>
+
+
+-----
+
+### Obfuscation
+
+<details>
+  <summary>1. What is obfuscation?</summary>
+  - Making something that is usually clear to understand and it very difficult to understand.
+</details>
+
+
+<details>
+  <summary>2. Is obfuscation reversible?</summary>
+  - Yes
+</details>
+
+
+<details>
+  <summary>3. What is steganography?</summary>
+  - The process of obfuscation data in an image
+</details>
+
+
+<details>
+  <summary>4. What does the word steganography mean from?</summary>
+  - Concealed writing
+</details>
+
+
+<details>
+  <summary>5. What is the data in steganography called?</summary>
+  - Cover Text
+</details>
+
+
+<details>
+  <summary>6. Give an example where you can see invisible watermarks:</summary>
+  - Printers apply small yellow dots to every print so that later we can see which devices printed the page.
+</details>
+
+
+<details>
+  <summary>7. What is audio steganography?</summary>
+  - Hiding data in audio files.
+</details>
+
+
+<details>
+  <summary>8. What is video steganography?</summary>
+  - Hiding data in video files.
+</details>
+
+
+<details>
+  <summary>9. What is tokenisation?</summary>
+  - The act of taking sensitive information and replace it with a token. This means when you are sending sensitive information over the network, if anyone intercepts the information, they will be left with a useless token number instead of your information.
+</details>
+
+
+<details>
+  <summary>10. Where is tokenisation used?</summary>
+  - Paying with cards and mobile devices.
+</details>
+
+
+<details>
+  <summary>11. Do you still need to encrypt the information?</summary>
+  - No, the token is not mathematically linked to the data so it cannot be reversed.
+</details>
+
+
+<details>
+  <summary>12. How are tokens created?</summary>
+  - We first send our payment information to a remote token service server which then returns tokens back to our device. We can then send this information to vendors when paying for items and the vender can go to the remote token service server to get your card information to pay for the items.
+</details>
+
+
+<details>
+  <summary>13. Are tokens reused?</summary>
+  - No, once they have been used, they are removed from your device.
+</details>
+
+
+<details>
+  <summary>14. What is data masking?</summary>
+  - The act of covering data to prevent others from getting access to that information. This is commonly seen on receipts with your card information.
+</details>
