@@ -949,4 +949,63 @@ Versatile memory which is where we store our keys and hardware configuration inf
 
 -----
 
+### Certificates
 
+<details>
+  <summary>1. What makes up a digital certificate?</summary>
+  - Public key and a digital signature
+</details>
+
+
+<details>
+  <summary>2. Why do we use digital signatures?</summary>
+  - To add trust that the user is who they say they are
+</details>
+
+
+<details>
+  <summary>3. What else can we use to add trust?</summary>
+  - Certificate authorities and web of trust.
+</details>
+
+
+<details>
+  <summary>4. What is a Certificate Authority?</summary>
+  - A trusted authority that signs certificates
+</details>
+
+
+<details>
+  <summary>5. What is a web of trust?</summary>
+  - The ability to trust sites because others that you trust already trust that site
+</details>
+
+
+<details>
+  <summary>6. Can you create your own certificates?</summary>
+  - Yes, You can use built in tools to the operating system.
+</details>
+
+
+<details>
+  <summary>7.What is the standard format for a digital certificate?</summary>
+  - X.509
+</details>
+
+
+<details>
+  <summary>8. What details are usually found on a digital certificate?</summary>
+  - Serial number, version, signature algorithms, issuer, name of the cert holder, public key, extensions
+</details>
+
+
+<details>
+  <summary>9. What is the root of trust?</summary>
+  - The trust we have for a site. For example, our root of trust for a website could be a certificate authority. Because we trust the security authority, we can trust the site.
+</details>
+
+
+<details>
+  <summary>10. How do we revoke certificates?</summary>
+  - We can use CRL (Certificate revocation lists) which are lists of revoked certificates. We can also use OCSP stapling (Online Certificate status protocol) which is stapled to the SSL/TLS handshake.
+</details>
