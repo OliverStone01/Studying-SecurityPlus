@@ -925,3 +925,28 @@ Versatile memory which is where we store our keys and hardware configuration inf
   <summary>14. What is data masking?</summary>
   - The act of covering data to prevent others from getting access to that information. This is commonly seen on receipts with your card information.
 </details>
+
+-----
+
+### Blockchain Technology
+
+<details>
+  <summary>1. What is a blockchain?</summary>
+  - A distributed ledger used for keeping track of transactions.
+</details>
+
+
+<details>
+  <summary>2. Who keeps record of the blockchain?</summary>
+  - Everyone on the blockchain network. Everyone has their own ledger that is updated every time a new transaction takes place.
+</details>
+
+
+<details>
+  <summary>3. What are blockchains used for?</summary>
+  - Payment processing, Digital identification, Supply chain monitoring, and digital voting.
+</details>
+
+-----
+
+
