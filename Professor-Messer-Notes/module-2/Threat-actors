@@ -1,7 +1,44 @@
 #### 🎓 Professor Messer Study Notes
 
-## Authentication, Authorisation, and Accounting - CompTIA Security+ SY0-701 - 1.2
+## Threat actors - CompTIA Security+ SY0-701 - 2.1
 
-[Link to video](https://youtu.be/AhaZtj5P2a8?si=f-7jl7BdBd1FTsaf)
+[Link to video](https://youtu.be/6xUH0t6ugIM?si=ogpwxv9Ujrv8P1Q2)
 
 ### Notes
+
+A threat actor is the entity that causes the event that has an impact on the safety of another entiry. We also call these a malicious actor.
+
+Its helpful to know who the attacker is during an attack becuase it allows you to understand why the attack is happening and whether it is a directed or random attack.
+
+There are internal and external attackers. Internal attackers could be employees. 
+
+Resources and funding is another way to characterise an attacker. If they have no money then they have limited access to resources or they may have extensive funding like a goverment hacker who will have unlimited resources.
+
+Its also good to know the level of sophistication/capability of an attacker. 
+
+Some motivations for attacks can be:
+- Data exfiltration
+- Espionage
+- Service disruption
+- Blackmail
+- Financial gane
+- Philosophical/political beliefs
+- Ethical
+- Revenge
+- Disruption/chaos
+- War
+
+Here are some attacker types and their motivations:
+
+#### Nation state hacker
+
+
+
+
+
+
+
+
+
+
+
