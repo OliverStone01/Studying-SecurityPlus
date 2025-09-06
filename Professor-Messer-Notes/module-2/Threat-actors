@@ -32,6 +32,66 @@ Here are some attacker types and their motivations:
 
 #### Nation state hacker
 
+- External entity
+
+These hackers are goverment run. They may have many diffrent motivations from Data exfiltration, Philosophical, revenge, disruption, war.
+
+Goverments have massive amounts of resources which means they can have constant attacks.
+
+APT - Advanced Persistent Threat
+
+These attackers can be highly sophisticated.
+
+-----
+
+#### Unskilled attackers
+
+Runs pre-made scripts without any knowledge of whats really happening.
+
+These attackers are usually motivated by the attack its self.
+
+These attackers can be internal or external and they are not usualy very sophisitcated as they have limited resources.
+
+No formal funding
+
+-----
+
+#### Hacktivist
+
+A hacker motivated by philosophy, revenge, disruption, etc.
+
+These attackers are often external, but could infiltrate to be an interal threat.
+
+These attackers can be remarkably sophisticated. 
+
+Funding for these hackers may be limited.
+
+-----
+
+#### Insider threat
+
+These attackers are inside the company or organisation are are usualy motivated by revenge. 
+
+They also have lots of resources becuase they have lots of information on the company/organisation 
+
+Medium level of sophisitication.
+
+-----
+
+#### Organised crime
+
+Criminals that are motivated by financial game. 
+
+These attackers are very sophisticated and organised.
+
+-----
+
+#### Shadow IT
+
+These are internal employees that go around IT and download software and build their own infrastructure without concern for Secuirty. 
+
+-----
+
 
 
 
