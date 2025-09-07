@@ -21,7 +21,7 @@ Some motivations for attacks can be:
 - Espionage
 - Service disruption
 - Blackmail
-- Financial gane
+- Financial gain
 - Philosophical/political beliefs
 - Ethical
 - Revenge
