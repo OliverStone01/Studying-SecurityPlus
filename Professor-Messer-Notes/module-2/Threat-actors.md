@@ -80,7 +80,7 @@ Medium level of sophisitication.
 
 #### Organised crime
 
-Criminals that are motivated by financial game. 
+Criminals that are motivated by financial gain. 
 
 These attackers are very sophisticated and organised.
 
