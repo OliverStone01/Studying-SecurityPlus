@@ -6,7 +6,7 @@
 
 ### Notes
 
-A buffer overflow attack is when an attacker writes more than what is expected into an area of memory this causes the access data to write into other data.
+A buffer overflow attack is when an attacker writes more than what is expected into an area of memory this causes the excess data to write into other data.
 
 Developers need to preform bounds checking to prevent this attack from happening.
 
