@@ -6,7 +6,7 @@
 
 ### Notes
 
-Malware runs in memory
+Everything running on your computer is running from memory. Malware runs in memory
 
 DLL Injection - Dynamic-link library.
 
