@@ -6,17 +6,11 @@
 
 ### Notes
 
-Everything running on your computer is running from memory. Malware runs in memory
+Malware can avoid detection by placing itself between existing processes. This also allows the malware to get the same access as the process it has injected itself into.
+
+One of the most common types of injection is DLL injecting (dynamic-link library) this is because most application can use this library. 
+
+The attacker will link the path to the infected DLL on a storage device during the application run time.
 
 DLL Injection - Dynamic-link library.
-
-DLL injection 0
-
-
-
-
-
-
-
-
 
