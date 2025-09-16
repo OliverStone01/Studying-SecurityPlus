@@ -1,6 +1,6 @@
 #### 🎓 Professor Messer Study Notes
 
-## Buffer Overflow - CompTIA Security+ SY0-701 - 2.2
+## Cryptographic attacks - CompTIA Security+ SY0-701 - 2.4
 
 [Link to video](https://youtu.be/7aJaEQy6Yoc?si=QPApK35hDBA4HtXd)
 
@@ -23,3 +23,4 @@ A downgrade attack is an example of perfectly good algorithm but the implementat
 SSL stripping is the combination of a downgrade attack and an on path attack. This strips away the encryption from HTTPS.
 
 The striping reverts https into http
+
