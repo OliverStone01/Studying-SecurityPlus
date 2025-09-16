@@ -1,6 +1,6 @@
 #### 🎓 Professor Messer Study Notes
 
-## Buffer Overflow - CompTIA Security+ SY0-701 - 2.2
+## Application attacks - CompTIA Security+ SY0-701 - 2.4
 
 [Link to video](https://youtu.be/yRSqIGjeb7s?si=E2A4iOMb8roRpMv-)
 
@@ -21,3 +21,4 @@ Privilege escalation is when an attack finds a way to gain access to admin privi
 Cross site request attacks takes advantage of the trust between browser and the web server and makes requests to the web server. 
 
 A directory traversal allows attacker to read and write files to a web server. Here they can inject malicious code and get access to other information. 
+
