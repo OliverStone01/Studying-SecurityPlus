@@ -309,8 +309,694 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+SQL Injection
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
 
 
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+-----
+
+Cross site Scripting
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+-----
+
+Hardware vulnerabilies
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+-----
+
+Virtualisation vulnerabilities
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+-----
+
+Cloud-specific vulnerabilities
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+-----
+
+Supply chain vulnerabilities
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+-----
+
+Misconfiguration vulnerabilities
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+-----
+
+Mobile Device vulnerabilities
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+-----
+
+Zero-day vulnerability
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+-----
+
+An overview of malware
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+-----
+
+Viruses and worms
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+-----
+
+Spyware and bloatware
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+-----
+
+Other malware types
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+-----
+
+Physical attacks
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+-----
+
+Denial of service
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+-----
+
+DHS attacks
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+<details>
+  <summary>N. Question</summary>
+  - Answer
+</details>
+
+
+-----
+
+Wireless attacks
 
 
 
