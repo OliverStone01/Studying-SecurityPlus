@@ -16,3 +16,4 @@ There is usually three devices involved:
 Supplicant - The client
 Authenticator - The device that provides access 
 Authentication server - Validates the clients credentials
+
