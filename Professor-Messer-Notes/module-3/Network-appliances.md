@@ -45,3 +45,4 @@ Other land balancers will work in an Active/Passive mode. This means that some o
 Sensors and collectors are used on the network for intrusion prevention systems, firewall logs, authentication logs, etc.
 
 The data from these sensors is then being sent to collectors. This might be a console (IPS, Firewall) or a SIEM console. A SIEM console allows you to report from many systems to one database and offers a powerful reporting tool.
+
