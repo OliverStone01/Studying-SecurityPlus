@@ -48,4 +48,6 @@ Network based NGLW’s will control traffic based on the application in use (Mic
 
 You can filter content and prevent users from accessing certain sites depending on what the content is on that site. 
 
-WAF (Web application firewall) analyse input into web applications and allow or disallow depending on what the input is. This allows you to detect SQL injections and block the command being sent to the web server.  
+WAF (Web application firewall) analyse input into web applications and allow or disallow depending on what the input is. This allows you to detect SQL injections and block the command being sent to the web server.
+
+
