@@ -19,3 +19,4 @@ You may be able to deploy via one admin console, or you may need to deploy indiv
 You may need to go back and edit or add to the baseline depending on if the vulnerabilities are found.
 
 You may also find that 2 manufacturers have opposing baselines and you may have decide which is the better baseline. 
+
