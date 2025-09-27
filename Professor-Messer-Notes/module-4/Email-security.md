@@ -27,3 +27,4 @@ DMARC (Domain-based Message Authentication, reporting, and conformance) specifie
 We can right a policy that tells all rejected mail to be sent to spam, accept it, or reject the email. 
 
 You can also get a compliance report that will show how many emails were received and how many were rejected.
+
