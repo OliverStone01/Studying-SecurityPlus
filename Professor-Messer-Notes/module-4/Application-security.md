@@ -30,4 +30,5 @@ Developers build their applications in a sandbox environment so that it doesn’
 
 Most developers will make build in security monitoring. This means they can track real time information and view blocked attacks like SQL injection attempts. This will create a log that can then be audited and viewed by the developers.
 
-You may also have anomaly detection which detects any unusual file transfers and a big fluctuation in client access. 
+You may also have anomaly detection which detects any unusual file transfers and a big fluctuation in client access.
+
