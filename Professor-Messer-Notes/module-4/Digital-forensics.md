@@ -33,4 +33,4 @@ Original data is preserved while analysis is performed on exact copies. This pro
 
 E-discovery is about collection.
 
-Digital forensics must be accurate and must keep integrity. Evidence must be properly acquired and preserved.
+Digital forensics must be accurate and must keep integrity. Evidence must be properly acquired and preserved. 
