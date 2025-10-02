@@ -4,7 +4,7 @@
 
 [Link to video](https://youtu.be/fFvXy3WkLpA?si=S6Dk94T7BC4fWiQM)
 
-### Notes
+### Notes 
 
 When apps are created, there is a fine balance between having enough time/getting the application out there and making sure the application is secure.
 
