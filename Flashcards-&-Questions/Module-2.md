@@ -312,32 +312,38 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 SQL Injection
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>1. What is code injection?</summary>
+  - When an attacker inputs their own code into an application.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>2. How is code injection possible?</summary>
+  - Bad programming by developers.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>3. What are the diffrent types of data injection?</summary>
+  - HTML, SQL, XML, LDAP
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>4. What does SQL stand for</summary>
+  - Structured query language
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>5. Where type of language is SQL?</summary>
+  - relational database management system language.
+</details>
+
+
+<details>
+  <summary>6. What is SQLI?</summary>
+  - SQL injection
 </details>
 
 
@@ -346,44 +352,44 @@ SQL Injection
 Cross site Scripting
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>1. What does XSS stand for?</summary>
+  - Cross site scripting
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>2. What is cross site scripting?</summary>
+  - Attackers sending/storing malicous code onto a webserver.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>3. What is the common language used with cross site scripting?</summary>
+  - JavaScript
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>4. What is non-persistent XSS attack?</summary>
+  - When an attacker injects and runs javascript on a site.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>5. What is a persistant XSS attack?</summary>
+  - An attacker injecting their code into a database that is loaded when anyone visits the site.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>6. How can you protect against XSS?</summary>
+  - Never blindly click on links, and make sure to keep your browser and applications updates.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>7. How can you protect against XSS as a developer?</summary>
+  - Validate inputs to remove scripts injected.
 </details>
 
 
