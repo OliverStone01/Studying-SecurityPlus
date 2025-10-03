@@ -6,7 +6,7 @@
 
 ### Notes
 
-Virtual machines use windows or linux operating systems and they are susceptible to similar vulnerabilities. 
+Virtual machines use windows or linux operating systems which means they are susceptible to similar vulnerabilities. 
 
 If the attacker escapes a Virtual machine, they have control of the host.
 
