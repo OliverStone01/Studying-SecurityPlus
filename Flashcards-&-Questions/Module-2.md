@@ -398,56 +398,50 @@ Cross site Scripting
 Hardware vulnerabilies
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>1. What is firmware?</summary>
+  - The software inside of the hardware.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>2. Who is able to ammend the firmware?</summary>
+  - The vendors.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>3. What does EOL stand for?</summary>
+  - End of life.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>4. What does EOSL stand for?</summary>
+  - End of service life.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>5. What is EOL?</summary>
+  - EOL is issued to a system that will no longer be sold by the vendor. 
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>6. What is EOSL?</summary>
+  - EOSL is when the software will no longer be supported by the vendor.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>7. What is a legacy platform?</summary>
+  - Devices that remain in use long after their EOSL.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
-</details>
-
-
-<details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>8. What else may you need when using legacy platforms?</summary>
+  - Additional secuirty devices or features to protect the network.
 </details>
 
 
@@ -456,33 +450,39 @@ Hardware vulnerabilies
 Virtualisation vulnerabilities
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>1. What operating systems are used on virtual machines?</summary>
+  - Windows or Linux
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>2. What is the issue with using these operating systems?</summary>
+  - We are susceptible to similar attacks.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>3. What happens if an attacker escapes a virtual machine?</summary>
+  - They control the host device.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>4. What does a hypervisor do?</summary>
+  - It manages the relationship between physical and virutal resources.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>5. name 3 resources that are managed when using a hypervisor</summary>
+  - Available RAM, storage space and CPU availability
 </details>
+
+<details>
+  <summary>6. What does DOS stand for?</summary>
+  - Denial of service.
+</details>
+
 
 
 -----
