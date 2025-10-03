@@ -490,20 +490,20 @@ Virtualisation vulnerabilities
 Cloud-specific vulnerabilities
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>1. What is a common security threat to organisations using cloud services?</summary>
+  - Not using standard security features like MFA or management consoles to manage their services.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>2. What attacks are seen on cloud services?</summary>
+  - Authentication bypass, directory traversal, remote code execution, cross site scripting, and out of bounds write.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>3. What is out of bounds write?</summary>
+  - When an attacker writes to areas that should be out of bounds causing data to crash or code to be executed.
 </details>
 
 
