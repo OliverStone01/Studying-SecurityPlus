@@ -512,32 +512,38 @@ Cloud-specific vulnerabilities
 Supply chain vulnerabilities
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>1. What is a supply chain?</summary>
+  - Taking raw materials and turning them into a final product that can be distributed to customers and consumers.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>2. At what point in the supply chain can an attacker take advantage of?</summary>
+  - All points
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>3. What are the two options for controlling your security?</summary>
+  - Self control and third party control.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>4. How do companies prevent third party security companies effecting their own security?</summary>
+  - Conducting audits.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>5. What can you do to protect against supply chain issues related to hardware?</summary>
+  - Use small suppliers that you can trust and strict controls over policies and procedures
+</details>
+
+
+<details>
+  <summary>6. What can you do to protect against software supply chain attacks?</summary>
+  - Make sure you trust the provider and use trusted open source applications.
 </details>
 
 
@@ -546,32 +552,32 @@ Supply chain vulnerabilities
 Misconfiguration vulnerabilities
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>1. What should you change when creating new systems?</summary>
+  - Change the default passwords
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>2. What can we disable to prevent attackers getting to root accounts?</summary>
+  - Disable direct login.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>3. Name 4 insecure protocols?</summary>
+  - HTTP, FTP, IMAP, and SMTP
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>4. How can you verify data is encrypted?</summary>
+  - Capture a packet of data and look for any plaintext
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>5. How can we protect open ports?</summary>
+  - Using firewalls to manage the network traffic going to the port
 </details>
 
 
@@ -580,44 +586,44 @@ Misconfiguration vulnerabilities
 Mobile Device vulnerabilities
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>1. Are Mobile devices easy or difficult to secure?</summary>
+  - Difficult, they often require extra security policies and systems.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>2. What makes mobile devices less secure?</summary>
+  - They are small and easy to conceal, they are always moving and connected to the internet, and they contain lots of sensitive information.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>3. What is the name for replacing the operating system on an android device?</summary>
+  - Rooting
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>4. What is the name for replacing the operating system on an Apple IOS device?</summary>
+  - Jailbreaking
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>5. Where are apps downloaded from?</summary>
+  - An App Store.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>6. Why do mobile devices use App Stores?</summary>
+  - App stores review code and check for malicious code when the application is added to the store.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>7. What is the name of downloading an application thats not in the App Store?</summary>
+  - Side loading
 </details>
 
 
@@ -626,14 +632,14 @@ Mobile Device vulnerabilities
 Zero-day vulnerability
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>1. What is a zero day vulnerability?</summary>
+  - A vulnerability that has been known to the vendor for zero-days.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>2. Why are zero-day vulnerabilities so powerful?</summary>
+  - Because there are no immediate patches to fix systems and they require all devices to update to patch the issue.
 </details>
 
 
@@ -642,26 +648,35 @@ Zero-day vulnerability
 An overview of malware
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>1. What is malware?</summary>
+  - Malware describes any software that is doing bad things to your system.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>2. What are all the types of malware?</summary>
+  - Keylogger
+  - Advertising
+  - Virus
+  - Worm
+  - Ransomware
+  - Trojan horse
+  - Rootkit
+  - Spyware
+  - Bloatware
+  - Logic bomb
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>3. How can you get malware?</summary>
+  - Running a program by clicking on a link, drive-by downloads, and a worm
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>4. What can you do to protect against most malware?</summary>
+  - Have a good backup off your system that you can revert to.
 </details>
 
 
@@ -670,62 +685,62 @@ An overview of malware
 Viruses and worms
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>1. How does a virus usually start?</summary>
+  - Via a link clicked on by the user.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>2. Will viruses cause issues?</summary>
+  - Not all the time. Some are hidden viruses.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>3. When does anti-virus run?</summary>
+  - All the time.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>4. What does anti-virus do?</summary>
+  - It compares and detects when executables that are run against the signature file that contains ids of malware.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>5. When and where do viruses run?</summary>
+  - When programs run, in the boot of the system, and when scripts are run in the operating system.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>6. What is a type of hidden virus?</summary>
+  - Fileless virus
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>7. How does a file less virus hide itself?</summary>
+  - By not writing or changing files in the drive
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>8. Where does a file less virus run?</summary>
+  - In memory
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>9. What makes a worm different?</summary>
+  - A worm is able to spread itself over a network without input from devices on the network.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>10. How can you protect agains worms?</summary>
+  - Firewalls and IDS/IPS systems.
 </details>
 
 
@@ -734,61 +749,61 @@ Viruses and worms
 Spyware and bloatware
 
 <details>
-  <summary>N. Question</summary>
+  <summary>1. What is spyware?</summary>
+  - Spyware is malware that spies on you by watching everything that happens on your device.
+</details>
+
+
+<details>
+  <summary>2. What is spyware used for?</summary>
+  - Monitoring you so that attackers can advertise to you, identity theft, and affiliate fraud.
+</details>
+
+
+<details>
+  <summary>3. What are the ways that spyware is installed?</summary>
+  - Tricking the user to clicking a link or by using a trojan horse
+</details>
+
+
+<details>
+  <summary>4. What is able to detect spyware?</summary>
+  - Anti-virus/anti-malware software
+</details>
+
+
+<details>
+  <summary>5. What should you use when installing software?</summary>
+  - A trusted source
+</details>
+
+
+<details>
+  <summary>6. What should you do if malware is installed on your device?</summary>
+  - Try to remove the malware or revert back to an good known backup
+</details>
+
+
+<details>
+  <summary>7. Question</summary>
   - Answer
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
+  <summary>8. Question</summary>
   - Answer
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
+  <summary>9. Question</summary>
   - Answer
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
-</details>
-
-
-<details>
-  <summary>N. Question</summary>
-  - Answer
-</details>
-
-
-<details>
-  <summary>N. Question</summary>
-  - Answer
-</details>
-
-
-<details>
-  <summary>N. Question</summary>
-  - Answer
-</details>
-
-
-<details>
-  <summary>N. Question</summary>
-  - Answer
-</details>
-
-
-<details>
-  <summary>N. Question</summary>
-  - Answer
-</details>
-
-
-<details>
-  <summary>N. Question</summary>
+  <summary>10. Question</summary>
   - Answer
 </details>
 
