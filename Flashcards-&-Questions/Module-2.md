@@ -785,26 +785,26 @@ Spyware and bloatware
 
 
 <details>
-  <summary>7. Question</summary>
-  - Answer
+  <summary>7. What is bloatware?</summary>
+  - Software that comes with the device from the vendor
 </details>
 
 
 <details>
-  <summary>8. Question</summary>
-  - Answer
+  <summary>8. Why would venders allow bloatware?</summary>
+  - They can be paid by the developers of the software.
 </details>
 
 
 <details>
-  <summary>9. Question</summary>
-  - Answer
+  <summary>9. What can bloatware do to a device?</summary>
+  - Using more resources, slowing down the device, and increasing the chance of a vulnerability.
 </details>
 
 
 <details>
-  <summary>10. Question</summary>
-  - Answer
+  <summary>10. What is the annoying thing about bloatware?</summary>
+  - It can somethings be impossible to remove this software
 </details>
 
 
