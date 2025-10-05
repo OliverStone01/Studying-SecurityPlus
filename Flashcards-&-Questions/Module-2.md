@@ -813,38 +813,38 @@ Spyware and bloatware
 Other malware types
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>1. What is a key logger?</summary>
+  - It records your key strokes and sending the information back to the attacker
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>2. What data to key loggers take?</summary>
+  - Key strokes, data in the clipboard, messages, and screenshots of your system
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>3. What is a logic bomb?</summary>
+  - A logic bomb is a script/programme waiting to run at a specific time, date, or when the user completes a specific task.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>4. Why are logic bombs difficult to identify?</summary>
+  - Because they do not have a known signature for the anti-malware software to detect
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>5. What is a rootkit?</summary>
+  - A rootkit is malware that hides in the operating system of the device.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>6. How do we protect against root kits?</summary>
+  - The device checks the OS signature before boot and checks if anything has been changed.
 </details>
 
 -----
@@ -852,43 +852,43 @@ Other malware types
 Physical attacks
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>1. What is a physical attack?</summary>
+  - Means an attack on a system physically or an organisations physical assets.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>2. What is brute force in a physical attack?</summary>
+  - Breaking down a door
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>3. What is RFID used for?</summary>
+  - Key cards and fobs
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>4. What can attackers do with RFID</summary>
+  - They can clone the data using a RFID cloner to get access to the same doors that the card you cloned.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>5. What is used to prevent this?</summary>
+  - MFA (multi factor authentication)
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>6. What is an environmental attack?</summary>
+  - An attack on the environment around the system or device you are attacking.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
+  <summary>7. Give an example of an environmental attack</summary>
   - Answer
 </details>
 
@@ -898,68 +898,68 @@ Physical attacks
 Denial of service
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>1. What is denial of service</summary>
+  - When an attacker forces a service to fail/prevent access to the service
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>2. How can a denial of service attack be done?</summary>
+  - Overloading the system with requests or taking advantage of known vulnerabilities.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>3. Who usually conducts denial of service attacks?</summary>
+  - Hackers and business competitors
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>4. Why would hackers use a Denial of service other than to take a site offline?</summary>
+  - As a smoke screen to distract while another attack takes place.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>5. What is the most way to preform a Denial of service attack?</summary>
+  - Turn off the power to the system.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>6. What does DDOS stand for?</summary>
+  - Distributed denial of service
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>7. What is a DDOS attack?</summary>
+  - When you use multiple devices to preform a denial of service attack
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>8. What is used to make DDOS attacks easier to preform?</summary>
+  - A Botnet (A large group of devices all controlled by one command)
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>9. How are Botnets created?</summary>
+  - Using malware to infect computers
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>10. List three protocols that DDOS attacks take advantage of:</summary>
+  - NTP, DNS, and ICMP
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>11. How does a DDOS attack work?</summary>
+  - The attacker must find a vulnerable/insecure DNS resolver. Then by using amplification by using the botnet, make lots of request to the site.
 </details>
 
 
@@ -968,50 +968,50 @@ Denial of service
 DHS attacks
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>1. What does DNS stand for?</summary>
+  - Domain Name Service
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>2. What does DNS do?</summary>
+  - DNS allows us to use domain names and connects them to the IP address of that site. This allows us to brand and create easy to remember URL’s instead of needing to remember IP Addresses for every site.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>3. What does a DNS poisoning attack do?</summary>
+  - The attacker is able to redirect users to different sites by changing the IP address linked to that Domain link.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>4. How are DNS poisoning attacks done?</summary>
+  - By modifying the address at the DNS server or by modifying the host file saved on the device.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>5. What does the host file do?</summary>
+  - The host file is used to remember sites that you commonly used so that you do not need to request the sites IP address each time you visit.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>6. What is domain hijacking?</summary>
+  - By registering urls that are slightly misspelled or with different top level domains (.org, .co.uk) in hopes that the user does not notice and inputs then login details or sensitive information.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>7. How do attackers make money with domain hijacking?</summary>
+  - They can either sell this domain to the official site or redirecting you to advertisement.
 </details>
 
 
 <details>
-  <summary>N. Question</summary>
-  - Answer
+  <summary>8. What is another common name for domain hijacking?</summary>
+  - Typo Squatting and brand jacking
 </details>
 
 
