@@ -309,7 +309,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-SQL Injection
+### SQL Injection
 
 <details>
   <summary>1. What is code injection?</summary>
@@ -349,7 +349,7 @@ SQL Injection
 
 -----
 
-Cross site Scripting
+### Cross site Scripting
 
 <details>
   <summary>1. What does XSS stand for?</summary>
@@ -395,7 +395,7 @@ Cross site Scripting
 
 -----
 
-Hardware vulnerabilies
+### Hardware vulnerabilies
 
 <details>
   <summary>1. What is firmware?</summary>
@@ -447,7 +447,7 @@ Hardware vulnerabilies
 
 -----
 
-Virtualisation vulnerabilities
+### Virtualisation vulnerabilities
 
 <details>
   <summary>1. What operating systems are used on virtual machines?</summary>
@@ -487,7 +487,7 @@ Virtualisation vulnerabilities
 
 -----
 
-Cloud-specific vulnerabilities
+### Cloud-specific vulnerabilities
 
 <details>
   <summary>1. What is a common security threat to organisations using cloud services?</summary>
@@ -509,7 +509,7 @@ Cloud-specific vulnerabilities
 
 -----
 
-Supply chain vulnerabilities
+### Supply chain vulnerabilities
 
 <details>
   <summary>1. What is a supply chain?</summary>
@@ -549,7 +549,7 @@ Supply chain vulnerabilities
 
 -----
 
-Misconfiguration vulnerabilities
+### Misconfiguration vulnerabilities
 
 <details>
   <summary>1. What should you change when creating new systems?</summary>
@@ -583,7 +583,7 @@ Misconfiguration vulnerabilities
 
 -----
 
-Mobile Device vulnerabilities
+### Mobile Device vulnerabilities
 
 <details>
   <summary>1. Are Mobile devices easy or difficult to secure?</summary>
@@ -629,7 +629,7 @@ Mobile Device vulnerabilities
 
 -----
 
-Zero-day vulnerability
+### Zero-day vulnerability
 
 <details>
   <summary>1. What is a zero day vulnerability?</summary>
@@ -645,7 +645,7 @@ Zero-day vulnerability
 
 -----
 
-An overview of malware
+### An overview of malware
 
 <details>
   <summary>1. What is malware?</summary>
@@ -682,7 +682,7 @@ An overview of malware
 
 -----
 
-Viruses and worms
+### Viruses and worms
 
 <details>
   <summary>1. How does a virus usually start?</summary>
@@ -746,7 +746,7 @@ Viruses and worms
 
 -----
 
-Spyware and bloatware
+### Spyware and bloatware
 
 <details>
   <summary>1. What is spyware?</summary>
@@ -810,7 +810,7 @@ Spyware and bloatware
 
 -----
 
-Other malware types
+### Other malware types
 
 <details>
   <summary>1. What is a key logger?</summary>
@@ -849,7 +849,7 @@ Other malware types
 
 -----
 
-Physical attacks
+### Physical attacks
 
 <details>
   <summary>1. What is a physical attack?</summary>
@@ -895,7 +895,7 @@ Physical attacks
 
 -----
 
-Denial of service
+### Denial of service
 
 <details>
   <summary>1. What is denial of service</summary>
@@ -965,7 +965,7 @@ Denial of service
 
 -----
 
-DHS attacks
+### DHS attacks
 
 <details>
   <summary>1. What does DNS stand for?</summary>
@@ -1017,7 +1017,7 @@ DHS attacks
 
 -----
 
-Wireless attacks
+### Wireless attacks
 
 <details>
   <summary>1. What is a wireless de-authentication attack?</summary>
@@ -1071,6 +1071,10 @@ Wireless attacks
   <summary>9. How can you detect where the attack is coming from?</summary>
   - You can use a directional antenna and a attenuator to listen to the direction of the noise.
 </details>
+
+-----
+
+
 
 
 
