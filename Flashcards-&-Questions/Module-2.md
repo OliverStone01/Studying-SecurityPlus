@@ -1180,6 +1180,25 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   - Wire shark
 </details>
 
+-----
+
+### Malicious code
+
+<details>
+  <summary>1. What types of techniques might the attacker use to exploit your system?</summary>
+  - Social engineering, Default credentials, and misconfiguration.
+</details>
+
+
+<details>
+  <summary>2. What can you do to protect against these attacks?</summary>
+  - Use anti-malware, use a firewall, update/patch systems, and train/use secure computer habits.
+</details>
+
+-----
+
+
+
 
 
 
