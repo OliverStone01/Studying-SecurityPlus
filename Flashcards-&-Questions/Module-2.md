@@ -1019,6 +1019,59 @@ DHS attacks
 
 Wireless attacks
 
+<details>
+  <summary>1. What is a wireless de-authentication attack?</summary>
+  - This is when an attacker preforms a denial of service attack that removes everyone from a wireless network.
+</details>
+
+
+<details>
+  <summary>2. What is the main vulnerability exploited when preforming a wireless attack?</summary>
+  - The frames sent across the network that are not encrypted.
+</details>
+
+
+<details>
+  <summary>3. What version fixed this vulnerability?</summary>
+  - IEEE updated this vulnerability on version 802.11ac by encrypting all frames sent over the network.
+</details>
+
+
+<details>
+  <summary>4. What is another method an attacker may use to restrict access to a network?</summary>
+  - Radio frequency jamming.
+</details>
+
+
+<details>
+  <summary>5. How does radio frequency jamming work?</summary>
+  - By sending out radio frequencies to everyone in the area. This causes noise to interrupt the packets sent between the device and the network.
+</details>
+
+
+<details>
+  <summary>6. What household devices can cause similar effects?</summary>
+  - Microwave and fluorescent lights.
+</details>
+
+
+<details>
+  <summary>7. What data is the attacker sending to cause this?</summary>
+  - It can be constant random data or legitimate frames.
+</details>
+
+
+<details>
+  <summary>8. What is the name for finding these attacks?</summary>
+  - Fox hunting
+</details>
+
+
+<details>
+  <summary>9. How can you detect where the attack is coming from?</summary>
+  - You can use a directional antenna and a attenuator to listen to the direction of the noise.
+</details>
+
 
 
 
