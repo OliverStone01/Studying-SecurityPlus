@@ -965,7 +965,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-### DHS attacks
+### DNS attacks
 
 <details>
   <summary>1. What does DNS stand for?</summary>
@@ -1074,6 +1074,64 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### On path attacks
+
+<details>
+  <summary>1. What is an on path attack?</summary>
+  - Where the attacker sits between the path of traffic between two devices.
+</details>
+
+
+<details>
+  <summary>2. What is another common name for an on path attack?</summary>
+  - A man in the middle attack
+</details>
+
+
+<details>
+  <summary>3. Why are on path attacks dangerous?</summary>
+  - Because the attacker can see all the data being send and received and they can also modify this information as it is passing.
+</details>
+
+
+<details>
+  <summary>4. What is an example of an on path attack?</summary>
+  - An ARP poisoning attack
+</details>
+
+
+<details>
+  <summary>5. Why does an ARP poisoning attack work?</summary>
+  - Because ARP did not encrypt or secure data being sent over the same subnet.
+</details>
+
+
+<details>
+  <summary>6. What is an on-path browser attack?</summary>
+  - When the attacker is on the same device as the user when preforming an on-path attack.
+</details>
+
+
+<details>
+  <summary>7. Why are on-path browser attacks more powerful?</summary>
+  - Because the data can be encrypted and the attack will still be able to see the data as it is decrypted by the users device.
+</details>
+
+
+<details>
+  <summary>8. How is a on-path browser attack setup?</summary>
+  - Installing malware on the users device that acts like a proxy where data sent or received is able to be redirected.
+</details>
+
+
+<details>
+  <summary>9. Why is this attack used?</summary>
+  - To steal login credentials 
+</details>
+
+-----
+
+### Replay attacks
 
 
 
