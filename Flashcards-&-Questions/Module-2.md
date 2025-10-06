@@ -1133,9 +1133,52 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 ### Replay attacks
 
+<details>
+  <summary>1. What is a replay attack?</summary>
+  - Where the attacker will capture data being sent between the network to replay it later to log in as you.
+</details>
 
 
+<details>
+  <summary>2. What could the attacker use to modify the data?</summary>
+  - ARP Poisoning
+</details>
 
+
+<details>
+  <summary>3. What is a common replay attack?</summary>
+  - Pass the hash
+</details>
+
+
+<details>
+  <summary>4. What is a pass the hash attack?</summary>
+  - Where the attacker is trying to capture the username and the hash value being sent to the server for validating the user.
+</details>
+
+
+<details>
+  <summary>5. How can you protect against replay attacks?</summary>
+  - You end to end encryption where possible. Otherwise use a VPN concentrator.
+</details>
+
+
+<details>
+  <summary>6. What other piece of information might the attacker try get hold of?</summary>
+  - Your cookies
+</details>
+
+
+<details>
+  <summary>7. What is session hijacking?</summary>
+  - Where the attacker steals the session ID from cookies and uses that to sign in to your account.
+</details>
+
+
+<details>
+  <summary>8. What tool can the attacker use to capture these packets?</summary>
+  - Wire shark
+</details>
 
 
 
