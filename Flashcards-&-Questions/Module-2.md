@@ -1197,6 +1197,49 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### Application attacks
+
+<details>
+  <summary>1. What is one of the easiest attacks an attacker can do on an application?</summary>
+  - Code injection
+</details>
+
+
+<details>
+  <summary>2. What is a buffer overflow?</summary>
+  - When an attacker is able to insert random data and their code into an input to overflow memory putting their code onto the system.
+</details>
+
+
+<details>
+  <summary>3. How do you protect against buffer overflow?</summary>
+  - Validate inputs
+</details>
+
+
+<details>
+  <summary>4. What is a replay attack?</summary>
+  - Where the attacker will capture data being sent between the network to replay it later to log in as you.
+</details>
+
+
+<details>
+  <summary>5. What Is privilege escalation?</summary>
+  - When an attacker is able to get access to accounts with higher privileges
+</details>
+
+
+<details>
+  <summary>6. What is a cross site request attack?</summary>
+  - The attacker takes advantage of the trust between the browser and server and makes requests to the server
+</details>
+
+
+<details>
+  <summary>7. What is a directory traversal attack?</summary>
+  - When the attacker is able to read and write files to the web server
+</details>
+
 
 
 
