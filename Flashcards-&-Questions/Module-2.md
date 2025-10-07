@@ -1431,5 +1431,92 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   - A list of software that is unable to run on a device; all other software is allowed.
 </details>
 
+-----
+
+### Common Threat Vectors
+
+<details>
+  <summary>1. What is a threat vector?</summary>
+  - A threat vector is the method used by the attacker to gain access to the system.
+</details>
+
+<details>
+  <summary>2. What are the biggest threat vectors?</summary>
+  - Email and SMS
+</details>
+
+<details>
+  <summary>3. What is a phishing attack?</summary>
+  - A message sent to someone that contains a malicious link.
+</details>
+
+<details>
+  <summary>4. What is social engineering?</summary>
+  - Using social skills to manipulate people.
+</details>
+
+<details>
+  <summary>5. Name 4 threat vectors other than email or SMS.</summary>
+  - PDF files  
+  - Image files  
+  - HTML injection  
+  - JavaScript attack code
+</details>
+
+<details>
+  <summary>6. How do developers protect against injection attacks?</summary>
+  - Providing input validation
+</details>
+
+<details>
+  <summary>7. What is vishing?</summary>
+  - Phishing over the phone
+</details>
+
+<details>
+  <summary>8. What is an air-gapped network?</summary>
+  - A network separated physically with no access to one another over the network.
+</details>
+
+<details>
+  <summary>9. How would an attacker attack an air-gapped network?</summary>
+  - Using a USB with malicious code plugged into a device within that network.  
+  - This may require dropping a USB outside the site in hopes someone picks it up and plugs it in.
+</details>
+
+<details>
+  <summary>10. What is patching?</summary>
+  - Updating systems to patch the latest vulnerabilities.
+</details>
+
+<details>
+  <summary>11. How many devices on your network would an attacker need to break into to get access to your network?</summary>
+  - One
+</details>
+
+<details>
+  <summary>12. What are outdated network security protocols?</summary>
+  - WEP, WPA, WPA2
+</details>
+
+<details>
+  <summary>13. What is a security feature you can use for wired connections?</summary>
+  - 802.1X
+</details>
+
+<details>
+  <summary>14. What type of port is a vulnerability?</summary>
+  - An open port
+</details>
+
+<details>
+  <summary>15. What should you do as soon as you receive a new device?</summary>
+  - Change the default credentials
+</details>
+
+<details>
+  <summary>16. What is an MSP?</summary>
+  - A Managed Service Provider that looks after your devices and network for you.
+</details>
 
 
