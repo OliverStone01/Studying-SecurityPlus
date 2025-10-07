@@ -1306,53 +1306,42 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   - In Clear text
 </details>
 
-
 <details>
   <summary>2. What should you do if you come across a site that is storing passwords in cleartext?</summary>
   - Stop using the site
 </details>
-
 
 <details>
   <summary>3. How should passwords be stored?</summary>
   - As a hash value
 </details>
 
-
 <details>
   <summary>4. Why should passwords be stored as a hash?</summary>
   - Because the hash is not able to be revered and the input has to be exact for the hash to match
 </details>
-
 
 <details>
   <summary>5. What is a common hashing algorithm?</summary>
   - SHA-256
 </details>
 
-
 <details>
   <summary>6. What is a spraying attack?</summary>
-  - 
+  - When an attacker tries to break into an account using the most common passwords. They will only attempt 3 times before moving on
 </details>
-
 
 <details>
-  <summary>7. </summary>
-  - 
+  <summary>7. What is a brute force attack?</summary>
+  - Where they will try every variation of a password to break Into an account.
 </details>
-
 
 <details>
-  <summary>8. </summary>
-  - 
+  <summary>8. What is the best method of a brute force attack?</summary>
+  - To get the leaked database of hash values and hash every password and its variations in order to crack the password. Doing it offline will stop the account being locked.
 </details>
 
 
-<details>
-  <summary>9. </summary>
-  - 
-</details>
 
 
 
