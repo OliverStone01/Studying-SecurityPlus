@@ -1240,8 +1240,119 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   - When the attacker is able to read and write files to the web server
 </details>
 
+-----
+
+### Cryptographic attacks
+
+<details>
+  <summary>1. What part of encryption keeps the data secure?</summary>
+  - The keys
+</details>
 
 
+<details>
+  <summary>2. Why is the algorithm for encryption shared online?</summary>
+  - So that you can check how secure and safe the algorithm is
+</details>
+
+
+<details>
+  <summary>3. What is the biggest vulnerability when it comes in encryption?</summary>
+  - Misconfiguration
+</details>
+
+
+<details>
+  <summary>4. What is a birthday hack?</summary>
+  - When two different plain text values have the same hash value
+</details>
+
+
+<details>
+  <summary>5. What is another name for a birthday attack?</summary>
+  - A collision
+</details>
+
+
+<details>
+  <summary>6. How can we prevent collisions?</summary>
+  - Increasing the length of the hash value
+</details>
+
+
+<details>
+  <summary>7. What is an algorithm we no longer use because of collisions?</summary>
+  - MD5 (Message Digest 5)
+</details>
+
+
+<details>
+  <summary>8. What is a downgrade attack?</summary>
+  - Where the algorithm being used is good, but the implementation makes it vulnerable.
+</details>
+
+
+<details>
+  <summary>9. What is SSL stripping?</summary>
+  - The combination of a downgrade attack and an on path attack as it strips away the encryption from HTTPS
+</details>
+
+-----
+
+### Password attacks
+
+<details>
+  <summary>1. What is the most dangerous way to store passwords?</summary>
+  - In Clear text
+</details>
+
+
+<details>
+  <summary>2. What should you do if you come across a site that is storing passwords in cleartext?</summary>
+  - Stop using the site
+</details>
+
+
+<details>
+  <summary>3. How should passwords be stored?</summary>
+  - As a hash value
+</details>
+
+
+<details>
+  <summary>4. Why should passwords be stored as a hash?</summary>
+  - Because the hash is not able to be revered and the input has to be exact for the hash to match
+</details>
+
+
+<details>
+  <summary>5. What is a common hashing algorithm?</summary>
+  - SHA-256
+</details>
+
+
+<details>
+  <summary>6. What is a spraying attack?</summary>
+  - 
+</details>
+
+
+<details>
+  <summary>7. </summary>
+  - 
+</details>
+
+
+<details>
+  <summary>8. </summary>
+  - 
+</details>
+
+
+<details>
+  <summary>9. </summary>
+  - 
+</details>
 
 
 
