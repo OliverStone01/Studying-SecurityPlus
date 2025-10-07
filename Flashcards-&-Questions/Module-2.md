@@ -1341,6 +1341,51 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   - To get the leaked database of hash values and hash every password and its variations in order to crack the password. Doing it offline will stop the account being locked.
 </details>
 
+-----
+
+### Indicators of Compromise
+
+<details>
+  <summary>1. What does IOC stand for?</summary>
+  - Indicators of Compromise
+</details>
+
+<details>
+  <summary>2. What are some indicators?</summary>
+  - Unusual amount of network activity  
+  - Change to file hash values  
+  - Irregular international traffic (checking the login logs)  
+  - Changes to DNS data  
+  - Uncommon login patterns  
+  - Account lockout due to incorrect password  
+  - Account locked so the attacker can social engineer the help desk  
+  - Disabled updates to prevent vulnerabilities being patched
+</details>
+
+<details>
+  <summary>3. What is usually the first sign of compromise?</summary>
+  - High amounts of unusual data or a service/system going down
+</details>
+
+<details>
+  <summary>4. What does it mean if you begin to see your files encrypted without your doing?</summary>
+  - The start of a ransomware attack
+</details>
+
+<details>
+  <summary>5. What is out-of-cycle logging?</summary>
+  - When logs are found with large amounts of traffic in quiet times
+</details>
+
+<details>
+  <summary>6. What would missing logs be an indicator of?</summary>
+  - Someone trying to cover their tracks
+</details>
+
+<details>
+  <summary>7. If the attacker has covered all their tracks, when will you find out about the attack?</summary>
+  - When the data is published online
+</details>
 
 
 
