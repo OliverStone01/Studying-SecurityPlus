@@ -1387,6 +1387,49 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   - When the data is published online
 </details>
 
+-----
+
+### Segmentation and Access Control
+
+<details>
+  <summary>1. What is a good method of controlling your network in case of a breach?</summary>
+  - Segmenting your network so that if one area is breached, the attacker does not gain access to the entire network.
+</details>
+
+<details>
+  <summary>2. What are the three types of segmentation?</summary>
+  - Physical, Logical, or Virtual
+</details>
+
+<details>
+  <summary>3. What is the other benefit of segmentation?</summary>
+  - Performance
+</details>
+
+<details>
+  <summary>4. Why might you be required to segment your network?</summary>
+  - Compliance purposes
+</details>
+
+<details>
+  <summary>5. What does ACL stand for?</summary>
+  - Access Control List
+</details>
+
+<details>
+  <summary>6. What is an ACL list?</summary>
+  - An access control list allows you to allow or disallow traffic based on the source IP, the destination IP, port number, time of day, and the applications.
+</details>
+
+<details>
+  <summary>7. What is an allow list?</summary>
+  - An allow list is a list of software that is able to run on a device; all other software will not work.
+</details>
+
+<details>
+  <summary>8. What is a deny list?</summary>
+  - A list of software that is unable to run on a device; all other software is allowed.
+</details>
 
 
 
