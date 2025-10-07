@@ -1650,4 +1650,48 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   - Multi-factor authentication (MFA)
 </details>
 
+-----
+
+### Mitigation Techniques
+
+<details>
+  <summary>1. What is mitigation?</summary>
+  - The process of reducing the impact or potential impact of an attack.
+</details>
+
+<details>
+  <summary>2. What does patching your device do?</summary>
+  - Keeps your device up to date with the latest security updates.
+</details>
+
+<details>
+  <summary>3. What is a method for protecting data at rest?</summary>
+  - Encrypting the data at rest.
+</details>
+
+<details>
+  <summary>4. What should you do if the device is leaving the building?</summary>
+  - Turn on full-disk encryption.
+</details>
+
+<details>
+  <summary>5. What is least privilege?</summary>
+  - Users only have access to what they need.  
+  - This prevents attackers from gaining access to the entire system if they get access to this account.
+</details>
+
+<details>
+  <summary>6. What is a posture assessment?</summary>
+  - A posture assessment is performed when a new device is added to check the level of security.
+</details>
+
+<details>
+  <summary>7. What happens if a device fails a posture assessment?</summary>
+  - The device may be quarantined until it is updated or additional security controls have been added.
+</details>
+
+<details>
+  <summary>8. What type of process needs to be taken when decommissioning a device?</summary>
+  - A formal process needs to be taken to prevent any data or information leaks.
+</details>
 
