@@ -1519,4 +1519,135 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   - A Managed Service Provider that looks after your devices and network for you.
 </details>
 
+-----
+
+### Hardening Techniques
+
+<details>
+  <summary>1. What is system hardening?</summary>
+  - The process of securing an operating system by reducing vulnerabilities and keeping systems and applications up to date.
+</details>
+
+<details>
+  <summary>2. Why is it important to update systems and applications?</summary>
+  - Updates patch vulnerabilities.
+</details>
+
+<details>
+  <summary>3. What is the purpose of enforcing password complexity?</summary>
+  - To make passwords harder to guess or crack.
+</details>
+
+<details>
+  <summary>4. What are the 4 requirements for password complexity?</summary>
+  - Minimum password length  
+  - Numbers  
+  - Capital letters  
+  - Special characters
+</details>
+
+<details>
+  <summary>5. Why should you limit account permissions?</summary>
+  - To reduce the amount of access an attacker would have if they compromised an account.
+</details>
+
+<details>
+  <summary>6. Why should you install anti-virus and anti-malware?</summary>
+  - To detect and remove malicious software from your devices.
+</details>
+
+<details>
+  <summary>7. Why should data at rest be encrypted?</summary>
+  - To prevent attackers from being able to read the data on a stolen database.
+</details>
+
+<details>
+  <summary>8. How can data in transit be protected from attackers?</summary>
+  - By encrypting network traffic using a VPN.
+</details>
+
+<details>
+  <summary>9. What is Endpoint Detection and Response (EDR)?</summary>
+  - It detects and responds to threats on endpoints using advanced analysis methods.
+</details>
+
+<details>
+  <summary>10. What detection methods does EDR use?</summary>
+  - Signature detection  
+  - Behavioural analysis  
+  - Machine learning  
+  - Process monitoring
+</details>
+
+<details>
+  <summary>11. What is root cause analysis in the context of EDR?</summary>
+  - The process of identifying how and why a malicious event occurred.
+</details>
+
+<details>
+  <summary>12. What actions can EDR take once a threat is detected?</summary>
+  - It can isolate the system, quarantine the threat, or roll back to a previous configuration.
+</details>
+
+<details>
+  <summary>13. How can EDR automate its responses?</summary>
+  - Using APIs to act without needing technical intervention.
+</details>
+
+<details>
+  <summary>14. What does a host-based firewall do?</summary>
+  - Controls incoming and outgoing traffic on a device, allowing or blocking connections based on rules.
+</details>
+
+<details>
+  <summary>15. How can host-based firewalls be managed?</summary>
+  - Either locally on the device or centrally from a main management system.
+</details>
+
+<details>
+  <summary>16. What does HIPS stand for?</summary>
+  - Host-based Intrusion Prevention System.
+</details>
+
+<details>
+  <summary>17. What is a host-based intrusion prevention system?</summary>
+  - A security tool that detects and blocks known attacks on a host system.
+</details>
+
+<details>
+  <summary>18. What types of attacks can a HIPS detect?</summary>
+  - Signatures  
+  - Heuristics  
+  - Behavioural patterns  
+  - Buffer overflow  
+  - Registry updates  
+  - File modifications  
+  - Access to unencrypted data
+</details>
+
+<details>
+  <summary>19. Why should you keep as few ports open as possible?</summary>
+  - Open ports can be exploited by attackers.
+</details>
+
+<details>
+  <summary>20. What is the range of port numbers?</summary>
+  - 0 to 65,535
+</details>
+
+<details>
+  <summary>21. What is Nmap used for?</summary>
+  - Scanning and monitoring open ports.
+</details>
+
+<details>
+  <summary>22. Why should default passwords be changed?</summary>
+  - Attackers often exploit default credentials to gain access to systems.
+</details>
+
+<details>
+  <summary>23. What additional layer of login protection can be added?</summary>
+  - Multi-factor authentication (MFA)
+</details>
+
 
