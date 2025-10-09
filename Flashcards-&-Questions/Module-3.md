@@ -83,7 +83,22 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-### Capacity planning
+### Capacity Planning
+
+<details>
+  <summary>1. What is capacity planning?</summary>
+  - Finding the right amount of supply to meet the demand your server or site might need.
+</details>
+
+<details>
+  <summary>2. What is the benefit of capacity planning?</summary>
+  - You are not overpaying for resources you are not using, but you also have enough resources to prevent your site from crashing.
+</details>
+
+<details>
+  <summary>3. What are the two places you can do capacity planning?</summary>
+  - Technology and employees.
+</details>
 
 
 -----
