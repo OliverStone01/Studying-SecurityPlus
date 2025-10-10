@@ -8,7 +8,7 @@
 
 A main concern with network security is the ability for an attacker to move from one device to another.
 
-We a use physical isolation such has air gaps where we have two devices not connected at all to each other. This means the attacker cannot get access to device a if they gain access to device b.
+We a use physical isolation such as air gaps where we have two devices not connected at all to each other. This means the attacker cannot get access to device a if they gain access to device b.
 
 You may see this with web servers and databases where the web server is in one rack and the database is in another.
 
