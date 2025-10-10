@@ -24,7 +24,7 @@ A transparent proxy is a proxy that the end user does not know exists. It sits b
 
 A very simple proxy is a NAT. But the most used proxies are application level proxies. These proxies understands the application protocols.
 
-Most proxies are multipurpose Andean be used for multiple protocols (HTTP, HTTPS, FTP)
+Most proxies are multipurpose and can be used for multiple protocols (HTTP, HTTPS, FTP)
 
 A forward proxy is a proxy used to control outbound data to the internet. This is sometimes known as an internal proxy. 
 
