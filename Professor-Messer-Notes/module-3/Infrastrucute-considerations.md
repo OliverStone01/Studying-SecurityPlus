@@ -30,7 +30,7 @@ When deploying the application, it’s important to look at the hardware resourc
 
 The process of automating deployment is known as Orchestration.
 
-To minimise the risk of systems, more organisations will transfer the risk to a third-party. To do this, they will tae out cybersecurity insurance which covers attacks and downtimes. This has been on the rise with ransomware. Some insurances may even cover you for the cost of loss of business. Some will also cover and protect against legal issues. 
+To minimise the risk of systems, more organisations will transfer the risk to a third-party. To do this, they will take out cybersecurity insurance which covers the cost of an attacks and downtime. This has been on the rise with ransomware. Some insurances may even cover you for the cost of loss of business. Some will also cover and protect against legal issues. 
 
 Checking for patches and updates is usually the first thing we do after installation. 
 
