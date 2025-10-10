@@ -40,7 +40,7 @@ Most load balancers are running in Active/Active mode. This means that all the s
 
 The load balancer can also manage SSL encrypting and decrypting the data as it is sent back and forth.
 
-Other land balancers will work in an Active/Passive mode. This means that some of the servers are ready to work and be used by the load balancer and there are other servers that are not currently being used. If the active server fails, then the balancer begins to send data to the server on stand by. 
+Other load balancers will work in an Active/Passive mode. This means that some of the servers are ready to work and be used by the load balancer and there are other servers that are not currently being used. If the active server fails, then the balancer begins to send data to the server on stand by. 
 
 Sensors and collectors are used on the network for intrusion prevention systems, firewall logs, authentication logs, etc.
 
