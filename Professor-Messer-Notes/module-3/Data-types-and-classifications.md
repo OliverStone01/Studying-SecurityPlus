@@ -22,7 +22,7 @@ Financial information would classify as sensitive information and will need to b
 
 Human-readable means the data is stored in plain text and can be read by any human that understands the language it is written in.
 
-Non-human-readable would be something barcodes and encoded data. This data is stored in a way that a human can’t easily read or understand.
+Non-human-readable would be barcodes and encoded data. This data is stored in a way that a human can’t easily read or understand.
 
 Some data types are a hybrid of both human readable and non-human readable. For example, CSV, XML, JSON, etc. a barcode for example has the numbers written below making it a hybrid. 
 
