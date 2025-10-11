@@ -105,6 +105,82 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 ### Cloud Infrastructure
 
+<details>
+  <summary>1. What type of cloud service is IaaS?</summary>
+  - Infrastructure as a Service
+</details>
+
+<details>
+  <summary>2. What type of cloud service is PaaS?</summary>
+  - Platform as a Service
+</details>
+
+<details>
+  <summary>3. What type of cloud service is SaaS?</summary>
+  - Software as a Service
+</details>
+
+<details>
+  <summary>4. What is a matrix of responsibilities?</summary>
+  - Something the cloud provider will give to you that outlines who’s responsible for what.
+</details>
+
+<details>
+  <summary>5. What is a hybrid cloud?</summary>
+  - When an organisation is using multiple clouds for the organisation.
+</details>
+
+<details>
+  <summary>6. What are the difficulties when setting up a hybrid cloud?</summary>
+  - Not all cloud services communicate together automatically and will require setup.  
+  - They also write different logs with different terminology.
+</details>
+
+<details>
+  <summary>7. What is the risk of a hybrid cloud?</summary>
+  - Data being leaked as it is traversed over the internet.
+</details>
+
+<details>
+  <summary>8. Why might you need a vendor risk management policy?</summary>
+  - If you want to add third-party services like a firewall to your cloud service.
+</details>
+
+<details>
+  <summary>9. What else might you need if you are adding third-party services to your cloud services?</summary>
+  - A third-party impact plan for incident response.
+</details>
+
+<details>
+  <summary>10. When setting up your cloud-based services, what do you need to write out in code?</summary>
+  - Your infrastructure.
+</details>
+
+<details>
+  <summary>11. What is a serverless architecture?</summary>
+  - A serverless setup.
+</details>
+
+<details>
+  <summary>12. What type of cloud service can be used on a serverless setup?</summary>
+  - FaaS (Function as a Service)
+</details>
+
+<details>
+  <summary>13. What does FaaS do?</summary>
+  - It runs small functions for our application.
+</details>
+
+<details>
+  <summary>14. What is a monolithic application?</summary>
+  - An application that does everything.
+</details>
+
+<details>
+  <summary>15. Give an example of a microservice.</summary>
+  - An API (Application Programming Interface) — these give our apps third-party functionality.
+</details>
+
 
 -----
 
