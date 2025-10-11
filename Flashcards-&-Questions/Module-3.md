@@ -497,8 +497,68 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 -----
+### Network Infrastructure Concepts
 
-### Network infrastructure concepts
+<details>
+  <summary>1. What is an air gap?</summary>
+  - When we use physical isolation to split devices. This prevents attackers from automatically getting access to the entire system.
+</details>
+
+<details>
+  <summary>2. Where are air gaps commonly seen?</summary>
+  - Web servers and databases.
+</details>
+
+<details>
+  <summary>3. What device can you use to air gap two systems in the same server rack?</summary>
+  - A network switch.
+</details>
+
+<details>
+  <summary>4. What would you use if you had many devices you need to air gap?</summary>
+  - VLAN (Virtual Local Area Network)
+</details>
+
+<details>
+  <summary>5. What does a VLAN do?</summary>
+  - A VLAN allows you to segment your switch into separate local networks.  
+    This is useful because VLANs are unable to directly talk to one another, making them similar to a physical air gap.
+</details>
+
+<details>
+  <summary>6. What is the name of the process of devices like switches and routers performing multiple actions simultaneously?</summary>
+  - The planes of operation.
+</details>
+
+<details>
+  <summary>7. What is SDN?</summary>
+  - Software Defined Networking.
+</details>
+
+<details>
+  <summary>8. What does SDN do?</summary>
+  - Dynamically manages the planes of operation in cloud networks.
+</details>
+
+<details>
+  <summary>9. What are the three planes of operation?</summary>
+  - Data plane, Control plane, and Management plane.
+</details>
+
+<details>
+  <summary>10. What is the data plane?</summary>
+  - The data plane handles all the routing, forwarding, encrypting, and processing of frames — anything related to data processing.
+</details>
+
+<details>
+  <summary>11. What is the control plane?</summary>
+  - The control plane manages how data is transferred between devices, including routing decisions and path selection.
+</details>
+
+<details>
+  <summary>12. What is the management plane?</summary>
+  - The management plane controls how you connect to and manage devices via SSH, browser, or API connections.
+</details>
 
 
 -----
