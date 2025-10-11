@@ -348,7 +348,107 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-### Infrastructure considerations
+### Infrastructure Considerations
+
+<details>
+  <summary>1. What is availability?</summary>
+  - The site and its data are always available to authorised users.
+</details>
+
+<details>
+  <summary>2. What is uptime?</summary>
+  - The measurement of how long your services are available.
+</details>
+
+<details>
+  <summary>3. What is resilience?</summary>
+  - How quickly you are able to get your systems back online.
+</details>
+
+<details>
+  <summary>4. What is the typical metric used to measure resilience?</summary>
+  - Mean Time To Repair (MTTR).
+</details>
+
+<details>
+  <summary>5. What process needs to be followed to get the site back up?</summary>
+  - Find the root cause, replace any damaged hardware, patch software, and sort any redundant systems.
+</details>
+
+<details>
+  <summary>6. What is a major consideration when looking at installing new software and hardware?</summary>
+  - Cost of purchasing, installation, security, operation, and maintenance.
+</details>
+
+<details>
+  <summary>7. What is responsiveness?</summary>
+  - How quickly you get a response from the server or service.
+</details>
+
+<details>
+  <summary>8. What is scalability?</summary>
+  - How easy it is to increase or decrease capacity depending on demand.
+</details>
+
+<details>
+  <summary>9. What is elasticity in scalability?</summary>
+  - How quickly we can increase or decrease the capacity.
+</details>
+
+<details>
+  <summary>10. What are the four main parts of an application?</summary>
+  - Web server  
+  - Database  
+  - Caching server  
+  - Firewall
+</details>
+
+<details>
+  <summary>11. When deploying an application, what are the three important things to look at?</summary>
+  - Hardware resources  
+  - Cloud budgets  
+  - Change controls
+</details>
+
+<details>
+  <summary>12. What is orchestration?</summary>
+  - The process of automating deployment.
+</details>
+
+<details>
+  <summary>13. What may an organisation buy to protect the cost of an attack or downtime?</summary>
+  - Cybersecurity insurance.
+</details>
+
+<details>
+  <summary>14. What is the first thing you should do after an installation?</summary>
+  - Check for patches and updates.
+</details>
+
+<details>
+  <summary>15. Why can’t some embedded systems be patched or updated?</summary>
+  - Some of them are not connected to the Internet.
+</details>
+
+<details>
+  <summary>16. What should you do if you are using embedded systems that cannot be patched?</summary>
+  - Apply additional security measures.
+</details>
+
+<details>
+  <summary>17. What is something you should check before upgrading hardware?</summary>
+  - Check power availability.
+</details>
+
+<details>
+  <summary>18. What is a UPS?</summary>
+  - Uninterruptible Power Supply — keeps your systems running if the power goes out (large battery store).
+</details>
+
+<details>
+  <summary>19. What is compute power?</summary>
+  - The amount of computing power your device has. The more available, the quicker requests are processed.
+</details>
 
 
 -----
