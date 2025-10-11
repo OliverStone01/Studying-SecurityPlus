@@ -563,7 +563,120 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-### Network applicances
+### Network Appliances
+
+<details>
+  <summary>1. What device can you access on a network?</summary>
+  - A jump server.
+</details>
+
+<details>
+  <summary>2. What is a jump server?</summary>
+  - A jump server is a device on a network that can be connected to from outside the network.  
+    It has extreme security and limited access.
+</details>
+
+<details>
+  <summary>3. How does a jump server allow you to make changes to devices on the network?</summary>
+  - You connect to the jump server, and the jump server uses SSH or a VPN to make changes on other devices.
+</details>
+
+<details>
+  <summary>4. What is a proxy server?</summary>
+  - A proxy server sits between devices and makes requests on behalf of the devices it’s connected to.
+</details>
+
+<details>
+  <summary>5. Where are proxy servers commonly seen?</summary>
+  - Between a device and the internet.
+</details>
+
+<details>
+  <summary>6. Explain the process of using a proxy server.</summary>
+  - The device makes a request which is sent to the proxy server.  
+    The proxy server then makes the request, receives the data, checks for malicious code, and sends it to the device (or rejects it).
+</details>
+
+<details>
+  <summary>7. What is caching on a proxy server?</summary>
+  - Proxy servers cache requests so that repeated queries can be served faster without making the same request again.
+</details>
+
+<details>
+  <summary>8. What other feature do proxy servers have?</summary>
+  - URL filtering — allowing or blocking users from accessing specific sites.
+</details>
+
+<details>
+  <summary>9. What is an explicit proxy?</summary>
+  - A proxy that needs to be configured manually in the application or operating system.
+</details>
+
+<details>
+  <summary>10. What is a transparent proxy?</summary>
+  - A proxy that the end user is unaware of; it automatically operates between the user and the internet without manual configuration.
+</details>
+
+<details>
+  <summary>11. What proxies understand the application protocols?</summary>
+  - Application layer proxies.
+</details>
+
+<details>
+  <summary>12. What is a very simple proxy?</summary>
+  - NAT (Network Address Translation).
+</details>
+
+<details>
+  <summary>13. What is a forward proxy?</summary>
+  - A proxy used to control outbound traffic (sometimes called an internal proxy).
+</details>
+
+<details>
+  <summary>14. What is the opposite of a forward proxy?</summary>
+  - A reverse proxy.
+</details>
+
+<details>
+  <summary>15. What is an open proxy?</summary>
+  - A proxy that is open to anyone on the internet — extremely insecure.
+</details>
+
+<details>
+  <summary>16. What is a load balancer?</summary>
+  - Distributes requests made to a web server across multiple servers to reduce load and improve response time.
+</details>
+
+<details>
+  <summary>17. What does it mean if a load balancer is running in active/active mode?</summary>
+  - All servers are being used by the load balancer.
+</details>
+
+<details>
+  <summary>18. What is TCP offloading?</summary>
+  - When using load balancers, TCP connections can be reused instead of creating a new one for every request.
+</details>
+
+<details>
+  <summary>19. What is another feature of load balancers that involves encryption?</summary>
+  - Load balancers can manage SSL encryption and decryption for traffic between clients and servers.
+</details>
+
+<details>
+  <summary>20. What does it mean when a load balancer is setup in an active/passive setup?</summary>
+  - Some servers handle traffic while others remain on standby to take over if a primary server fails.
+</details>
+
+<details>
+  <summary>21. What are sensors and collectors?</summary>
+  - Sensors are detection tools like IDS.  
+    Collectors (like SIEM tools) receive and analyze data from these sensors.
+</details>
+
+<details>
+  <summary>22. What is a SIEM tool?</summary>
+  - A Security Information and Event Management (SIEM) tool provides a live dashboard that collects logs and data from sensors and applications to monitor for threats and vulnerabilities.
+</details>
 
 
 -----
