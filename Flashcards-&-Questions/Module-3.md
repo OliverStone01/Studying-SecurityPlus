@@ -184,7 +184,64 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-### Data types and classifications
+### Data Types and Classifications
+
+<details>
+  <summary>1. What is one of the most valued things in a company?</summary>
+  - Its data.
+</details>
+
+<details>
+  <summary>2. What is regulated data?</summary>
+  - Data that is regulated by a third party by setting rules and laws on how the data must be stored and used to protect the user or consumer.
+</details>
+
+<details>
+  <summary>3. Give two examples of regulated data.</summary>
+  - PCI DSS (Payment Card Information Data Security Standard) — protects stored card information.  
+  - HIPAA (Health Insurance Portability and Accountability Act) — protects health information.
+</details>
+
+<details>
+  <summary>4. What is a trade secret?</summary>
+  - A secret formula held by an organisation to give the organisation an edge against the market.
+</details>
+
+<details>
+  <summary>5. What is intellectual property?</summary>
+  - Information that can be seen but is protected from copyright or being used without authorisation.
+</details>
+
+<details>
+  <summary>6. Under which category does legal information fall under?</summary>
+  - Both. Some information may be released to the public and some might be confidential.
+</details>
+
+<details>
+  <summary>7. How is legal information stored?</summary>
+  - In two different locations to prevent data leaks.
+</details>
+
+<details>
+  <summary>8. What category does financial information fall under?</summary>
+  - Sensitive information that must be kept confidential unless authorised.
+</details>
+
+<details>
+  <summary>9. What is human-readable data?</summary>
+  - Data stored in plain text that is readable to any human.
+</details>
+
+<details>
+  <summary>10. Give two examples of non-human-readable data.</summary>
+  - Barcodes  
+  - Encoded data
+</details>
+
+<details>
+  <summary>11. Give an example of a hybrid between non-human and human-readable data.</summary>
+  - Some barcodes contain the numbers under the barcode itself.
+</details>
 
 
 -----
