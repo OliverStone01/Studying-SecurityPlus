@@ -453,7 +453,47 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-### Intrusion prevention
+### Intrusion Prevention
+
+<details>
+  <summary>1. What is an IPS?</summary>
+  - Intrusion Prevention System
+</details>
+
+<details>
+  <summary>2. What does an IPS do?</summary>
+  - Watches traffic traversing the network in real time and blocks malicious traffic automatically.
+</details>
+
+<details>
+  <summary>3. What is an IDS?</summary>
+  - Intrusion Detection System — detects malicious activity and alerts the user instead of automatically blocking it.
+</details>
+
+<details>
+  <summary>4. Where are IPS/IDS devices placed?</summary>
+  - Inline between the user's device and the internet.
+</details>
+
+<details>
+  <summary>5. List the order where an IPS system would sit.</summary>
+  - Internet → Firewall → IPS → Core Switch
+</details>
+
+<details>
+  <summary>6. What is fail-open?</summary>
+  - If an IPS device fails, the traffic will still be able to flow through the device.
+</details>
+
+<details>
+  <summary>7. What is fail-close?</summary>
+  - If an IPS device fails, all traffic will be blocked and no data will be able to enter.
+</details>
+
+<details>
+  <summary>8. Why do some organisations use passive monitoring instead of an IPS?</summary>
+  - Because they believe an IPS can be too invasive and may sometimes block safe traffic.
+</details>
 
 
 -----
