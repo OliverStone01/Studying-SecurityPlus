@@ -246,7 +246,104 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-### Firewall types
+### Firewall Types
+
+<details>
+  <summary>1. What are firewalls used for?</summary>
+  - To control the flow of network traffic between two points.
+</details>
+
+<details>
+  <summary>2. What is a common role of a firewall?</summary>
+  - Allowing or preventing users from accessing specific sites and blocking malicious data being sent to the device.
+</details>
+
+<details>
+  <summary>3. How can network-based firewalls filter traffic?</summary>
+  - By port number or application.
+</details>
+
+<details>
+  <summary>4. What layer of the OSI model do traditional firewalls operate on?</summary>
+  - Layer 4
+</details>
+
+<details>
+  <summary>5. What layer of the OSI model do newer firewalls operate on?</summary>
+  - Layer 7
+</details>
+
+<details>
+  <summary>6. What device can firewalls mimic?</summary>
+  - A layer 3 router routing traffic on the edge of a network.
+</details>
+
+<details>
+  <summary>7. What other functionality do firewalls get at layer 3?</summary>
+  - Network Address Translation (NAT)
+</details>
+
+<details>
+  <summary>8. What is a UTM?</summary>
+  - Unified Threat Management — an all-in-one firewall security device.  
+  - Sometimes known as a web security gateway.
+</details>
+
+<details>
+  <summary>9. List nine UTM features.</summary>
+  - URL filtering  
+  - Malware inspection tools  
+  - Spam filters  
+  - CSU/DSU  
+  - Router/switch  
+  - Firewall  
+  - IDS/IPS  
+  - Bandwidth shaper  
+  - VPN endpoint
+</details>
+
+<details>
+  <summary>10. What was the main issue with UTM devices?</summary>
+  - They could only run a few features at the same time before they would either slow the network or crash.
+</details>
+
+<details>
+  <summary>11. What is the name of a modern firewall?</summary>
+  - NGFW (Next Generation Firewall)
+</details>
+
+<details>
+  <summary>12. What layer do NGFWs work on?</summary>
+  - Layer 7 (Application Layer)
+</details>
+
+<details>
+  <summary>13. What are the other 3 names for an NGFW?</summary>
+  - Application Layer Gateway  
+  - Stateful Multilayer Inspection  
+  - Deep Packet Inspection
+</details>
+
+<details>
+  <summary>14. How do NGFWs work?</summary>
+  - They look at and analyse all packets sent over the network, categorising them into allowed and denied.
+</details>
+
+<details>
+  <summary>15. How do NGFWs control traffic?</summary>
+  - They are based on what application is in use.  
+  - From preset filters, they filter out what the user can and cannot view.
+</details>
+
+<details>
+  <summary>16. What is a WAF?</summary>
+  - Web Application Firewall — it analyses input into a web application and either allows or denies depending on what the user input was.
+</details>
+
+<details>
+  <summary>17. Why might you use a WAF?</summary>
+  - To protect against SQL injection attacks.
+</details>
 
 
 -----
