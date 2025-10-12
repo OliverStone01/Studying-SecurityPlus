@@ -716,7 +716,25 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-### Power resiliency
+### Power Resiliency
+
+<details>
+  <summary>1. What is a UPS?</summary>
+  - Uninterruptible Power Supply (UPS).  
+    Keeps your systems running if the power goes out by using a large battery store.
+</details>
+
+<details>
+  <summary>2. What are the three types of UPS?</summary>
+  - Offline/Standby UPS  
+  - Line-Interactive UPS  
+  - On-line/Double Conversion UPS
+</details>
+
+<details>
+  <summary>3. What is a generator?</summary>
+  - A generator turns fuel into electricity and can provide power for short-term or long-term outages.
+</details>
 
 
 -----
