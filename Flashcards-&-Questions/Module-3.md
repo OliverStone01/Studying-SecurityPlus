@@ -681,7 +681,157 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-### Other infrastructure concepts
+### Other Infrastructure Concepts
+
+<details>
+  <summary>1. What do you not need to own if you are using cloud-based security?</summary>
+  - Any dedicated hardware.
+</details>
+
+<details>
+  <summary>2. What does it mean when you are using cloud-based security?</summary>
+  - All your security is centralised and controlled by a third-party cloud network provider.
+</details>
+
+<details>
+  <summary>3. What is on-premises security?</summary>
+  - Security that you control and manage locally within your organisation.
+</details>
+
+<details>
+  <summary>4. What are the benefits to on-premises security?</summary>
+  - You can control every piece of security yourself.
+</details>
+
+<details>
+  <summary>5. What are the downsides to on-premises security?</summary>
+  - It takes time to scale up and you must manage any security threats manually.
+</details>
+
+<details>
+  <summary>6. What does it mean if an organisation is physically decentralised?</summary>
+  - They have many different locations, cloud services, and operating systems — all controlled in different places and using different methods.
+</details>
+
+<details>
+  <summary>7. What should these organisations create?</summary>
+  - A centralised security system managed from one central hub.
+</details>
+
+<details>
+  <summary>8. What is virtualisation?</summary>
+  - Virtualisation allows systems to be built and torn down online as needed.
+</details>
+
+<details>
+  <summary>9. How do we create virtualisation?</summary>
+  - One device (the infrastructure) powers multiple systems using a hypervisor that splits it into multiple virtual systems.
+</details>
+
+<details>
+  <summary>10. What will each virtual system require?</summary>
+  - Its own operating system.
+</details>
+
+<details>
+  <summary>11. What are containers?</summary>
+  - Containers allow you to run multiple applications on one device without creating separate virtual machines for each.
+</details>
+
+<details>
+  <summary>12. How do containers work?</summary>
+  - The main device runs a host operating system, which runs container software that manages and isolates each application.
+</details>
+
+<details>
+  <summary>13. What is a popular container software?</summary>
+  - Docker.
+</details>
+
+<details>
+  <summary>14. What does IoT stand for?</summary>
+  - Internet of Things.
+</details>
+
+<details>
+  <summary>15. What are IoTs?</summary>
+  - Devices connected to the internet that you use in everyday life — including sensors, smart devices, wearable technology, and facility automation.
+</details>
+
+<details>
+  <summary>16. What is an example of sensors?</summary>
+  - Heating sensors, lighting sensors, and motion sensors.
+</details>
+
+<details>
+  <summary>17. What is an example of smart devices?</summary>
+  - Home automation systems and smart doorbells.
+</details>
+
+<details>
+  <summary>18. What is an example of wearable technology?</summary>
+  - Smartwatches and smart rings.
+</details>
+
+<details>
+  <summary>19. What is an example of facility automation?</summary>
+  - Temperature sensors and air quality sensors.
+</details>
+
+<details>
+  <summary>20. What is the software that controls large machinery?</summary>
+  - SCADA (also known as an ICS).
+</details>
+
+<details>
+  <summary>21. What does SCADA stand for?</summary>
+  - Supervisory Control and Data Acquisition system.
+</details>
+
+<details>
+  <summary>22. What does ICS stand for?</summary>
+  - Industrial Control Systems.
+</details>
+
+<details>
+  <summary>23. What is a deterministic operating system?</summary>
+  - A system that uses all available processing power to focus on a single task.
+</details>
+
+<details>
+  <summary>24. What is another name for a deterministic operating system?</summary>
+  - RTOS (Real-Time Operating System).
+</details>
+
+<details>
+  <summary>25. What is an embedded system?</summary>
+  - A system where hardware and software are built together as one device.
+</details>
+
+<details>
+  <summary>26. What are some examples of embedded systems?</summary>
+  - Traffic lights, digital watches, and medical imaging systems.
+</details>
+
+<details>
+  <summary>27. What is redundancy?</summary>
+  - Having multiple systems ready to take over if one fails — often involving quickly replacing or switching devices.
+</details>
+
+<details>
+  <summary>28. What is HA?</summary>
+  - High Availability.
+</details>
+
+<details>
+  <summary>29. What is High Availability (HA)?</summary>
+  - Ensuring systems are always ready to run if something goes wrong.
+</details>
+
+<details>
+  <summary>30. What costs more — HA or redundancy?</summary>
+  - HA.
+</details>
 
 
 -----
