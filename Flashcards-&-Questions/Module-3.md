@@ -686,7 +686,32 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-### Port security
+### Port Security
+
+<details>
+  <summary>1. What is port security?</summary>
+  - The security of the individual interfaces that are on a switch or wireless access point.
+</details>
+
+<details>
+  <summary>2. What is an EAP?</summary>
+  - Extensible Authentication Protocol — a framework that allows authentication on network devices.
+</details>
+
+<details>
+  <summary>3. What IEEE standard can EAPs integrate with?</summary>
+  - 802.1X
+</details>
+
+<details>
+  <summary>4. What is IEEE 802.1X sometimes known as?</summary>
+  - NAC (Port-based Network Access Control)
+</details>
+
+<details>
+  <summary>5. What does IEEE 802.1X do?</summary>
+  - Prevents access to the network without proper authentication.
+</details>
 
 
 -----
