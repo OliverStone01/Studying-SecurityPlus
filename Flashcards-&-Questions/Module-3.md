@@ -889,7 +889,86 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-### Protecting data
+### Protecting Data
+
+<details>
+  <summary>1. What are geographic restrictions?</summary>
+  - A method of restricting users depending on their location.
+</details>
+
+<details>
+  <summary>2. How do we find the user's location?</summary>
+  - By looking at their IP subnet.
+</details>
+
+<details>
+  <summary>3. What device is difficult to apply geographical restrictions to?</summary>
+  - Mobile devices, because they can be located virtually anywhere.
+</details>
+
+<details>
+  <summary>4. What additional geolocation checks can we do?</summary>
+  - GPS or 802.11 (wireless database) location checks.
+</details>
+
+<details>
+  <summary>5. What is geofencing?</summary>
+  - Marking out an area where the device must be inside to get access to the network and systems.  
+    Anything outside the fence is restricted.
+</details>
+
+<details>
+  <summary>6. What is encryption?</summary>
+  - Taking plain text and turning it into cipher text that can only be decrypted back to the original text with the correct key.
+</details>
+
+<details>
+  <summary>7. What is hashing?</summary>
+  - Hashing is the act of taking data and running it through a hashing algorithm.  
+    If the data changes even slightly, the hash will be completely different.  
+    Hashes are irreversible, making them ideal for verifying data integrity.
+</details>
+
+<details>
+  <summary>8. What data is usually stored as a hash?</summary>
+  - Passwords in a database.
+</details>
+
+<details>
+  <summary>9. What is it called when two different inputs create the same hash value?</summary>
+  - A collision.
+</details>
+
+<details>
+  <summary>10. What is obfuscation?</summary>
+  - Hiding parts of data to prevent others from reading it.
+</details>
+
+<details>
+  <summary>11. What are the two places we can see obfuscation?</summary>
+  - Card numbers on receipts.  
+  - When developers send code to someone else.
+</details>
+
+<details>
+  <summary>12. What is tokenisation?</summary>
+  - Taking information and linking it with a temporary token code which can be passed over the internet to securely share information.
+</details>
+
+<details>
+  <summary>13. Where do you normally see tokenisation?</summary>
+  - Contactless and other payment methods.
+</details>
+
+<details>
+  <summary>14. What is segmentation?</summary>
+  - Splitting up the network to prevent access to all areas without proper authentication and authorisation.
+</details>
+
+<details>
+  <summary>15. What are permission restrictions?</summary>
+  - Restrictions assigned to each user account to control access levels and actions.
+</details>
 
 
 -----
