@@ -1068,7 +1068,57 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-### Secure communication
+### Secure Communication
+
+<details>
+  <summary>1. What is a VPN?</summary>
+  - A Virtual Private Network that encrypts all data being sent over a public network from one point to another.
+</details>
+
+<details>
+  <summary>2. What is a VPN concentrator?</summary>
+  - A device that manages multiple VPN connections and creates encrypted tunnels for data to pass through securely.
+</details>
+
+<details>
+  <summary>3. What type of encryption do mobiles and laptops use?</summary>
+  - SSL/TLS VPN.
+</details>
+
+<details>
+  <summary>4. What does SSL stand for?</summary>
+  - Secure Socket Layer.
+</details>
+
+<details>
+  <summary>5. What does TLS stand for?</summary>
+  - Transport Layer Security.
+</details>
+
+<details>
+  <summary>6. Why would an organisation create a site-to-site IPsec VPN?</summary>
+  - To securely connect remote workers or branch offices to the organisation’s internal network.
+</details>
+
+<details>
+  <summary>7. What is the new form of a wide area network?</summary>
+  - SD-WAN (Software Defined Networking in a Wide Area Network).
+</details>
+
+<details>
+  <summary>8. What is SD-WAN used for?</summary>
+  - To securely connect users to cloud-based applications and services.
+</details>
+
+<details>
+  <summary>9. What does SASE stand for?</summary>
+  - Secure Access Service Edge.
+</details>
+
+<details>
+  <summary>10. What is SASE?</summary>
+  - A modern cloud-based security framework that combines networking and security functions to protect users, applications, and data regardless of location.
+</details>
 
 
 -----
