@@ -1123,7 +1123,22 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-### Secure infrastructure
+### Secure Infrastructure
+
+<details>
+  <summary>1. What does a firewall do?</summary>
+  - A firewall helps separate trusted and untrusted data and users, controlling the flow of network traffic based on security rules.
+</details>
+
+<details>
+  <summary>2. What is a security zone?</summary>
+  - A security zone separates areas of a network into segments with different security levels, creating more secure and controlled sections.
+</details>
+
+<details>
+  <summary>3. What is the attack surface?</summary>
+  - The attack surface refers to all the different ways or points where an attacker could attempt to access or compromise a system.
+</details>
 
 
 -----
