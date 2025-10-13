@@ -973,7 +973,42 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-### Recovery testing
+### Recovery Testing
+
+<details>
+  <summary>1. What is recovery testing?</summary>
+  - Testing how an organisation would react to a disaster.
+</details>
+
+<details>
+  <summary>2. What must we make sure does not happen during recovery testing?</summary>
+  - We must not affect the organisation’s normal operations.
+</details>
+
+<details>
+  <summary>3. What is a way to minimise costs and time when performing recovery testing?</summary>
+  - A tabletop exercise.
+</details>
+
+<details>
+  <summary>4. What is a tabletop exercise?</summary>
+  - A process where participants read through the disaster recovery steps to ensure everyone knows their roles and the correct procedures.
+</details>
+
+<details>
+  <summary>5. What is a fail-over test?</summary>
+  - A test to ensure backup systems activate correctly and the system swaps to backup devices as intended.
+</details>
+
+<details>
+  <summary>6. What are simulated attacks?</summary>
+  - Tests performed against an organisation and its employees to evaluate security awareness and system resilience.
+</details>
+
+<details>
+  <summary>7. What is parallel processing?</summary>
+  - When a CPU uses multiple cores to run multiple tasks at the same time.
+</details>
 
 
 -----
