@@ -1143,7 +1143,27 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
-### States of data
+### States of Data
+
+<details>
+  <summary>1. What is data at rest?</summary>
+  - Data that is stored and not actively moving, such as files on a hard drive or in a database.
+</details>
+
+<details>
+  <summary>2. What is data in transit?</summary>
+  - Data that is being sent over a network or the internet from one location to another.
+</details>
+
+<details>
+  <summary>3. What is data in use?</summary>
+  - Data actively being processed or used by a device — typically stored temporarily in system memory (RAM).
+</details>
+
+<details>
+  <summary>4. What is data sovereignty?</summary>
+  - The principle that data stored in a country is subject to that country's laws and regulations.
+</details>
 
 
 
