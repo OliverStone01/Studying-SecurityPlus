@@ -1015,6 +1015,56 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 ### Resiliency
 
+<details>
+  <summary>1. What is server clustering?</summary>
+  - When you combine two or more servers to act as a backup in case the main servers fail.
+</details>
+
+<details>
+  <summary>2. What is site resilience?</summary>
+  - Having a second site ready to take over operations with all the latest information if the main site fails.
+</details>
+
+<details>
+  <summary>3. Where should you store your backup data?</summary>
+  - In a different part of the world to prevent it from being lost due to the same disaster affecting the main site.
+</details>
+
+<details>
+  <summary>4. What is a hot site?</summary>
+  - An exact replica of the main site that is ready to take over operations immediately.
+</details>
+
+<details>
+  <summary>5. What is a warm site?</summary>
+  - A partially prepared backup site that may need some setup before it can take over from the main site.
+</details>
+
+<details>
+  <summary>6. What is a cold site?</summary>
+  - A backup location with minimal or no equipment; all hardware and data must be brought in and configured before it can function.
+</details>
+
+<details>
+  <summary>7. What is geographic dispersion?</summary>
+  - Keeping backup sites and data in different geographical locations to reduce the risk of simultaneous failure.
+</details>
+
+<details>
+  <summary>8. What is platform diversity?</summary>
+  - Using different operating systems or platforms to prevent one vulnerability from taking down the entire system.
+</details>
+
+<details>
+  <summary>9. What does COOP stand for?</summary>
+  - Continuity of Operations Planning.
+</details>
+
+<details>
+  <summary>10. What is COOP?</summary>
+  - A manual or backup method for performing essential organisational tasks when technology systems fail, ensuring continued operation.
+</details>
+
 
 -----
 
