@@ -211,3 +211,50 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### Digital Forensics
+
+<details>
+  <summary>What is digital forensics?</summary>
+  The process of collecting, preserving, and analysing data.
+</details>
+
+<details>
+  <summary>What is the key to good digital forensics?</summary>
+  Following best practices.
+</details>
+
+<details>
+  <summary>What is an industry guideline used in digital forensics?</summary>
+  RFC 3227 provides industry guidelines for evidence collection and archiving.
+</details>
+
+<details>
+  <summary>What is a legal hold?</summary>
+  Instructions from a lawyer or court on preserving specific electronically stored information (ESI).
+</details>
+
+<details>
+  <summary>Why is it important that we log who has had access to data and that we hash data?</summary>
+  To make sure the data hasn’t been tampered with.
+</details>
+
+<details>
+  <summary>What does all data need when being dealt with by digital forensics?</summary>
+  Documentation and a chain of custody.
+</details>
+
+<details>
+  <summary>Do analysts use the original data to conduct their investigation?</summary>
+  No, they create and use a copy of the original data which must be preserved.
+</details>
+
+<details>
+  <summary>What is E-discovery?</summary>
+  It’s about the collection of data.
+</details>
+
+
+-----
+
+
+
