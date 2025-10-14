@@ -179,3 +179,35 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   This detects anything unusual happening on the network. For example, large amounts of file transfers in the middle of the night.
 </details>
 
+
+-----
+
+### Asset Manager
+
+<details>
+  <summary>What is classification?</summary>
+  The process of determining what type of asset something is. (Software/hardware)
+</details>
+
+<details>
+  <summary>What is media sanitisation?</summary>
+  The process of wiping data from a device before either passing it on to another user or throwing it away.
+</details>
+
+<details>
+  <summary>What is a simple method for making sure a device cannot be used again?</summary>
+  Physical damage.
+</details>
+
+<details>
+  <summary>What is degaussing?</summary>
+  Using electromagnetic fields that erase all data on a drive.
+</details>
+
+<details>
+  <summary>What is data retention?</summary>
+  Keeping data backed up.
+</details>
+
+-----
+
