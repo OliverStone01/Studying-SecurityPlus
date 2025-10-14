@@ -120,3 +120,62 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   Prioritising which device/system should be patched first.
 </details>
 
+-----
+
+### Application Security
+
+<details>
+  <summary>What is quality assurance (QA)?</summary>
+  These are tests that check the app’s functionality and its security.
+</details>
+
+<details>
+  <summary>What is input validation?</summary>
+  Checking the input for malicious code or injections before processing the input in the application.
+</details>
+
+<details>
+  <summary>What is fuzzing?</summary>
+  Fuzzing is an automation tool that tests the application for input validation and to make sure the application preforms as it should.
+</details>
+
+<details>
+  <summary>What are secure cookies?</summary>
+  These cookies are very similar to standard cookies but they can only be transferred over HTTPS with encryption.
+</details>
+
+<details>
+  <summary>What would happen if an attacker managed to get access of your cookies?</summary>
+  They could try a session jacking attack where they could log into your account without any information.
+</details>
+
+<details>
+  <summary>What is a method developers use to test the security of their application?</summary>
+  Running their code through a SAST.
+</details>
+
+<details>
+  <summary>What is a SAST?</summary>
+  Static application security testing.
+</details>
+
+<details>
+  <summary>What does a SAST do?</summary>
+  SAST’s analyse code and identifies security flaws.
+</details>
+
+<details>
+  <summary>What is code signing?</summary>
+  This is when developers hash their code so that when others install the code they can check for integrity by hashing the code them selves and checking they get the same value.
+</details>
+
+<details>
+  <summary>What is sandboxing?</summary>
+  Testing software in a safe environment where the software only has access to the data in the sandbox.
+</details>
+
+<details>
+  <summary>What is anomaly detection?</summary>
+  This detects anything unusual happening on the network. For example, large amounts of file transfers in the middle of the night.
+</details>
+
