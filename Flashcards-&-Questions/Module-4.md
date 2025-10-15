@@ -300,5 +300,60 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### Endpoint Security
+
+<details>
+  <summary>What is endpoint security?</summary>
+  The security of the device that users rely on every day.
+</details>
+
+<details>
+  <summary>Where should you place a firewall?</summary>
+  At the edge of the network where the internal system meets the outside internet.
+</details>
+
+<details>
+  <summary>What is a posture assessment?</summary>
+  Checks to ensure devices are properly secured before they are allowed full access to the network.
+</details>
+
+<details>
+  <summary>What happens if a device fails a posture assessment?</summary>
+  It may be quarantined.
+</details>
+
+<details>
+  <summary>What is a persistent agent?</summary>
+  It is installed on a device and continuously monitors the system.
+</details>
+
+<details>
+  <summary>What is a dissolvable agent?</summary>
+  It runs temporarily during login and removes itself after.
+</details>
+
+<details>
+  <summary>Why is traditional anti-malware not as effective today?</summary>
+  Because millions of new malware variants are created daily.
+</details>
+
+<details>
+  <summary>What is a EDR (Endpoint Detection and Response)?</summary>
+  This is an advanced anti-virus that extends beyond signatures and checks user behaviour, process monitoring, and machine learning to identify threats. EDR’s also provide root-cause analysis.
+</details>
+
+<details>
+  <summary>What is XDR (Extended Detection and Response)?</summary>
+  An XDR pulls in data from multiple systems, including endpoints, networks, and user activity.
+</details>
+
+<details>
+  <summary>What is the goal of an EDR and XDR?</summary>
+  To detect malicious activity quickly and stop it in real time to prevent it becoming a larger problem.
+</details>
+
+-----
+
+
 
 
