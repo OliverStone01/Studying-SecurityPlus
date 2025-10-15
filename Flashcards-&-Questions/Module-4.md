@@ -354,6 +354,95 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### Firewalls
+
+<details>
+  <summary>What does a firewall do when it is setup inline with your network?</summary>
+  Decides whether to allow or deny traffic depending on rules we set.
+</details>
+
+<details>
+  <summary>What are the two methods used to filter traffic?</summary>
+  Port or application.
+</details>
+
+<details>
+  <summary>What are the two types of firewalls?</summary>
+  Traditional and NGFW (Next-generation firewalls).
+</details>
+
+<details>
+  <summary>What can you do to turn a firewall into a VPN endpoint firewall?</summary>
+  Encrypt the traffic.
+</details>
+
+<details>
+  <summary>What other device can a firewall be configured to be?</summary>
+  A router / layer 3 device.
+</details>
+
+<details>
+  <summary>What layer does a next generation firewall operate on?</summary>
+  Layer 7.
+</details>
+
+<details>
+  <summary>What is another common name for a next generation firewall?</summary>
+  Application gateways.
+</details>
+
+<details>
+  <summary>Explain why next generation firewalls work on level 7.</summary>
+  Because this is the application layer, we can decide whether to block or allow traffic from specific applications.
+</details>
+
+<details>
+  <summary>How do traditional firewalls decide what data to allow or deny?</summary>
+  We set rules on what ports the data is using to get from point A to point B.
+</details>
+
+<details>
+  <summary>What is an implicit deny rule?</summary>
+  If the firewall cannot find a rule set based on the data then it will automatically deny the data.
+</details>
+
+<details>
+  <summary>What is another name for a rule list?</summary>
+  ACL (Access Control List).
+</details>
+
+<details>
+  <summary>Where will most people put a firewall?</summary>
+  Between their network and the internet.
+</details>
+
+<details>
+  <summary>What is a screened subnet?</summary>
+  A screened subnet is a separate network from our internal network and contains devices that need to be accessed by the internet. The firewall then works as a router routing to either the screened subnet or to the internal network.
+</details>
+
+<details>
+  <summary>Why is it a good idea to have a screened subnet?</summary>
+  Because if an attacker manages to get access to the screened subnet, they do not have access to our internal network.
+</details>
+
+<details>
+  <summary>What does IPS stand for?</summary>
+  Intrusion Prevention System.
+</details>
+
+<details>
+  <summary>What does an IPS do?</summary>
+  It recognises injections and malicious software signatures and blocks the attack.
+</details>
+
+<details>
+  <summary>What device is usually linked with an IPS?</summary>
+  Next generation firewalls.
+</details>
+
+-----
+
 
 
 
