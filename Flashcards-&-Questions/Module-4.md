@@ -502,6 +502,73 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### Identity and Access Management (IAM)
+
+<details>
+  <summary>What does IAM stand for?</summary>
+  Identity and Access Management.
+</details>
+
+<details>
+  <summary>What does an IAM do?</summary>
+  It ensures the right people get the access at the right time.
+</details>
+
+<details>
+  <summary>What is least privilege?</summary>
+  Least privilege means users should only get the permissions necessary for their job.
+</details>
+
+<details>
+  <summary>How can we prove that a person is who they are claiming to be?</summary>
+  Passwords, security questions, government documents, or automated checks like credit history.
+</details>
+
+<details>
+  <summary>What does SSO stand for?</summary>
+  Single Sign-On.
+</details>
+
+<details>
+  <summary>What does an SSO do?</summary>
+  An SSO allows you to log in once, then use resources across the network without needing to re-enter credentials.
+</details>
+
+<details>
+  <summary>What does LDAP stand for?</summary>
+  Lightweight Directory Access Protocol.
+</details>
+
+<details>
+  <summary>What does an LDAP do?</summary>
+  Manages large directories of users and resources.
+</details>
+
+<details>
+  <summary>What does SAML stand for?</summary>
+  Security Assertion Markup Language.
+</details>
+
+<details>
+  <summary>What does a SAML do?</summary>
+  Lets organisations rely on third-party authentication databases.
+</details>
+
+<details>
+  <summary>What is OAuth?</summary>
+  OAuth is an authentication framework often paired with OpenID for authentication.
+</details>
+
+<details>
+  <summary>What is federation?</summary>
+  Federation allows you to log in to one service using credentials for another service — for example, signing in using your Google or Apple account.
+</details>
+
+<details>
+  <summary>How does an organisation choose which system to use?</summary>
+  Interoperability.
+</details>
+
 
 
 
