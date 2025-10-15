@@ -256,5 +256,49 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### Email Security
+
+<details>
+  <summary>What is the purpose of a DNS server in email security?</summary>
+  We can use a DNS server to confirm whether an email was sent from a legitimate server or not.
+</details>
+
+<details>
+  <summary>What is a mail gateway?</summary>
+  The gatekeeper that takes in mail you have received over the internet. It checks if the sources are valid.
+</details>
+
+<details>
+  <summary>Where should you put a mail gateway if it’s kept on premises?</summary>
+  On a screened subnet.
+</details>
+
+<details>
+  <summary>What is a SPF (Sender Policy Framework)?</summary>
+  This is used to configure a server that will send mail on your behalf. Commonly seen in an organisation.
+</details>
+
+<details>
+  <summary>Where are SPF’s added?</summary>
+  To your DNS server as a TXT record.
+</details>
+
+<details>
+  <summary>How can you add extra security to outgoing emails?</summary>
+  Using DKIM (Domain keys identified mail).
+</details>
+
+<details>
+  <summary>What is a DKIM?</summary>
+  This is a public key signature sent between mail servers.
+</details>
+
+<details>
+  <summary>What is DMARC (Domain-based message authentication, reporting, and conformance)?</summary>
+  Specifies what you want to happen when an email is not validated via SPF or DKIM.
+</details>
+
+-----
+
 
 
