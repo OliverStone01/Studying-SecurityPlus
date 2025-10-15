@@ -569,8 +569,47 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   Interoperability.
 </details>
 
+-----
 
+### Incident Planning
 
+<details>
+  <summary>What is a readiness test?</summary>
+  This tests how well the response plan is documented and how skilled teams are at executing it.
+</details>
 
+<details>
+  <summary>What systems must be used for readiness tests?</summary>
+  Non-production systems.
+</details>
 
+<details>
+  <summary>What must each team do after a test?</summary>
+  Hold a review session to evaluate performance.
+</details>
+
+<details>
+  <summary>What are the two types of tests an organisation can do?</summary>
+  Tabletop exercises and simulations.
+</details>
+
+<details>
+  <summary>What is a tabletop exercise?</summary>
+  Where teams gather around a table and walk through a hypothetical incident step by step.
+</details>
+
+<details>
+  <summary>What is a simulation exercise?</summary>
+  These are fake attacks that mimic real attacks. They are used to uncover weaknesses in security departments.
+</details>
+
+<details>
+  <summary>What are two things commonly revealed when doing a simulated attack?</summary>
+  How well technical systems like spam filters and anti-phishing protections are working, and how well employees can spot and avoid traps.
+</details>
+
+<details>
+  <summary>What is threat hunting?</summary>
+  Actively looking for vulnerabilities before attackers find them.
+</details>
 
