@@ -443,6 +443,67 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### Hardening Targets
+
+<details>
+  <summary>What can you follow for hardening devices and software?</summary>
+  Most manufactures will provide a hardening guide to follow.
+</details>
+
+<details>
+  <summary>What tool are you likely to use if you manage mobile devices in your organisation?</summary>
+  MDM (Mobile Device Manager).
+</details>
+
+<details>
+  <summary>What method is used by manufactories to fix vulnerabilities?</summary>
+  Patches in the form of updates.
+</details>
+
+<details>
+  <summary>Other than updates, what else can you do to harden devices?</summary>
+  Remove unnecessary applications and change default passwords.
+</details>
+
+<details>
+  <summary>What can you do to harden cloud infrastructures?</summary>
+  Secure the admin device and account, and make sure all other parts of the system follow the principle of least privilege.
+</details>
+
+<details>
+  <summary>What does EDR stand for?</summary>
+  Endpoint Detection and Response.
+</details>
+
+<details>
+  <summary>What does an EDR do?</summary>
+  These will monitor for threats and respond accordingly.
+</details>
+
+<details>
+  <summary>What else should you setup when working with cloud infrastructures?</summary>
+  C2C (Cloud to Cloud) backup.
+</details>
+
+<details>
+  <summary>Name 3 methods of hardening a server:</summary>
+  Updates, firewalls, and minimum password requirements.
+</details>
+
+<details>
+  <summary>What should you setup to monitor servers?</summary>
+  Anti-virus/anti-malware.
+</details>
+
+<details>
+  <summary>Why are embedded systems more difficult to harden?</summary>
+  Because they have their own purpose-built operating system.
+</details>
+
+-----
+
+
+
 
 
 
