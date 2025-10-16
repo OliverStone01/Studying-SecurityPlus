@@ -714,5 +714,79 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### Monitoring Data
+
+<details>
+  <summary>What does FIM stand for?</summary>
+  File integrity monitoring.
+</details>
+
+<details>
+  <summary>What does a FIM do?</summary>
+  Monitors core files on a device to see if they are suddenly modified.
+</details>
+
+<details>
+  <summary>What FIM is used on Windows?</summary>
+  SFC (System File Checker).
+</details>
+
+<details>
+  <summary>What does SFC do?</summary>
+  Scans critical system files, verifies their integrity, and replaces any files that have been altered.
+</details>
+
+<details>
+  <summary>What FIM tool is used on Linux?</summary>
+  Tripwire.
+</details>
+
+<details>
+  <summary>What does a host-based intrusion prevention system do?</summary>
+  Gives visibility into local file changes as well as block known attacks.
+</details>
+
+<details>
+  <summary>What does DLP stand for?</summary>
+  Data loss prevention.
+</details>
+
+<details>
+  <summary>What does a DLP system do?</summary>
+  These systems are designed to stop sensitive data from leaking out.
+</details>
+
+<details>
+  <summary>What are the different types of DLPs?</summary>
+  Network-based DLPs, Endpoint/Host-based DLPs, Cloud-based DLPs, and Email-based DLPs.
+</details>
+
+<details>
+  <summary>What is one of the biggest channels for data loss?</summary>
+  Email.
+</details>
+
+<details>
+  <summary>What do network-based DLPs do?</summary>
+  Inspect traffic in real time.
+</details>
+
+<details>
+  <summary>What do endpoint/host-based DLPs do?</summary>
+  They run on an individual system, often blocking risky transfers such as a USB drive.
+</details>
+
+<details>
+  <summary>What do cloud-based DLPs do?</summary>
+  They monitor and block sensitive uploads into SaaS platforms and cloud storage.
+</details>
+
+<details>
+  <summary>What do email-based DLPs do?</summary>
+  They scan outgoing messages for sensitive information.
+</details>
+
+-----
+
 
 
