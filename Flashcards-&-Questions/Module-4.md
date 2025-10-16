@@ -613,3 +613,51 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   Actively looking for vulnerabilities before attackers find them.
 </details>
 
+
+-----
+
+### Incident Response
+
+<details>
+  <summary>What is NIST?</summary>
+  NIST (National Institute of Standards and Technology) share clear frameworks and standards that should be used to stay secure when using technology.
+</details>
+
+<details>
+  <summary>NIST released a framework in a publication called The Computer Security Incident Handling Guide 800-61 revision 2. What are the phases of the lifecycle in this framework?</summary>
+  Preparation, Detecting and Analysis, Containment, Eradication, Recovery, and Post-incident Activities.
+</details>
+
+<details>
+  <summary>What are some ways you can prepare for responding to an incident?</summary>
+  Keep communication lists updated, maintain an incident go bag (laptops, forensic software, removable media, and imaging tools), have documentation ready (network diagrams, file hashes, and baseline configurations), and store clean OS images and applications installed.
+</details>
+
+<details>
+  <summary>What can you use to help spot changes in systems?</summary>
+  Logs, alerts, and monitoring tools.
+</details>
+
+<details>
+  <summary>What should you do if you confirm an attack has occurred?</summary>
+  Act fast, isolate the malware by using sandboxing or by taking the system offline.
+</details>
+
+<details>
+  <summary>What is recovery?</summary>
+  The act of restoring from clean sources after an attack. This involves wiping the system, reinstalling the OS, restoring from backups, disabling compromised accounts, and patching vulnerabilities.
+</details>
+
+<details>
+  <summary>What is reflection?</summary>
+  Meeting with the relevant teams to find out what happened, what was the timeline, how well the system held up, if there were missed indicators, and what must be changed for next time.
+</details>
+
+<details>
+  <summary>When should training happen?</summary>
+  Before the incident, not during. It’s important everyone knows their roles and the processes they must follow in a response situation.
+</details>
+
+-----
+
+
