@@ -822,5 +822,51 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### Operating System Security
+
+<details>
+  <summary>What is Active Directory?</summary>
+  This is a database that contains all the different components of your network (printers, computers, etc.)
+</details>
+
+<details>
+  <summary>What can you do from the Active Directory?</summary>
+  Manage authentication and determine which users can access what resources.
+</details>
+
+<details>
+  <summary>What is a group policy?</summary>
+  This is where you create groups of users and then create policies and apply them to these groups.
+</details>
+
+<details>
+  <summary>What system can you use to manage group policies?</summary>
+  Group policy management editor.
+</details>
+
+<details>
+  <summary>With Linux, what is a DAC?</summary>
+  Discretionary access control.
+</details>
+
+<details>
+  <summary>If you are using Linux in an organisation, what might you want to setup?</summary>
+  Mandatory access control system which allows you to control the device and assign policies as a central administrator.
+</details>
+
+<details>
+  <summary>What must you convert your Linux system into to activate DAC?</summary>
+  SELinux (Security enhanced Linux).
+</details>
+
+<details>
+  <summary>What does SELinux allow you to do?</summary>
+  Allows admin to set least privilege.
+</details>
+
+-----
+
+
+
 
 
