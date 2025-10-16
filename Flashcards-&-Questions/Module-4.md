@@ -788,5 +788,39 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### Multi-Factor Authentication
+
+<details>
+  <summary>What is multi-factor authentication?</summary>
+  When you sign in using one factor like a username and password, then you are asked for a second factor like a code sent to your phone or a fingerprint.
+</details>
+
+<details>
+  <summary>What are the four factors?</summary>
+  Something you know, something you have, something you are, and somewhere you are.
+</details>
+
+<details>
+  <summary>Give an example of something you know?</summary>
+  Password, a pin, or an unlock pattern. Memorised secrets only you should know.
+</details>
+
+<details>
+  <summary>Give an example of something you have?</summary>
+  A smart card, a USB security key, or a hardware token that displays random codes. This also includes receiving SMS login codes.
+</details>
+
+<details>
+  <summary>Give an example of something you are?</summary>
+  Biometrics like a fingerprint or face scan.
+</details>
+
+<details>
+  <summary>Give an example of somewhere you are?</summary>
+  Your physical location via GPS or IP address.
+</details>
+
+-----
+
 
 
