@@ -660,4 +660,59 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### Log Data
+
+<details>
+  <summary>What is log data?</summary>
+  Logs are lots of information about how a device or software is performing. This can be traffic flow information and exploit attempts.
+</details>
+
+<details>
+  <summary>What would logs of a firewall contain?</summary>
+  Every connection with the source and destination IP address, ports in use, and whether the traffic was allowed or blocked.
+</details>
+
+<details>
+  <summary>What would application logs contain?</summary>
+  These logs track system events, process activity, password changes, and authentication details.
+</details>
+
+<details>
+  <summary>What data would be stored on endpoint logs?</summary>
+  Login attempts, system processes, directory services, and account lockouts.
+</details>
+
+<details>
+  <summary>What data would be stored on operating system logs?</summary>
+  Brute force attempts, changes to critical system files, and unusual service activity.
+</details>
+
+<details>
+  <summary>Which logs usually give you the first indication of an attack?</summary>
+  Operating system logs.
+</details>
+
+<details>
+  <summary>What is metadata?</summary>
+  Metadata is hidden information inside documents, emails, pictures, and web traffic.
+</details>
+
+<details>
+  <summary>Why do we do vulnerability scans?</summary>
+  To check for unpatched or misconfigured systems.
+</details>
+
+<details>
+  <summary>What can we use to centralise and automate the log collection from all these devices on the network?</summary>
+  A SIEM.
+</details>
+
+<details>
+  <summary>What can you use to see the deepest level of visibility when it comes to network traffic?</summary>
+  Packet capture tools like Wireshark that allow us to see each frame and every header.
+</details>
+
+-----
+
+
 
