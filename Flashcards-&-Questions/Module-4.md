@@ -866,6 +866,63 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+### Password Security
+
+<details>
+  <summary>What is the goal when making a password?</summary>
+  Make it hard to guess.
+</details>
+
+<details>
+  <summary>What are we trying to protect against when making passwords?</summary>
+  Brute-force and password spraying attacks.
+</details>
+
+<details>
+  <summary>What is the measurement of strength when making passwords?</summary>
+  Entropy, which is how unpredictable the password is.
+</details>
+
+<details>
+  <summary>How do you increase entropy?</summary>
+  Avoid obvious words or single terms, mix uppercase, lowercase, numbers, and special characters.
+</details>
+
+<details>
+  <summary>What is the minimum password length you should have?</summary>
+  8.
+</details>
+
+<details>
+  <summary>What is the best practice when setting passwords?</summary>
+  Use a unique password for every account.
+</details>
+
+<details>
+  <summary>Why should you use a unique password for each account?</summary>
+  Because if one of those accounts is compromised, all your other accounts are safe.
+</details>
+
+<details>
+  <summary>What is a password manager?</summary>
+  Stores all your credentials in one encrypted database.
+</details>
+
+<details>
+  <summary>What other features do some password managers have?</summary>
+  Generate random, strong passwords automatically. Check if your passwords are weak or compromised.
+</details>
+
+<details>
+  <summary>What does JIT permissions stand for?</summary>
+  Just in time permissions.
+</details>
+
+<details>
+  <summary>What are JIT permissions?</summary>
+  Temporary credentials from a secure password vault. These credentials are short-lived and are based on primary credentials.
+</details>
+
 
 
 
