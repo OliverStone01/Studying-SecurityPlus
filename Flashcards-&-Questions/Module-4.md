@@ -923,6 +923,39 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   Temporary credentials from a secure password vault. These credentials are short-lived and are based on primary credentials.
 </details>
 
+-----
+
+### Penetration Testing
+
+<details>
+  <summary>What is a penetration test?</summary>
+  Where we perform attacks on our systems to check for weaknesses.
+</details>
+
+<details>
+  <summary>What must be agreed upon before any testing is done?</summary>
+  Rules of engagement.
+</details>
+
+<details>
+  <summary>What is the rules of engagement?</summary>
+  These rules outline what testers can and cannot do during the test. This is called the scope.
+</details>
+
+<details>
+  <summary>What are the four main types of penetration testing?</summary>
+  Physical, internal, external, and digital.
+</details>
+
+<details>
+  <summary>What might be the first thing an attacker does when successfully breaking into a system?</summary>
+  Create a backdoor in case the vulnerability is patched.
+</details>
+
+<details>
+  <summary>What is a bug bounty program?</summary>
+  A rewards program that rewards testers when finding vulnerabilities in sites that offer a responsible disclosure program.
+</details>
 
 
 
