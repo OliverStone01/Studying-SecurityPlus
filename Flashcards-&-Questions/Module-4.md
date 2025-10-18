@@ -658,6 +658,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   Before the incident, not during. It’s important everyone knows their roles and the processes they must follow in a response situation.
 </details>
 
+
 -----
 
 ### Log Data
