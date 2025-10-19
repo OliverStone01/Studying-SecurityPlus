@@ -6,8 +6,6 @@
 
 ### Notes
 
-Securing wireless and mobile
-
 If you are installing or working on a wireless network, it might be worth creating a site survey. This site survey will help you understand how your network is running and preforming.
 
 This can also show you where other networks might be effecting your signal.
