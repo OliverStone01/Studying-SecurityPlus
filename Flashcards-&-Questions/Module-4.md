@@ -1024,4 +1024,84 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 </details>
 
 
+------
+
+### Securing Wireless and Mobile
+
+<details>
+  <summary>What is a site survey?</summary>
+  A site survey will help you understand how your network is running and performing. It identifies the access points and will help find ways to tweak and improve your network.
+</details>
+
+<details>
+  <summary>What is a heat map?</summary>
+  A heat map is a visual representation of a site survey and will display signal strengths of connection.
+</details>
+
+<details>
+  <summary>What do other wireless survey tools allow you to do?</summary>
+  Check signal coverage, check for potential interference, use built-in tools, and spectrum analyser.
+</details>
+
+<details>
+  <summary>What do we use for securing wireless networks?</summary>
+  We use MDM (Mobile Device Management).
+</details>
+
+<details>
+  <summary>What are the two types of mobile devices in an organisation?</summary>
+  Company owned and BYOD (Bring your own device).
+</details>
+
+<details>
+  <summary>What does a MDM do?</summary>
+  This tool allows technicians to manage the devices at a centralised location.
+</details>
+
+<details>
+  <summary>What does BYOD stand for?</summary>
+  Bring your own device.
+</details>
+
+<details>
+  <summary>What does BYOT stand for?</summary>
+  Bring your own technology.
+</details>
+
+<details>
+  <summary>What does COPE stand for?</summary>
+  Corporate owned, personally enabled.
+</details>
+
+<details>
+  <summary>What does CYOD stand for?</summary>
+  Choose your own device.
+</details>
+
+<details>
+  <summary>Who owns the device in a CYOD situation?</summary>
+  The organisation.
+</details>
+
+<details>
+  <summary>What is each point of a cellular network known as?</summary>
+  A cell.
+</details>
+
+<details>
+  <summary>What are the three common security concerns with mobile devices?</summary>
+  Traffic monitoring, location tracking, and worldwide access to mobile devices.
+</details>
+
+<details>
+  <summary>What is Bluetooth?</summary>
+  A high-speed communication over short distances.
+</details>
+
+<details>
+  <summary>What is another name for Bluetooth?</summary>
+  PAN (Personal Area Network).
+</details>
+
+
 
