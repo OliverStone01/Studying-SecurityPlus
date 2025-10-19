@@ -959,5 +959,29 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 </details>
 
 
+------
+
+### Scripting and automation
+
+<details>
+  <summary>What is scripting all about?</summary>
+  Automation.
+</details>
+
+<details>
+  <summary>What are benefits of scripting?</summary>
+  Speed and accuracy freeing IT staff to focus on more interesting work.
+</details>
+
+<details>
+  <summary>What are common automations created?</summary>
+  Patching, Configurations, Scaling, Monitoring, Onboarding/Off-boarding, Guardrails, Security group monitoring, Help desk integration, Access controls, DevOps, and APIs.
+</details>
+
+<details>
+  <summary>List 5 downsides to scripts:</summary>
+  Complexity, Costs, Single point of failure, Technical debt, and Ongoing support.
+</details>
+
 
 
