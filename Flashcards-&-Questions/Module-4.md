@@ -1153,3 +1153,48 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   To prevent false positives and false negatives.
 </details>
 
+
+-----
+
+### Security Protocols
+
+<details>
+  <summary>What is a way to protect data being sent over a wireless or wired connection?</summary>
+  Encrypt the data.
+</details>
+
+<details>
+  <summary>List 4 protocols that are not encrypted:</summary>
+  Telnet, FTP, SMTP, IMAP.
+</details>
+
+<details>
+  <summary>How can you confirm whether data is encrypted?</summary>
+  By capturing the packets and looking at the data.
+</details>
+
+<details>
+  <summary>What is the secure version of Telnet?</summary>
+  SSH.
+</details>
+
+<details>
+  <summary>What is the secure version of HTTP?</summary>
+  HTTPS.
+</details>
+
+<details>
+  <summary>What is the secure version of IMAP?</summary>
+  IMAPS.
+</details>
+
+<details>
+  <summary>What is the secure version of FTP?</summary>
+  SFTP.
+</details>
+
+<details>
+  <summary>What does a VPN create?</summary>
+  An encrypted tunnel for you to pass data between two points.
+</details>
+
