@@ -984,4 +984,44 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 </details>
 
 
+-----
+
+### Secure Baseline
+
+<details>
+  <summary>What is a security baseline?</summary>
+  The minimum best practices for each application and device.
+</details>
+
+<details>
+  <summary>When should you meet this baseline?</summary>
+  Before the application or device is deployed.
+</details>
+
+<details>
+  <summary>Give an example of what could be a baseline?</summary>
+  Adding a firewall to a device or network.
+</details>
+
+<details>
+  <summary>What must you do if a baseline is not met?</summary>
+  Put a plan in place to recorrect it immediately.
+</details>
+
+<details>
+  <summary>Who normally sets what the baseline is for a device?</summary>
+  The manufacturer.
+</details>
+
+<details>
+  <summary>What may you need to do if new vulnerabilities are found?</summary>
+  You may need to go back and add to the baseline.
+</details>
+
+<details>
+  <summary>What do you do if two manufacturers have opposing baselines?</summary>
+  You may have to decide which baseline is better.
+</details>
+
+
 
