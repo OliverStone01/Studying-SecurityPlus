@@ -120,6 +120,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   Prioritising which device/system should be patched first.
 </details>
 
+
 -----
 
 ### Application Security
@@ -208,6 +209,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   <summary>What is data retention?</summary>
   Keeping data backed up.
 </details>
+
 
 -----
 
@@ -298,6 +300,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   Specifies what you want to happen when an email is not validated via SPF or DKIM.
 </details>
 
+
 -----
 
 ### Endpoint Security
@@ -351,6 +354,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   <summary>What is the goal of an EDR and XDR?</summary>
   To detect malicious activity quickly and stop it in real time to prevent it becoming a larger problem.
 </details>
+
 
 -----
 
@@ -441,6 +445,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   Next generation firewalls.
 </details>
 
+
 -----
 
 ### Hardening Targets
@@ -499,6 +504,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   <summary>Why are embedded systems more difficult to harden?</summary>
   Because they have their own purpose-built operating system.
 </details>
+
 
 -----
 
@@ -568,6 +574,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   <summary>How does an organisation choose which system to use?</summary>
   Interoperability.
 </details>
+
 
 -----
 
@@ -713,6 +720,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   Packet capture tools like Wireshark that allow us to see each frame and every header.
 </details>
 
+
 -----
 
 ### Monitoring Data
@@ -786,6 +794,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   <summary>What do email-based DLPs do?</summary>
   They scan outgoing messages for sensitive information.
 </details>
+
 
 -----
 
@@ -865,6 +874,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   Allows admin to set least privilege.
 </details>
 
+
 -----
 
 ### Password Security
@@ -923,6 +933,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   <summary>What are JIT permissions?</summary>
   Temporary credentials from a secure password vault. These credentials are short-lived and are based on primary credentials.
 </details>
+
 
 -----
 
