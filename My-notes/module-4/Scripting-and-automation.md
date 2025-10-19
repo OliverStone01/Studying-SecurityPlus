@@ -6,8 +6,6 @@
 
 ### Notes
 
-Scripting and automation
-
 Scripting is all about automation. Some scripts can detect and resolve problems before anyone even realises something was wrong.
 
 The biggest benefit is speed and accuracy freeing IT staff to focus on more interesting work.
