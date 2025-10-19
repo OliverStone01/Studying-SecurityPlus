@@ -1104,4 +1104,52 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 </details>
 
 
+------
+
+### Security Monitoring
+
+<details>
+  <summary>What can you monitor to find out if someone is trying to log into an account?</summary>
+  Authentication logs.
+</details>
+
+<details>
+  <summary>What tool can we use to check logs in a centralised location?</summary>
+  We can use a SIEM (Security Information and Event Manager) tool.
+</details>
+
+<details>
+  <summary>What do organisations preform to check for vulnerabilities?</summary>
+  Active scanning.
+</details>
+
+<details>
+  <summary>Why should you create reports on patches and vulnerabilities?</summary>
+  To help determine the next actions to take.
+</details>
+
+<details>
+  <summary>What are these reports called?</summary>
+  Actionable reports.
+</details>
+
+<details>
+  <summary>According to a IBM report in 2022, how long does it take for an organisation to identify a breach?</summary>
+  9 months.
+</details>
+
+<details>
+  <summary>What is alerting?</summary>
+  A notification of a security event.
+</details>
+
+<details>
+  <summary>What should you do when an alert is triggered?</summary>
+  Quarantine the system to prevent the attack spreading to other devices on the network.
+</details>
+
+<details>
+  <summary>What should you tune your alerting system to prevent?</summary>
+  To prevent false positives and false negatives.
+</details>
 
