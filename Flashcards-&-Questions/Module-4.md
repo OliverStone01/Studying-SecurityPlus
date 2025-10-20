@@ -1209,3 +1209,93 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   An encrypted tunnel for you to pass data between two points.
 </details>
 
+
+-----
+
+### Security Tools
+
+<details>
+  <summary>What issue may you have if you are running different types of security devices?</summary>
+  They may identify the same vulnerability but they might all have a different name for it.
+</details>
+
+<details>
+  <summary>What does SCAP stand for?</summary>
+  Security Content Automation Protocol.
+</details>
+
+<details>
+  <summary>What does NIST stand for?</summary>
+  National Institution of Standards and Technology.
+</details>
+
+<details>
+  <summary>What does SCAP do?</summary>
+  Converts all these different notifications into one language and allows the system to highlight them as one vulnerability.
+</details>
+
+<details>
+  <summary>What does SCAP allow you to do?</summary>
+  Allows you to completely automate ongoing monitoring, notifications, alerting, and remediation of noncompliant systems.
+</details>
+
+<details>
+  <summary>What is a benchmark?</summary>
+  A benchmark is the bare minimum of security.
+</details>
+
+<details>
+  <summary>Where can you find benchmarks?</summary>
+  On the CIS (Center of Internet Security) website.
+</details>
+
+<details>
+  <summary>What are agents used for?</summary>
+  To see if a device is compliant.
+</details>
+
+<details>
+  <summary>What do agents do?</summary>
+  They monitor for real-time notifications.
+</details>
+
+<details>
+  <summary>What does it mean if a system is agentless?</summary>
+  It runs without a formal install. It performs the check, then disappears.
+</details>
+
+<details>
+  <summary>What does SIEM stand for?</summary>
+  Security Information and Event Management.
+</details>
+
+<details>
+  <summary>What are SIEMs used for?</summary>
+  To log security events and information.
+</details>
+
+<details>
+  <summary>What does DLP stand for?</summary>
+  Data Loss Prevention.
+</details>
+
+<details>
+  <summary>What does DLP do?</summary>
+  It finds and blocks sensitive data on your network.
+</details>
+
+<details>
+  <summary>What does SNMP stand for?</summary>
+  Simple Network Management Protocol.
+</details>
+
+<details>
+  <summary>What does MIB stand for?</summary>
+  Management Information Base.
+</details>
+
+<details>
+  <summary>What is NetFlow?</summary>
+  NetFlow is a standard for monitoring traffic flows and looking at statistics related to application usage.
+</details>
+
