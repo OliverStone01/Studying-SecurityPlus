@@ -1299,3 +1299,37 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   NetFlow is a standard for monitoring traffic flows and looking at statistics related to application usage.
 </details>
 
+
+-----
+
+### Threat Intelligence
+
+<details>
+  <summary>What does OSINT stand for?</summary>
+  Open Source Intelligence.
+</details>
+
+<details>
+  <summary>What is OSINT?</summary>
+  Open source information that can tell you more about an attack.
+</details>
+
+<details>
+  <summary>What is commercial data?</summary>
+  Data that has been released by an organisation.
+</details>
+
+<details>
+  <summary>What is a threat intelligence service?</summary>
+  A third party that does your threat intelligence for a fee.
+</details>
+
+<details>
+  <summary>What will a threat intelligence service do?</summary>
+  They will highlight the areas that need amending or patching.
+</details>
+
+<details>
+  <summary>What does CTA stand for?</summary>
+  Cyber Threat Alliance.
+</details>
