@@ -10,7 +10,7 @@ An obvious concern with wireless networks is that the data is being passed throu
 
 The second challenge is making sure that only authorised users have access to the network.
 
-The default way tot fix these issues is encrypt the data and use the correct authentication methods with integrity controls so that we know the communication has not been modified in any way. 
+The default way to fix these issues is encrypt the data and use the correct authentication methods with integrity controls so that we know the communication has not been modified in any way. 
 
 MIC = message integrity check
 
