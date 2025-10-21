@@ -149,6 +149,21 @@ This is a prediction of how long equipment will run before failing again.
 
 -----
 
+Data roles and responsibilities
 
+Who has ultimate responsibility for data?
+The data owner
+
+Who is responsible for data after the data owner?
+The data controller and data processor 
+
+What is a data controller?
+The person who decides how the data will be used
+
+What is a data processor?
+The person who carries out the work. 
+
+What is a data custodian?
+This person ensures compliance is met with laws, regulations, security, and privacy. They often decide which users get access to what data.
 
 
