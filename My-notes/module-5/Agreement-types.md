@@ -16,7 +16,7 @@ Above that are Memorandum of agreement (MOA). This adds more detail about how th
 
 If the partnership is long term, you will probably create a Master Service Agreement (MSA). This is a formal legal contract that sets the framework for the entire relationship.
 
-When a new project comes along, you don’t need to renegotiate the MSA. Instead, you attack a Statement of Work (SOW). Sow is very specific including the scope, deadlines, and deliverables.
+When a new project comes along, you don’t need to renegotiate the MSA. Instead, you attach a Statement of Work (SOW). Sow is very specific including the scope, deadlines, and deliverables.
 
 Sometimes the concern is confidentiality this is where a Non-Disclosure Agreement (NDA). This ensures sensitive information is kept protected. These are signed before any sensitive details are shared.
 
