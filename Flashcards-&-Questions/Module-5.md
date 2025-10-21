@@ -43,3 +43,25 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 -----
 
+Audits and assessments
+
+What is a cyber security audit?
+An audit looks at the entire infrastructure and looks for weaknesses and vulnerabilities before an attacker finds them.
+
+Are audits only done externally?
+No, they can also be done internally.
+
+What is attestation?
+The statement of truth tied to the Audit results
+
+How are internal audits usually conducted?
+They start with a self assessment with all departments reviewing their own processes and checking compliance requirements.
+
+What two things should the audit results show?
+Where we stand today in terms of compliance and where we need to improve for the future.
+
+
+-----
+
+
+
