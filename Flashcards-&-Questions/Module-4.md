@@ -1333,3 +1333,218 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
   <summary>What does CTA stand for?</summary>
   Cyber Threat Alliance.
 </details>
+
+
+-----
+
+### Vulnerability Scanning
+
+<details>
+  <summary>What is a vulnerability scan?</summary>
+  A vulnerability scan checks if a system is susceptible to specific vulnerabilities. The scanner will also do a port scan to check for any open ports.
+</details>
+
+<details>
+  <summary>Does a vulnerability scan attack the system?</summary>
+  No, that would be a penetration test.
+</details>
+
+
+-----
+
+### Web Filtering
+
+<details>
+  <summary>What is a content filter?</summary>
+  These are used to block content like a parent control.
+</details>
+
+<details>
+  <summary>What does URL stand for?</summary>
+  Uniform Resource Locator.
+</details>
+
+<details>
+  <summary>How do content filters work?</summary>
+  They scan the URL and compare it with URLs on the block and allow list.
+</details>
+
+<details>
+  <summary>What is a block list?</summary>
+  A list of sites that a user cannot access.
+</details>
+
+<details>
+  <summary>What is an allow list?</summary>
+  A list of sites a user can access. Everything else will be blocked.
+</details>
+
+<details>
+  <summary>How do you block all of a type of website?</summary>
+  You can create group categories that contain specific information.
+</details>
+
+<details>
+  <summary>What device would you use to set up URL filtering?</summary>
+  NGFW (Next Generation Firewall).
+</details>
+
+<details>
+  <summary>What is an agent-based firewall?</summary>
+  A firewall on the user's device.
+</details>
+
+<details>
+  <summary>What is the benefit of an agent-based firewall?</summary>
+  The user can travel anywhere and still be protected.
+</details>
+
+<details>
+  <summary>What is a proxy?</summary>
+  A proxy sits between the user and the external network, making the requests for the user.
+</details>
+
+<details>
+  <summary>What is a proxy cache?</summary>
+  This is where the proxy stores results from queries so that repeated requests don’t need to go out to the external network again.
+</details>
+
+<details>
+  <summary>What can you control with a proxy?</summary>
+  The flow of traffic — you can control which devices are allowed to access the Internet.
+</details>
+
+<details>
+  <summary>What is an explicit proxy?</summary>
+  When you have to manually tell the device to use the proxy.
+</details>
+
+<details>
+  <summary>What is a transparent proxy?</summary>
+  A proxy that the end user doesn’t realise they are using.
+</details>
+
+<details>
+  <summary>What is a forwarding proxy?</summary>
+  A proxy that forwards requests to the external network on behalf of the user.
+</details>
+
+<details>
+  <summary>What is another name for a forward proxy?</summary>
+  An internal proxy.
+</details>
+
+<details>
+  <summary>What other tools do proxies have?</summary>
+  URL filtering and the ability to block malware.
+</details>
+
+<details>
+  <summary>What are the ranges of risk?</summary>
+  Trustworthy, low risk, medium risk, suspicious, and high risk.
+</details>
+
+<details>
+  <summary>What is a reputation filter?</summary>
+  This means the content filter will look at the reputation of a site before allowing access.
+</details>
+
+<details>
+  <summary>What is DNS filtering?</summary>
+  When the DNS service blocks URLs that are known to be bad or contain malware.
+</details>
+
+
+-----
+
+### Wireless Security Settings
+
+<details>
+  <summary>What are the two main concerns with wireless devices?</summary>
+  Sending data over the network and making sure only authorised users have access to the device.
+</details>
+
+<details>
+  <summary>What can we do to solve these concerns?</summary>
+  Encrypt the data travelling over the network and make sure the correct authentication methods are set up.
+</details>
+
+<details>
+  <summary>What does MIC stand for?</summary>
+  Message Integrity Check.
+</details>
+
+<details>
+  <summary>What does PSK stand for?</summary>
+  Pre-Shared Key.
+</details>
+
+<details>
+  <summary>What encryption tool is no longer recommended with wireless connections?</summary>
+  WPA2.
+</details>
+
+<details>
+  <summary>What is the latest encryption tool used for wireless connections?</summary>
+  WPA3.
+</details>
+
+<details>
+  <summary>What does GCMP stand for?</summary>
+  Galois/Counter Mode Protocol.
+</details>
+
+<details>
+  <summary>What makes WPA3 more secure?</summary>
+  WPA3 includes data confidentiality with AES protocol, message integrity checking with GCMP, mutual authentication, and it creates a shared session key without sending the key over the network.
+</details>
+
+<details>
+  <summary>What does SAE stand for?</summary>
+  Simultaneous Authentication of Equals.
+</details>
+
+<details>
+  <summary>What key exchange does SAE derive from?</summary>
+  Diffie-Hellman.
+</details>
+
+<details>
+  <summary>What is the name for this handshake?</summary>
+  The Dragonfly Handshake.
+</details>
+
+<details>
+  <summary>What type of key is a WiFi password?</summary>
+  PSK (Pre-Shared Key).
+</details>
+
+<details>
+  <summary>What is a more secure version of a WiFi password that an organisation might use?</summary>
+  802.1X, which is a centralised authentication method that may require a username, password, and another type of authentication.
+</details>
+
+<details>
+  <summary>What would a home setup most likely look like?</summary>
+  WPA3-Personal / WPA3-PSK.
+</details>
+
+<details>
+  <summary>What would an organisation setup look like?</summary>
+  WPA3-Enterprise / WPA3-802.1X.
+</details>
+
+<details>
+  <summary>What is the centralised server known as?</summary>
+  The AAA Framework.
+</details>
+
+<details>
+  <summary>How does the AAA Framework work?</summary>
+  It starts with identifying the user via a username, then Authentication (password), Authorisation (what resources are allowed), and Accounting (logging who logged in and what was done).
+</details>
+
+<details>
+  <summary>What is one of the most popular authentication protocols?</summary>
+  RADIUS (Remote Authentication Dial-In User Service).
+</details>
