@@ -92,5 +92,63 @@ This is a prediction of how long equipment will run before failing again.
 
 -----
 
+### Compliance
+
+<details>
+  <summary>What is compliance?</summary>
+  Compliance is the process of meeting required standards.
+</details>
+
+<details>
+  <summary>Where do compliance requirements come from?</summary>
+  Government laws, industry regulations, or agreements made with third parties.
+</details>
+
+<details>
+  <summary>What are the levels that an organisation has to track compliance?</summary>
+  Local, State, Federal, International.
+</details>
+
+<details>
+  <summary>Who oversees the process and creates the report on the organisation’s compliance status?</summary>
+  The Chief Compliance Officer (CCO).
+</details>
+
+<details>
+  <summary>Give an example of when compliance is external:</summary>
+  When working with vendors and partners you may have to meet their requirements and provide compliance reports.
+</details>
+
+<details>
+  <summary>Give 3 examples of regulatory compliance:</summary>
+  - **SOX (Sarbanes-Oxley Act):** Ensures accurate financial reporting for public companies.  
+  - **HIPAA:** Protects medical information in the US.  
+  - **GLBA (Gramm-Leach-Bliley Act):** Governs how financial institutions safeguard customer data.
+</details>
+
+<details>
+  <summary>What are the consequences for failing to comply with compliance standards?</summary>
+  Jail time, fines, loss of licence, loss of partnership, and reputational damage.
+</details>
+
+<details>
+  <summary>What is due care?</summary>
+  This means you are responsible for managing compliance.
+</details>
+
+<details>
+  <summary>What is due diligence?</summary>
+  This means you are vetting and managing third-party compliance.
+</details>
+
+<details>
+  <summary>Who signs off on compliance status?</summary>
+  Executives.
+</details>
+
+
+-----
+
+
 
 
