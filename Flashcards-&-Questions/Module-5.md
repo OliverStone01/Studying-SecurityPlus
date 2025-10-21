@@ -63,5 +63,34 @@ Where we stand today in terms of compliance and where we need to improve for the
 
 -----
 
+Business impact analysis
+
+What does RTO stand for?
+Recovery Time Objective
+
+What is RTO?
+The maximum acceptable amount of time it should take to get critical systems operational again
+
+What does RPO stand for?
+Recovery Point Objective
+
+What is RPO?
+This is how much data you can afford to lose and still be functional.
+
+What does MTTR stand for?
+Mean Time To Repair
+
+What does MTTR mean?
+This is the average time it takes to fully fix a problem. This includes diagnoses, replacing parts, installing new parts, and configuration.
+
+What does MTBF stand for?
+Mean Time Between Failures
+
+What does MTBF mean?
+This is a prediction of how long equipment will run before failing again.
+
+
+-----
+
 
 
