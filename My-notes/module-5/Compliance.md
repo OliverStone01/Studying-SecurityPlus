@@ -27,7 +27,7 @@ If you fail to comply with HIPPA, the fines can reach up to £50,000 and one yea
 
 Compliance isn’t just amount money and jail time. There’s also reputation damage, loss of licences, loss of partnerships, and loss of future contacts.
 
-Due care means you’re responsible for. Managing compliance inside your company.
+Due care means you’re responsible for managing compliance inside your company.
 Due diligence means you’re properly vetting and managing third-party compliance.
 
 Attestation and acknowledgment is executives have to sign off on compliance status. Because they are accountable for ensuring the company is in good standing.
