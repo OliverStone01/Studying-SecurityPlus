@@ -167,3 +167,54 @@ What is a data custodian?
 This person ensures compliance is met with laws, regulations, security, and privacy. They often decide which users get access to what data.
 
 
+-----
+
+### Penetration Tests
+
+<details>
+  <summary>What is a penetration test?</summary>
+  When penetration testers try to break into your system like an attacker to find vulnerabilities.
+</details>
+
+<details>
+  <summary>What are the two teams associated with penetration testers?</summary>
+  Red team (attackers) and Blue team (defenders).
+</details>
+
+<details>
+  <summary>What are the three different levels of a pen test?</summary>
+  Known environment, partially known environment, and unknown environment.
+</details>
+
+<details>
+  <summary>What does it mean when a pen test is conducted in a known environment?</summary>
+  The pen tester has been given or has knowledge on what systems the organisation is running.
+</details>
+
+<details>
+  <summary>What does it mean when a pen test is conducted in a partially known environment?</summary>
+  The pen tester has been given small amounts or has some idea of what systems the organisation is running.
+</details>
+
+<details>
+  <summary>What does it mean when a pen test is conducted in an unknown environment?</summary>
+  The pen tester knows nothing about the system.
+</details>
+
+<details>
+  <summary>What is reconnaissance?</summary>
+  Finding information before an attack.
+</details>
+
+<details>
+  <summary>What is passive reconnaissance?</summary>
+  This is finding information without touching the systems themselves. This prevents alerts from being triggered.
+</details>
+
+<details>
+  <summary>What is active reconnaissance?</summary>
+  This is finding information while attacking the system.
+</details>
+
+
+-----
