@@ -218,3 +218,25 @@ This person ensures compliance is met with laws, regulations, security, and priv
 
 
 -----
+
+### Privacy
+
+<details>
+  <summary>What is GDPR?</summary>
+  A European regulator that protects privacy data.
+</details>
+
+<details>
+  <summary>Give 6 examples of data that is regulated by GDPR:</summary>
+  Name, address, photos, emails, bank details, and social media posts.
+</details>
+
+<details>
+  <summary>What is a data inventory?</summary>
+  A tracker for what data is being collected, who owns it, how often it’s updated, and the format.
+</details>
+
+
+-----
+
+
