@@ -18,7 +18,7 @@ Security policies are broad and some are very detailed. Either way, it should te
 Most organisations keep a master list of security protocols. This isn’t optional, In many cases it’s a mandatory set of rules that maintain uptime, availability, and overall security.
 
 These documents contain:
-- What happens if a virus is found of a workstation
+- What happens if a virus is found on a workstation
 - What if someone tries to connect remotely
 - What if a vulnerability is exploited
 
