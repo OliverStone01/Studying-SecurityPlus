@@ -523,3 +523,24 @@ This person ensures compliance is met with laws, regulations, security, and priv
 
 
 -----
+
+### Security Standards
+
+<details>
+  <summary>What are the two main organisations you can get security frameworks from?</summary>
+  ISO and NIST
+</details>
+
+<details>
+  <summary>What might standards define?</summary>
+  Acceptable authentication methods, rules for secure password resets, and approved password managers.
+</details>
+
+<details>
+  <summary>What are access control standards?</summary>
+  They define who has access to what.
+</details>
+
+
+-----
+
