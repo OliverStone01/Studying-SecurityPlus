@@ -239,4 +239,259 @@ This person ensures compliance is met with laws, regulations, security, and priv
 
 -----
 
+### Risk Analysis
+
+<details>
+  <summary>What are the two main approaches to risk analysis?</summary>
+  Qualitative and quantitative.
+</details>
+
+<details>
+  <summary>What is qualitative analysis?</summary>
+  This is a big picture view. It allows us to see where we need to focus our attention.
+</details>
+
+<details>
+  <summary>How are the levels of risk represented when using qualitative analysis?</summary>
+  Low, medium, and high.
+</details>
+
+<details>
+  <summary>When using quantitative analysis, what do we use to calculate risk in financial terms?</summary>
+  Numbers and formulas.
+</details>
+
+<details>
+  <summary>What does annualised rate of occurrence (ARO) mean?</summary>
+  This tells us how many times a risk might happen a year.
+</details>
+
+<details>
+  <summary>What does asset value (AV) mean?</summary>
+  The amount something owned by the company is worth. This isn’t just the cost to replace the asset but also the total lost sales, fines, or other impacts.
+</details>
+
+<details>
+  <summary>What does exposure factor mean?</summary>
+  This is the percentage of the asset lost if the risk occurs.
+</details>
+
+<details>
+  <summary>If you lose 25% of an asset, what is the exposure factor?</summary>
+  0.25
+</details>
+
+<details>
+  <summary>If you lose 100% of an asset, what is the exposure factor?</summary>
+  1.0
+</details>
+
+<details>
+  <summary>How do you calculate the single loss expectancy (SLE)?</summary>
+  Asset value × exposure factor.
+</details>
+
+<details>
+  <summary>If a laptop is stolen with an asset value of £1,000, what is the SLE?</summary>
+  £1,000
+</details>
+
+<details>
+  <summary>If seven laptops are stolen with an asset value of £1,000 each, what is the SLE?</summary>
+  £7,000
+</details>
+
+<details>
+  <summary>Risk isn’t just about money — what other factors do we need to look at?</summary>
+  Life and safety, property, and broader financial impacts.
+</details>
+
+<details>
+  <summary>What is likelihood?</summary>
+  This is more qualitative, meaning it gives a quick overview of the chance of something happening (rare, possible, almost certain).
+</details>
+
+<details>
+  <summary>What is probability?</summary>
+  Calculations made to get the chance of something happening, often based on history or predictions.
+</details>
+
+<details>
+  <summary>What is risk appetite?</summary>
+  This is how much risk the organisation is willing to take.
+</details>
+
+<details>
+  <summary>What is risk tolerance?</summary>
+  This is how much risk the organisation will allow.
+</details>
+
+<details>
+  <summary>What is a risk register?</summary>
+  A document that lists every risk tied to a project. Each risk is described, assigned to an owner, and given a threshold. This means everyone understands the risks and what options exist to manage or avoid them.
+</details>
+
+
+-----
+
+### Risk Management Strategies
+
+<details>
+  <summary>What is risk transfer?</summary>
+  Handing off risk to someone else. For example, cybersecurity insurance — the financial risk will be covered by the insurance.
+</details>
+
+<details>
+  <summary>What is risk acceptance?</summary>
+  When an organisation understands the risks and decides to live with them. This might mean making exemptions or exceptions to policies.
+</details>
+
+<details>
+  <summary>What is risk avoidance?</summary>
+  This means you remove the risk entirely, leaving nothing left to manage.
+</details>
+
+<details>
+  <summary>What is risk mitigation?</summary>
+  This is where you reduce the risk to a safer level. For example, using a firewall.
+</details>
+
+<details>
+  <summary>What is risk reporting?</summary>
+  This is where we document all known risks, including how they’re being handled. This helps keep leadership informed.
+</details>
+
+
+-----
+
+### Risk Management
+
+<details>
+  <summary>What is risk management?</summary>
+  The process of identifying, assessing, and addressing risks before they become a serious problem.
+</details>
+
+<details>
+  <summary>Where do threats come from?</summary>
+  Inside and outside of the organisation.
+</details>
+
+<details>
+  <summary>What are the 5 ways to perform risk assessments?</summary>
+  One-time assessments, ongoing assessments, ad hoc assessments, scheduled assessments, and mandated assessments.
+</details>
+
+<details>
+  <summary>What is an ad hoc assessment?</summary>
+  Ad hoc means for this purpose only. These are triggered by specific concerns.
+</details>
+
+<details>
+  <summary>What are mandated assessments?</summary>
+  Assessments that are required by law or regulations.
+</details>
+
+<details>
+  <summary>Why do we do risk management?</summary>
+  To ensure organisations understand where they’re vulnerable and have plans in place to minimise the impact of a potential threat.
+</details>
+
+
+-----
+
+### Security Awareness
+
+<details>
+  <summary>What is security awareness?</summary>
+  The act of training employees to spot and how to respond to security threats like phishing emails.
+</details>
+
+<details>
+  <summary>What anomalous behaviour do we also train users to spot?</summary>
+  Risky actions (modifying host files), unexpected activity (log in attempt from a different country), and unintentional mistakes (mistyping domains).
+</details>
+
+
+-----
+
+### Security Considerations
+
+<details>
+  <summary>What is breach disclosure?</summary>
+  If your organisation is compromised, you must inform regulators and possibly the public.
+</details>
+
+
+-----
+
+### Security Policies
+
+<details>
+  <summary>What is the CIA triad?</summary>
+  Confidentiality, integrity, availability. These are the three main goals of cyber security.
+</details>
+
+<details>
+  <summary>What should security policies tell you?</summary>
+  It should tell you what you should do and why you need to do it.
+</details>
+
+<details>
+  <summary>How do you enforce these policies?</summary>
+  Technical security controls.
+</details>
+
+<details>
+  <summary>Give three examples of what might be on the master list of security protocols:</summary>
+  It contains what happens if a virus is found on a workstation, what happens if someone tries to remote connect, and what if a vulnerability is exploited.
+</details>
+
+<details>
+  <summary>What does the roles and responsibilities section on the master list contain?</summary>
+  The contact information for who to call if there is a problem.
+</details>
+
+<details>
+  <summary>What is the acceptable use policy (AUP)?</summary>
+  This governs what you can and cannot do on company technology. It helps to protect the organisation legally if something illegal is done.
+</details>
+
+<details>
+  <summary>What is a business continuity plan?</summary>
+  A plan for how the organisation can continue to operate without technology.
+</details>
+
+<details>
+  <summary>What is disaster recovery?</summary>
+  This covers how you would recover to a recovery site if the main site has been destroyed.
+</details>
+
+<details>
+  <summary>What is an incident response policy?</summary>
+  Outlines what to do if malware is executed or a phishing attack occurs.
+</details>
+
+<details>
+  <summary>What is the lifecycle of the NIST framework outlined in 800-61?</summary>
+  Preparation, detection and analysis, containment, eradication and recovery, and post incident review.
+</details>
+
+<details>
+  <summary>What is the software development lifecycle (SDLC)?</summary>
+  This is a structured process for building applications.
+</details>
+
+<details>
+  <summary>What is included in the software development lifecycle?</summary>
+  Requirements and development, testing, deployment, and maintenance.
+</details>
+
+<details>
+  <summary>What is change management?</summary>
+  This is what must happen before any changes like updates are made to a device. This outlines what to do if something goes wrong and to prevent disruption to the organisation.
+</details>
+
+
+-----
+
 
