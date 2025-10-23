@@ -494,4 +494,32 @@ This person ensures compliance is met with laws, regulations, security, and priv
 
 -----
 
+### Security Procedures
 
+<details>
+  <summary>Why do we have security procedures?</summary>
+  To keep an organisation consistent, safe, and accountable.
+</details>
+
+<details>
+  <summary>What is onboarding?</summary>
+  Onboarding is the process of adding new employees by providing policies and acceptable use agreements, setting up new accounts, and issuing devices to work from.
+</details>
+
+<details>
+  <summary>What is a playbook?</summary>
+  Step by step guides for specific events like investigating a breach or responding to ransomware.
+</details>
+
+<details>
+  <summary>What is SOAR?</summary>
+  Security, Orchestration, Automation, and Response.
+</details>
+
+<details>
+  <summary>What does SOAR do?</summary>
+  It is a way to automate playbooks by tying different systems together, automate routine tasks, and free security staff to focus on bigger threats.
+</details>
+
+
+-----
