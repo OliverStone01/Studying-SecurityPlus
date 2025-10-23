@@ -544,3 +544,17 @@ This person ensures compliance is met with laws, regulations, security, and priv
 
 -----
 
+### Third-Party Risk Assessment
+
+<details>
+  <summary>What is a right to audit clause?</summary>
+  This is the part of the contract that allows you to perform regular audits on the vendor’s security controls.
+</details>
+
+<details>
+  <summary>What is the benefit to bringing in an independent assessor?</summary>
+  They are able to see patterns across many organisations, which means they may be able to highlight risks you may have missed.
+</details>
+
+
+-----
