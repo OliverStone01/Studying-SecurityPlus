@@ -558,3 +558,14 @@ This person ensures compliance is met with laws, regulations, security, and priv
 
 
 -----
+
+User training
+
+What are ways of preventing internal threats?
+Multiple approvals for critical change, File monitoring that alerts immediately when sensitive file are modified, and strong safeguards that make bypassing controls very different.
+
+What should remote work employees never do?
+Never let family or friends use work systems.
+
+
+-----
