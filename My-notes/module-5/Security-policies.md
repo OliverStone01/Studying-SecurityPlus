@@ -49,5 +49,5 @@ Policies also extend into the software development lifecycles (SDLC). This is th
 
 Two common approaches are waterfall (linear) and agile (iterative which is much faster).
 
-Every update that is done on a system must go throughChange management. This is a structured process which ensures updates do not disrupt business operations and must always include a fallback plan for if something goes wrong.
+Every update that is done on a system must go through change management. This is a structured process which ensures updates do not disrupt business operations and must always include a fallback plan for if something goes wrong.
 
