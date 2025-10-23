@@ -11,7 +11,7 @@ The main goal of a security administrator is to maintain the CIA triad:
 - Integrity
 - Availability
 
-To achieve this, we reply of rules and policies that everyone must follow.
+To achieve this, we set rules and policies that everyone must follow.
 
 Security policies are broad and some are very detailed. Either way, it should tell us what we should do and why we need to do it. The enforcement of these policies and rules comes through technical security controls. 
 
