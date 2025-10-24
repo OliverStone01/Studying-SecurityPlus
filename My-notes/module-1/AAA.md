@@ -6,7 +6,7 @@
 
 ### Notes
 
-Identification is telling the system who you claim to be. This is ususally done via your `username`.
+Identification is telling the system who you claim to be. This is ususally done via a `username`.
 
 Authentication is the act of proving who you say you are. This can be done via a `Password` and other authentication factors
 
@@ -21,6 +21,7 @@ An example of using triple AAA is logging in to a VPN for example. The user goes
 A device cannot type a password itself, so we must provide it with a signed certificate that proves its authentication. This certificate must be signed by a `Certificate Authority (CA)` and given to the device. 
 
 To assing authorisation to specific systems, we can use an authorisation model that is placed between the user and the software and will only allow those that we have specified based on roles, organisation, attributes, etc.
+
 
 
 
