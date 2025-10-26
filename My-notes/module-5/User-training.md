@@ -6,7 +6,7 @@
 
 ### Notes
 
-Security training is a best practice and it is important to do before a user ever connects to the network.
+Security training is the best practice and it is important to do before a user ever connects to the network.
 
 Training isn’t a one size fits all and the training may beed to be adjusted depending on what department and what their job role is.
 
