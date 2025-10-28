@@ -13,55 +13,55 @@ B. Sending deceptive emails to trick users into revealing credentials
 C. Exploiting buffer memory to execute arbitrary code  
 D. Monitoring network packets for unencrypted passwords  
 
-2. An attacker intercepts and alters communications between two parties. What attack is this?  
+3. An attacker intercepts and alters communications between two parties. What attack is this?  
 A. Brute-force attack  
 B. Man-in-the-middle  
 C. Denial of Service  
 D. Phishing  
 
-3. Which malware hides its presence by modifying system files and masking processes?  
+4. Which malware hides its presence by modifying system files and masking processes?  
 A. Logic bomb  
 B. Rootkit  
 C. Trojan horse  
 D. Worm  
 
-4. A hacker sends thousands of SYN packets to overwhelm a server. This is an example of:  
+5. A hacker sends thousands of SYN packets to overwhelm a server. This is an example of:  
 A. Replay attack  
 B. SYN flood  
 C. Session hijacking  
 D. ARP poisoning  
 
-5. Which type of vulnerability arises from poor input sanitization in web forms?  
+6. Which type of vulnerability arises from poor input sanitization in web forms?  
 A. SQL injection  
 B. Phishing  
 C. Dictionary attack  
 D. DoS attack  
 
-6. Which of the following describes ransomware?  
+7. Which of the following describes ransomware?  
 A. Steals credentials by keylogging  
 B. Encrypts user data and demands payment  
 C. Hijacks browser sessions  
 D. Deletes data upon execution  
 
-7. What is the purpose of a honeypot?  
+8. What is the purpose of a honeypot?  
 A. Protect endpoints from malware  
 B. Deceive attackers to study their behavior  
 C. Encrypt sensitive files  
 D. Prevent SQL injection  
 
-8. An attacker uses DNS queries to exfiltrate data. What is this called?  
+9. An attacker uses DNS queries to exfiltrate data. What is this called?  
 A. Cross-site scripting  
 B. DNS tunneling  
 C. Spoofing  
 D. Data breach  
 
-9. Which attack attempts every possible password combination?  
+10. Which attack attempts every possible password combination?  
 A. Dictionary  
 B. Brute force  
 C. Password spraying  
 D. Rainbow table  
 
-10. Which vulnerability scanner output shows “CVE-2024-1111” entries?  
+11. Which vulnerability scanner output shows “CVE-2024-1111” entries?  
 A. Compliance checklist  
 B. Common Vulnerabilities and Exposures ID  
 C. Port number reference  
