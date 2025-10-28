@@ -127,3 +127,131 @@ B. Worm
 C. Ransomware  
 D. Rootkit
 
+---
+ 
+**Domain 2 – Architecture & Design (21–28)**
+
+21. Which network design concept limits the impact of a compromise by separating environments?  
+A. Segmentation  
+B. Redundancy  
+C. Availability zone  
+D. Load balancing
+
+22. A DMZ primarily provides which benefit?  
+A. Database backup  
+B. Isolation of public-facing servers from internal networks  
+C. File encryption  
+D. Secure wireless access
+
+23. Which of the following is a defense-in-depth approach?  
+A. Using multiple security controls at different layers  
+B. Relying on a single firewall for protection  
+C. Disabling logging to improve performance  
+D. Granting all users admin rights on endpoints
+
+24. What is the primary goal of zero trust architecture?  
+A. Trust devices on the internal network by default  
+B. Never trust and always verify user and device identity for each request  
+C. Replace encryption with segmentation  
+D. Permit access once on VPN regardless of device posture
+
+25. Which control is BEST for preventing unauthorized physical access to a server room?  
+A. Role-based access control (RBAC)  
+B. Physical access control (badges, biometrics)  
+C. Network ACLs  
+D. Application allow listing
+
+26. Which design principle improves availability by distributing load across multiple servers?  
+A. Fault injection  
+B. Load balancing  
+C. Encryption  
+D. Access control
+
+27. Which architecture reduces the blast radius by isolating critical services?  
+A. Flat network design  
+B. Microsegmentation  
+C. Single VLAN for all services  
+D. Shared hosting
+
+28. Which of the following is an example of secure by design?  
+A. Adding authentication after deployment  
+B. Embedding security early in the software development lifecycle (SDLC)  
+C. Disabling encryption to reduce latency  
+D. Sharing admin passwords among developers
+
+**Domain 3 – Implementation (29–40)**
+
+29. Which protocol provides secure remote management of network devices?  
+A. Telnet  
+B. SSH  
+C. FTP  
+D. HTTP
+
+30. To securely store passwords, which approach is recommended?  
+A. Encrypt passwords with reversible symmetric keys  
+B. Store passwords in plaintext in the database  
+C. Hash passwords with a strong algorithm and unique salt  
+D. Use Base64 encoding for stored passwords
+
+31. Which technology allows centralized authentication and single sign-on across many services?  
+A. Kerberos or SAML-based SSO  
+B. RADIUS only for wireless  
+C. Local accounts on each server  
+D. FTP-based authentication
+
+32. Which control helps ensure software running on endpoints is known and approved?  
+A. Application allow listing  
+B. Firewall rule tightening  
+C. DNS sinkholing  
+D. Public key infrastructure
+
+33. Which encryption model uses the same key for encryption and decryption?  
+A. Asymmetric encryption  
+B. Symmetric encryption  
+C. Public key cryptography  
+D. Hashing
+
+34. Which is the BEST method to secure web application session tokens?  
+A. Store tokens in localStorage without expiration  
+B. Use secure, HTTP-only cookies with appropriate expiration and rotation  
+C. Embed tokens in URLs for convenience  
+D. Use plain text cookies across subdomains
+
+35. What does MFA stand for and why is it used?  
+A. Mandatory File Access — to restrict file reads  
+B. Multi-Factor Authentication — to require two or more forms of identity proof  
+C. Managed Firewall Access — to centrally manage firewalls  
+D. Mutual File Authorization — to share files securely
+
+36. Which email authentication protocol helps detect forged sender addresses by verifying sending servers?  
+A. S/MIME  
+B. SPF  
+C. TLS  
+D. POP3
+
+37. Which control is MOST effective at preventing exploitation of known OS vulnerabilities across many endpoints?  
+A. Regular patch management  
+B. Application obfuscation  
+C. Hiding ports with NAT  
+D. Disabling logging
+
+38. Which technique protects against interception of credentials by ensuring one-time codes change constantly?  
+A. Static passwords  
+B. Time-based one-time passwords (TOTP)  
+C. Reused session cookies  
+D. Storing credentials in plain text
+
+39. For enterprise Wi-Fi, which combination provides centralized authentication with the strongest enterprise controls?  
+A. WPA2-Personal with a shared PSK  
+B. WEP with hidden SSID  
+C. WPA2-Enterprise with 802.1X (RADIUS)  
+D. Open Wi-Fi with VPN required
+
+40. Which service type provides authentication and authorization for devices seeking access to network resources (e.g., NAC enforcement)?  
+A. DHCP server only  
+B. Network access control (NAC) with posture checks  
+C. DNS resolver  
+D. SMTP relay
+
+---
+
