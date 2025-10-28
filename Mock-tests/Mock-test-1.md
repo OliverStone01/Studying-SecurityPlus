@@ -5,11 +5,7 @@
 
 ---
 
-# Security+ SY0-701 Practice Exam #1  
-**Questions 1–20**  
 **Domain 1 – Threats, Attacks, and Vulnerabilities**  
-
----
 
 1. Which of the following best describes a phishing attack?  
 A. Injecting malicious code into a database query  
