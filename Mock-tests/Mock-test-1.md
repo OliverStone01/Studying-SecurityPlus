@@ -61,11 +61,65 @@ B. Brute force
 C. Password spraying  
 D. Rainbow table  
 
-11. Which vulnerability scanner output shows “CVE-2024-1111” entries?  
-A. Compliance checklist  
-B. Common Vulnerabilities and Exposures ID  
-C. Port number reference  
-D. Encryption algorithm index  
+11. What technique involves an attacker supplying unexpected input to a program to overwrite memory?  
+A. SQL injection  
+B. Buffer overflow  
+C. Cross-site request forgery  
+D. Directory traversal  
+
+12. Which social-engineering attack specifically targets high-level executives?  
+A. Vishing  
+B. Whaling  
+C. Tailgating  
+D. Baiting  
+
+13. An attacker sends a flood of traffic to a web service to exhaust resources. This is a:  
+A. Man-in-the-middle attack  
+B. Denial-of-service attack  
+C. DNS tunneling  
+D. Privilege escalation attempt  
+
+14. Which attack tricks a user into executing a malicious link via voice communication?  
+A. Phishing  
+B. Smishing  
+C. Vishing  
+D. Watering hole  
+
+15. What is the primary goal of reconnaissance in the attack lifecycle?  
+A. Exploit vulnerabilities to gain admin rights  
+B. Gather information to plan later stages of an attack  
+C. Encrypt data for ransom  
+D. Clean up traces of intrusion  
+
+16. Which of the following is an example of credential stuffing?  
+A. Trying commonly used passwords across many accounts  
+B. Using stolen username/password pairs from other breaches to login  
+C. Phishing users for passwords via fake sites  
+D. Brute-forcing a single account with many guesses  
+
+17. A malicious script on one website executes in another user's browser because content wasn't escaped. This is:  
+A. Cross-site scripting (XSS)  
+B. Cross-site request forgery (CSRF)  
+C. SQL injection  
+D. Local file inclusion  
+
+18. Attackers modify DNS records to redirect users to malicious sites. This is called:  
+A. DNS spoofing/poisoning  
+B. ARP poisoning  
+C. URL filtering  
+D. Subdomain takeover  
+
+19. Which technique allows attackers to maintain persistent access by altering registry keys or services?  
+A. Lateral movement  
+B. Privilege escalation  
+C. Persistence mechanisms  
+D. Data exfiltration  
+
+20. What type of malware replicates itself across systems without user interaction?  
+A. Trojan  
+B. Worm  
+C. Ransomware  
+D. Rootkit
 
 ---
 
