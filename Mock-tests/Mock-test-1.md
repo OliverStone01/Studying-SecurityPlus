@@ -1,5 +1,5 @@
 # Security+ SY0-701 Practice Exam #1  
-**Total Questions:** 90  
+**Total Questions:** 100  
 **Format:** Multiple choice  
 **Instructions:** Choose the *best* answer (A–D).  
 
