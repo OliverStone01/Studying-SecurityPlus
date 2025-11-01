@@ -1,2 +1,3 @@
-# Studying-SecurityPlus
-Here are all my study notes and flashcards/test questions ive made while learning and preparing to take the Security+ exam. For studying, I'm watching Professor Messer on YouTube and Reading the official Security+ book followed by testing my self on my flashcards and the security+ practice tests book.
+# 🎓 Studying for CompTIA Security+ certificate.
+
+This repository contains my notes, flashcards, and mock tests for my CompTIA Security+ exam. I study by watching, taking notes, and creating flashcards from Professor Messer’s Security+ Playlist on [Youtube](https://youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv&si=QIEwVHMJXwJAWtfl). I also read and listen to the official CompTIA Security+ Study Guide on Audible.
