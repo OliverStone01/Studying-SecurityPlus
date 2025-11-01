@@ -1,4 +1,7 @@
-### 📚 Notes from the CompTIA Security+ Study Guide
+#### 📚 CompTIA Security+ Study Guide notes
+
+----
+
 
 
 
