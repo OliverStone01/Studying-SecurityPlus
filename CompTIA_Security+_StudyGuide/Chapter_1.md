@@ -2,17 +2,17 @@
 ------
 ### Chapter 1: Today's Security Professional
 
-Security professionals are responsible for protecting confidentiality, integrity, and availability of information and informations used by their organisations. This requires a strong understanding of the threat enviroment facing their organisation and a commitment to design and implementing controls capable of dealing with those threats.
+Security professionals are responsible for protecting confidentiality, integrity, and availability of information and information used by their organisations. This requires a strong understanding of the threat environment facing their organisation and a commitment to designing and implementing controls capable of dealing with those threats.
 
-**Cybersecuirty Objectives**
+**Cybersecurity Objectives**
 
 The three key objectives of cybersecurity programs are confidentiality, integrity, and availability.
 
-Confidentiallity ensures that unauthorised individuals are unable to gain access to sensitive information. Integrity ensures that there are no unauthorised modifications to information or systems. Availability ensures that information and systems are ready to meet the needs of legitimate users.
+Confidentiality ensures that unauthorised individuals are unable to gain access to sensitive information. Integrity ensures that there are no unauthorised modifications to information or systems. Availability ensures that information and systems are ready to meet the needs of legitimate users.
 
 These three key objectives are known as the CIA Triad.
 
-Nonrepudiation means that someone who preforms an action can not later deny having taken that action.
+Nonrepudiation means that someone who performs an action cannot later deny having taken that action.
 
 > Exam Note:  
 The main components of the CIA triad are Confidentiality, Integrity, and Availability. Also know that nonrepudiation is the assurance that someone cannot later deny doing something.
@@ -25,7 +25,7 @@ A security professional is responsible for understanding these risks and impleme
 
 **The DAD Triad**
 
-The DAD triad explains the three key threats to cybersecurity efforts: Disclosure, Alteration, and Denial. Disclosure is the exposure of sensitive information to unauthorised individuals. This is also known as data loss.Alteration is the unauthorised modification of information and is a violation of the principle of integrity. Denial is the disruption of an authorised user'slegitimate access to information.
+The DAD triad explains the three key threats to cybersecurity efforts: Disclosure, Alteration, and Denial. Disclosure is the exposure of sensitive information to unauthorised individuals. This is also known as data loss. Alteration is the unauthorised modification of information and is a violation of the principle of integrity. Denial is the disruption of an authorised user's legitimate access to information.
 
 Whenever you find yourself tasked with assessing the security controls used to protect an asset or the threats to an organisation, you can use the CIA and DAD triads for guidance. 
 
@@ -46,7 +46,15 @@ Technical and business leaders will express the level of protection requirements
 **Gap analysis**
 During a gap analysis, the cybersecurity professonal reviews the control objectives and then examines the control designed to achieve those objectives. If there are any cases where the controls do not meet the control objective, this is a gap. These gaps should be treated as potential risks and remediated as time and resources permit.
 
-**Security Control categories
+**Security Control categories**
+
+Security controls are categorised based on the way they achieve their objectives. Here are the four different categories:
+- **Technical controls** are digital controls such as firewall rules, access control lists, intrusion prevention systems, and encryption.
+- **Operational controls** are controls used to manage technology in a secure manaer. This includes user access reviews, log monitoring, and vulnerability management.
+- **Managerial controls** are procedures that focus on the risk management process. This includes, periodic risk assesments, security planning excercises, and incorperation of security into the organisations change management.
+- **Physical controls** are controls that impact the physical world. for example, fences, lighting, and alarms.
+
+
 
 
 
