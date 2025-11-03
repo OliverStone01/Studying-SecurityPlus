@@ -56,12 +56,3 @@ Security controls are categorised based on the way they achieve their objectives
 
 
 
-
-
-
-
-
-
-
-
-
