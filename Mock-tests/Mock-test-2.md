@@ -19,7 +19,9 @@ Passing score on real exam: 750/900 (roughly 83%) - aim for 85%+ here
 
 
 Security+ Practice Exam (40 Questions)
-Domain 1: General Security Concepts
+
+##### Domain 1: General Security Concepts.  
+
 1. Which of the following BEST describes defense in depth?  
 A) Using multiple firewalls in series  
 B) Implementing security controls at various layers  
@@ -51,7 +53,7 @@ C) Something you know
 D) Somewhere you are  
 
 
-Domain 2: Threats, Vulnerabilities, and Mitigations  
+##### Domain 2: Threats, Vulnerabilities, and Mitigations.  
 
 6. An attacker sends an email that appears to be from a trusted source, asking the recipient to click a link and enter credentials. This is an example of:  
 A) Vishing  
@@ -102,7 +104,7 @@ C) Replay attack
 D) DNS poisoning  
 
 
-Domain 3: Security Architecture  
+##### Domain 3: Security Architecture.  
 
 14. Which cloud deployment model is used exclusively by a single organization?  
 A) Public cloud  
@@ -147,7 +149,7 @@ C) Ethernet
 D) UDP  
 
 
-Domain 4: Security Operations  
+##### Domain 4: Security Operations.  
 
 21. Which log type would MOST likely contain information about failed login attempts?  
 A) Application logs  
@@ -198,7 +200,7 @@ C) Quantitative is for technical risks; qualitative is for business risks
 D) Quantitative requires less expertise  
 
 
-Domain 5: Security Program Management and Oversight  
+##### Domain 5: Security Program Management and Oversight.  
 
 29. Which framework provides guidelines for managing IT service delivery?  
 A) NIST CSF  
@@ -243,7 +245,7 @@ C) To speed up system updates
 D) To reduce IT costs  
 
 
-Performance-Based Questions (Choose the BEST answer)  
+##### Performance-Based Questions (Choose the BEST answer)  
 
 36. You need to configure firewall rules for a web server in a DMZ. Which rules should be implemented? (Choose the BEST answer)  
 A) Allow inbound 80/443 from Internet, allow outbound 80/443 to Internet, deny all other traffic  
