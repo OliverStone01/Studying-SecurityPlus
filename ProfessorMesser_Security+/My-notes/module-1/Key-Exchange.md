@@ -8,7 +8,7 @@
 
 Out-of-bank key exchange is exchanging the key in person and not on the internet.
 
-In-band key exchange is exchanging the key over the network. We can do this by using asymmetric encrpytion to deliver a symmetric key.
+In-band key exchange is exchanging the key over the network. We can do this by using asymmetric encryption to deliver a symmetric key.
 
 In-band key exchange is quick and it is commonly seen when sharing session keys. These keys must be discarded between use.
 
