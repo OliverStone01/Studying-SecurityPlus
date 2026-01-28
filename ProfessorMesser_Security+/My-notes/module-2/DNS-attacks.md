@@ -6,7 +6,7 @@
 
 ### Notes
 
-DNS = Donain Name Service
+DNS = Domain Name Service
 
 DNS servers allows us to use domain names and connects them to the IP address of that site. This allows us to brand and create easy to remember urls instead of needing to remember IP Addresses for every site.
 
@@ -16,7 +16,7 @@ DNS poisoning can be done by modifying the DNS server which is very difficult an
 
 Instead, attacker can modify the host file that is in the users device. The host file contains common sites the user visits. This way the device doesn’t have to query the DNS server every time you visit the site. 
 
-Another method would be to preform a man in the middle attack with the request and return back a diffrent address to the user.
+Another method would be to preform a man in the middle attack with the request and return back a different address to the user.
 
 Domain hijacking is where the attacker has access to the domain registration and changing the address that’s the domain links to.
 
