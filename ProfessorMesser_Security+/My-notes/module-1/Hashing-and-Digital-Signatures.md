@@ -12,7 +12,7 @@ Hashes are used as fingerprints and for proving non reputations. We can hash a f
 
 Hashes can also be used when creating digital signatures.
 
-A common hashing algorithm is SHA256. This hash takes 256 bits and returns 64 hexadimal
+A common hashing algorithm is SHA256. This hash takes 256 bits and returns 64 hexadecimal
 
 Collisions are when two completely different pieces of data create the same hash value. This is something we really want to avoid
 
