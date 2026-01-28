@@ -10,7 +10,7 @@ Hardware devices that are connected to the network are are risk of being attacke
 
 Firmware is the software inside of the hardware.
 
-Vendors are the only one that can ammend the firmware.
+Vendors are the only one that can amend the firmware.
 
 EOL = End of life.
 EOSL = End of service life
