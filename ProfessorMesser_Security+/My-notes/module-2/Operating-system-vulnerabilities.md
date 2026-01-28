@@ -10,5 +10,5 @@ It is important to keep your operating system up to data and patched as often as
 
 The reason it is important to update is because windows will announce at the same time what vulnerabilities they are patching. This means attackers will try reverse engineer these attacks and try them on non updated systems.
 
-It is important to make backups incase these updates are filled with vulnerable code.
+It is important to make backups in case these updates are filled with vulnerable code.
 
