@@ -1,6 +1,6 @@
 #### 🎓 Professor Messer Study Notes
 
-## Zero-day Vulnerabilites - CompTIA Security+ SY0-701 - 2.3
+## Zero-day Vulnerabilities - CompTIA Security+ SY0-701 - 2.3
 
 [Link to video](https://youtu.be/FDFxGLnZtoY?si=eGL6QlzJ57XRIdDq)
 
@@ -10,7 +10,7 @@ Many applications have vulnerabilities in them that are yet to be found. These a
 
 Researchers and attackers are always working to find the next big vulnerability.
 
-Becuase the vendor does not know about the vulnerability, there are no patches.
+Because the vendor does not know about the vulnerability, there are no patches.
 
 
 
