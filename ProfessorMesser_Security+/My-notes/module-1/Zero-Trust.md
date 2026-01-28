@@ -6,11 +6,11 @@
 
 ### Notes
 
-Zero trust means that you have to authenticate your self everytime you want to access any resources on a network or system.
+Zero trust means that you have to authenticate your self every time you want to access any resources on a network or system.
 
 This can mean that you need to use multifactor authentication, encryption when sending and storing data, system permissions, additional firewalls, monitoring, and analytics.
 
-To implement Zero trust, we can split the network into functional planes. This means we can control each section of the network with diffrent security features.
+To implement Zero trust, we can split the network into functional planes. This means we can control each section of the network with different security features.
 
 The first plane is the `Data plane`. This is where all network processing, forwarding, trunking, and encrypting takes place. Including processing frames, packets, and network data.
 
@@ -22,15 +22,15 @@ Adaptive identity is able to check the physical location of the device, type of 
 
 Threat scope reduction is reducing the amount of entry points to a network or physical building.
 
-Policy-driven access control examins the adaptive identity with a predefined set of rules to detemin if the user is who they say they are.
+Policy-driven access control examines the adaptive identity with a predefined set of rules to determine if the user is who they say they are.
 
-Security zones are areas you set and can then control how each zone can talk to each other and what rules apply to diffrent security zones.
+Security zones are areas you set and can then control how each zone can talk to each other and what rules apply to different security zones.
 
 Policy enforcement point (PEP) is a gatekeeper that all the traffic on the network must pass through and will be subject to examination. The PEP then passes this information to the `policy decision point` which is made up of the `policy engine` and the `policy administrator` which will then decide whether the request is denied or accepted. 
 
 The policy engine evaluates each access decision based on policy and other sources of information. It will then either grant, deny, or revoke access. 
 
-The policy administrator will then take the decicion of the policy engine and pass it back to the PEP. 
+The policy administrator will then take the decision of the policy engine and pass it back to the PEP. 
 
 
 
