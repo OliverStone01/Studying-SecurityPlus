@@ -10,8 +10,8 @@ Impersonation is when the attacker pretends to be something/someone they are not
 
 Identity fraud is when the attacker pretends to be you to steal information or register something under your are.
 
-Remeber:
+Remember:
 - Never volunteer information
 - Don't disclose personal details
-- Always verify before realing information
+- Always verify before reading information
 
