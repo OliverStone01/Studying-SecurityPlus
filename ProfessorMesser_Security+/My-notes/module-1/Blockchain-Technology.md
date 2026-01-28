@@ -16,7 +16,7 @@ We can use blockchains for
 - Supply chain monitoring
 - Digital voting
 
-When a transaction is processed, the transaction is sent to everyone on the blockchain updating everyones ledger. 
+When a transaction is processed, the transaction is sent to everyone on the blockchain updating everyone's ledger. 
 
 
 
