@@ -19,9 +19,9 @@ For large data centers and servers, we use HSM (Hardware Security Module) instea
 
 We can attach high-end cryptographic hardware and cryptographic accelerators to the HMS to preform quicker and manage performance better.
 
-To manage all our keys, we use a software called a `Key Management System`. Here we can create keys, associate keys with spacific users, rotate keys, and log key use and important events.
+To manage all our keys, we use a software called a `Key Management System`. Here we can create keys, associate keys with specific users, rotate keys, and log key use and important events.
 
-To manage security on a device, we use a `Security enclave` which is a seperate processor on your device. This device is does many tasks without the need of any other processor:
+To manage security on a device, we use a `Security enclave` which is a separate processor on your device. This device is does many tasks without the need of any other processor:
 - Has it's own boot ROM
 - Monitors the systems boot process
 - True random number generator
