@@ -8,9 +8,9 @@
 
 Code Injection is where the attacker will input their own code into the application.
 
-This happens becuase of bad programming from the developers.
+This happens because of bad programming from the developers.
 
-There are many diffrent types of data injection:
+There are many different types of data injection:
 - HTML
 - SQL
 - XML
