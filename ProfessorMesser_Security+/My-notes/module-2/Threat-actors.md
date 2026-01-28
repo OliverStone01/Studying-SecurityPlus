@@ -6,13 +6,13 @@
 
 ### Notes
 
-A threat actor is the entity that causes the event that has an impact on the safety of another entiry. We also call these a malicious actor.
+A threat actor is the entity that causes the event that has an impact on the safety of another entity. We also call these a malicious actor.
 
-Its helpful to know who the attacker is during an attack becuase it allows you to understand why the attack is happening and whether it is a directed or random attack.
+Its helpful to know who the attacker is during an attack because it allows you to understand why the attack is happening and whether it is a directed or random attack.
 
 There are internal and external attackers. Internal attackers could be employees. 
 
-Resources and funding is another way to characterise an attacker. If they have no money then they have limited access to resources or they may have extensive funding like a goverment hacker who will have unlimited resources.
+Resources and funding is another way to characterise an attacker. If they have no money then they have limited access to resources or they may have extensive funding like a government hacker who will have unlimited resources.
 
 Its also good to know the level of sophistication/capability of an attacker. 
 
@@ -34,9 +34,9 @@ Here are some attacker types and their motivations:
 
 - External entity
 
-These hackers are goverment run. They may have many diffrent motivations from Data exfiltration, Philosophical, revenge, disruption, war.
+These hackers are government run. They may have many different motivations from Data exfiltration, Philosophical, revenge, disruption, war.
 
-Goverments have massive amounts of resources which means they can have constant attacks.
+Governments have massive amounts of resources which means they can have constant attacks.
 
 APT - Advanced Persistent Threat
 
@@ -50,7 +50,7 @@ Runs pre-made scripts without any knowledge of whats really happening.
 
 These attackers are usually motivated by the attack its self.
 
-These attackers can be internal or external and they are not usualy very sophisitcated as they have limited resources.
+These attackers can be internal or external and they are not usually very sophisticated as they have limited resources.
 
 No formal funding
 
@@ -60,7 +60,7 @@ No formal funding
 
 A hacker motivated by philosophy, revenge, disruption, etc.
 
-These attackers are often external, but could infiltrate to be an interal threat.
+These attackers are often external, but could infiltrate to be an internal threat.
 
 These attackers can be remarkably sophisticated. 
 
@@ -70,11 +70,11 @@ Funding for these hackers may be limited.
 
 #### Insider threat
 
-These attackers are inside the company or organisation are are usualy motivated by revenge. 
+These attackers are inside the company or organisation are are usually motivated by revenge. 
 
-They also have lots of resources becuase they have lots of information on the company/organisation 
+They also have lots of resources because they have lots of information on the company/organisation 
 
-Medium level of sophisitication.
+Medium level of sophistication.
 
 -----
 
@@ -88,7 +88,7 @@ These attackers are very sophisticated and organised.
 
 #### Shadow IT
 
-These are internal employees that go around IT and download software and build their own infrastructure without concern for Secuirty. 
+These are internal employees that go around IT and download software and build their own infrastructure without concern for Security. 
 
 -----
 
