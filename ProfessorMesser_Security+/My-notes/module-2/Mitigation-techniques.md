@@ -12,7 +12,7 @@ Patching will help keep your devices more secure by being up to date on the late
 
 Another method of protection is by encrypting data at rest.
 
-If the device is leaving the building, it is best to have a full disk encryption incase the device is stolen.
+If the device is leaving the building, it is best to have a full disk encryption in case the device is stolen.
 
 Another method for protection is setting up monitoring on the device and integrate with monitoring software from servers, switches, routers, and firewalls. 
 
