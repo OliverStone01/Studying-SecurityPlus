@@ -6,13 +6,13 @@
 
 ### Notes
 
-The supply chain is taking the raw materials and turning them into the final product which is then distibuted to distributors, customers, and consumers.
+The supply chain is taking the raw materials and turning them into the final product which is then distributed to distributors, customers, and consumers.
 
 At any point during the supply chain, an attacker could infect the supply chain.
 
 One exploit can infect the entire chain.
 
-You can either control your own security or you can hire a thrid party to do this for you. Hiring a third party means that they have access to your network which means if they get hacked, then your network is also at risk.
+You can either control your own security or you can hire a third party to do this for you. Hiring a third party means that they have access to your network which means if they get hacked, then your network is also at risk.
 
 To protect against this threat, companies will do audits.
 
