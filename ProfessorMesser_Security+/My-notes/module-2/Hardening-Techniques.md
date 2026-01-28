@@ -28,7 +28,7 @@ Currently a new method of malware detection is being developed known as Endpoint
 
 This detection tool uses:
 - Signature detection
-- Behavioural analysis
+- Behavioral analysis
 - Machine learning
 - Process monitoring
 
@@ -43,7 +43,7 @@ A host based firewall is able to allow or disallow incoming and outgoing traffic
 A host-based intrusion prevention system recognises and blocks known attacks. It can detect:
 - Signatures
 - Heuristics
-- Behavioural
+- Behavioral
 - Buffer overflow attacks
 - Registry updates
 - Writing to files and to folders.
