@@ -20,7 +20,7 @@ ACL lists allow or disallow traffic based on the source IP, the destination IP, 
 
 You can also use ACL’s to restrict access to network devices.
 
-It is important to take care when creating these ACL’s because you dont want to lock your self out while setting it up.
+It is important to take care when creating these ACL’s because you don't want to lock your self out while setting it up.
 
 To set these up, you need to list the permissions.
 
