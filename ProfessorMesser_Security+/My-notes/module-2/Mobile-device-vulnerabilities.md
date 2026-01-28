@@ -14,9 +14,9 @@ These devices are always moving making it harder to keep track of their movement
 
 These devices are also packed with sensitive information and they are mostly always connected to the network.
 
-Mobile devices come with purpose-build systems and you do not have access to the operating system unless you `Jailbreak/root` the device. Android is rooting and Apple IOS is Jailbreaking.
+Mobile devices come with purpose-build systems and you do not have access to the operating system unless you `Jailbreak/root` the device. Android is rooting and Apple IOS is Jail breaking.
 
-Jailbreaking/rooting installs a custom operating system.
+Jail breaking/rooting installs a custom operating system.
 
 Apps are downloaded from managed and trusted sources like the app store. This is because the app stores are able to check for malicious code and will review the application before pushing to the app store.
 
