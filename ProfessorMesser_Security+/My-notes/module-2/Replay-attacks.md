@@ -16,7 +16,7 @@ A common attack is a pass the hash attack. This is where the attacker sets up a 
 
 Once they have this information, they can replay this message to the server and sign in. 
 
-A method to protect against this attack is to make sure all your data is encrypted when travelling across the network. Including salting on sign in.
+A method to protect against this attack is to make sure all your data is encrypted when traveling across the network. Including salting on sign in.
 
 Another piece of data that an attacker may want is your cookies. These cookies act as a quick verification to log into specific sites 
 
