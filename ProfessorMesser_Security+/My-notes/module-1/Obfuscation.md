@@ -14,7 +14,7 @@ Steganography is the the process of obfuscating data in an image file.
 
 Steganography is Greek for concealed writing.
 
-Becuase you can reverse the process of obfuscation, the term security through obfuscation is not secure at all.
+Because you can reverse the process of obfuscation, the term security through obfuscation is not secure at all.
 
 The data in the image is known as the cover text.
 
@@ -30,7 +30,7 @@ Tokenisation is the act of taking sensitive information and replace it with a to
 
 This is what happens with your cards and mobile phone when you pay for something. The token is a one time use only and will not be connected to the information after use.
 
-This means we dont need to encrypt this data when its being sent over the network becuase it can't be traced back if someone intercepts it.
+This means we don't need to encrypt this data when its being sent over the network because it can't be traced back if someone intercepts it.
 
 To create these tokens and for the merchant to collect payments. We first send our card information using our device to a remote token service server. This server then returns tokens we can use that link to our card information.
 
