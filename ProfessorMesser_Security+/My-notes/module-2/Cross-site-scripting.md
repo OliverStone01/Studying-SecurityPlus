@@ -18,7 +18,7 @@ An example of this attack is an attacker sends a link containing a malicious scr
 
 Non-persistent (reflected) XSS attack is when an attacker can inject and run javascript on a site.
 
-Persistent (stored) XSS sttack is when the attacker makes a post on social media that contains malicious code so that when users visit the post, the malicious code is run.
+Persistent (stored) XSS attack is when the attacker makes a post on social media that contains malicious code so that when users visit the post, the malicious code is run.
 
 To protect against XSS, be careful when clicking untrusted links and never blindly click on your email inbox. You can also limit the javascript in your browser. Make sure to keep your browser and applications updated.
 
