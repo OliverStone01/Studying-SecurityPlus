@@ -6,15 +6,15 @@
 
 ### Notes
 
-A honeypot is a way to attract the bad guys (Typically automatic bots) to see what type of attackes they are using so that you can find ways to prevent them.
+A honeypot is a way to attract the bad guys (Typically automatic bots) to see what type of attackers they are using so that you can find ways to prevent them.
 
-To make a honeypot more realistic to trick the attackers to believe they have found a system. We create a honeynet which consists of fake servers, workstations, routers, switches, and firewalls.
+To make a honeypot more realistic to trick the attackers to believe they have found a system. We create a honey net which consists of fake servers, workstations, routers, switches, and firewalls.
 
-We can also go a step further and create honeyfiles that look like they contain important information such as a file called `passwords.txt`. This will keep the attackers busy for a long time as they believe they now have access to your passwords.
+We can also go a step further and create honey files that look like they contain important information such as a file called `passwords.txt`. This will keep the attackers busy for a long time as they believe they now have access to your passwords.
 
-These files are more like bear traps and you dont want them to be found as this implies an attacker is in the system. You can add alerts to the file so that you can be told when it has been found and opened.
+These files are more like bear traps and you don't want them to be found as this implies an attacker is in the system. You can add alerts to the file so that you can be told when it has been found and opened.
 
-Honeytokens are traceable data that we can use to detect if someone tried to use. For example, we can set up a fake API credential that when used, tells us who is using it and notifies when its being used.
+Honey tokens are traceable data that we can use to detect if someone tried to use. For example, we can set up a fake API credential that when used, tells us who is using it and notifies when its being used.
 
 Another example is a fake email address. We can check where this email address pops up so we can detect who is using it. 
 
