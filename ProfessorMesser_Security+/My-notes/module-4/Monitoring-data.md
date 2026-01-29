@@ -12,7 +12,7 @@ On windows, this is handled by the system file checker (SFC). This file checker 
 
 An advanced solution includes host-based intrusion prevention system which runs directly on the operating system. This gives them visibility into local file changes as well as blocking known attack.
 
-A critical defence system is a Data Loss Prevention (DLP). These systems are designed to stop sensitive data from leaking out. These are categorised as monitoring data in motion, data at rest, and data in use.
+A critical defense system is a Data Loss Prevention (DLP). These systems are designed to stop sensitive data from leaking out. These are categorised as monitoring data in motion, data at rest, and data in use.
 
 DLPs can run in different forms. Network-based DLP inspects traffic in real time. Endpoint or host-based DLPs run on an individual systems often blocking risky transfers such as a USB drive. Cloud-based DLP solutions monitor and block sensitive uploads into SaaS platforms and cloud storage.
 
