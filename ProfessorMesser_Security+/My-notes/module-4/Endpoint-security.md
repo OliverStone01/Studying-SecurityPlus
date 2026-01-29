@@ -7,7 +7,7 @@
 ### Notes
 
 
-Endpoint security is the security of the device that users rely on every day (Desktops, laptops, tablets, and smartphones). Applications running on them may be exploited to steal sensitive data. Defending endpoints requires a layered approach which is called defence in depth.
+Endpoint security is the security of the device that users rely on every day (Desktops, laptops, tablets, and smartphones). Applications running on them may be exploited to steal sensitive data. Defending endpoints requires a layered approach which is called defense in depth.
 
 At the edge of network where the internal system meets the outside internet, we usually place a firewall. Firewalls enforce security rules. On top of the firewall, we apply access control. These rules can restrict data access by users, groups, location, or application. Administrators can update or remove these rules depending on the security posture.
 
@@ -19,7 +19,7 @@ A dissolvable agent runs temporarily during login and then removes itself.
 
 A agent-less network access control often integrated with Active Directory checks compliance only during login or logout.
 
-Traditional anti-virus struggles because millions of new malware variants are created daily. EDR (Endpoint Detection and Response) extends beyond signature based detection. It uses behavioural analysis, process monitoring, and machine learning to identify threats. EDR can also provide root-cause analysis. This includes figuring out how the threat got in and removing it and prevent it getting back in in the future. 
+Traditional anti-virus struggles because millions of new malware variants are created daily. EDR (Endpoint Detection and Response) extends beyond signature based detection. It uses behavioral analysis, process monitoring, and machine learning to identify threats. EDR can also provide root-cause analysis. This includes figuring out how the threat got in and removing it and prevent it getting back in in the future. 
 
 EDR systems are automatic.
 
