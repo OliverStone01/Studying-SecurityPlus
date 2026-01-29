@@ -19,7 +19,7 @@ Hybrid cloud means the use of multiple clouds for your organisation. These can b
 
 Most cloud provider software will not communicate together so you will have to manually set each cloud service.
 
-Each provider typically writes diffrent logs too with diffrent terminology making it difficult to combine.
+Each provider typically writes different logs too with different terminology making it difficult to combine.
 
 When data is being shared from one cloud to another there is a risk of data leak as it is traversing the internet.
 

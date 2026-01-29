@@ -8,7 +8,7 @@
 
 One of the most valuable things to a company is its data. This is why it’s so important to keep it secure. 
 
-Regulated data means a thirds party sets the rules of how this data should be managed and stored. This can also include laws set by the goverment.
+Regulated data means a thirds party sets the rules of how this data should be managed and stored. This can also include laws set by the government.
 
 An example is credit card data must be compliant with the payment card industry standards.
 
