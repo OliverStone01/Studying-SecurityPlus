@@ -38,6 +38,6 @@ Some embedded systems are unable to be patched due to the fact that some are not
 
 It is important to monitor your power usage to make sure that your systems are always running. If you plan to scale your system, it’s important to check that your current power inlet can handle the amount of power needed. To check this, you can hire an electrician to check this for you.
 
-It is also important to check if your system requires a UPS (Uninterruptible power supply) or a generator to keepp your systems running during a power cut or broken cables. 
+It is also important to check if your system requires a UPS (Uninterruptible power supply) or a generator to keep your systems running during a power cut or broken cables. 
 
 Compute power is the amount of computing power that your system has. This may be referred to in the cloud as the compute engine. It is important to check that you have enough compute power to run your applications and systems with heavy traffic. 
