@@ -16,7 +16,7 @@ The benefits of On-premises security is you have an in house IT Team that can be
 
 The downside is that it takes time to upscale the system and manage the security.
 
-Most organisations are physically decentralised as there are many locations, some cloud services, and diffrent operating systems.
+Most organisations are physically decentralised as there are many locations, some cloud services, and different operating systems.
 
 This can become difficult to manage and protect. 
 
@@ -33,7 +33,7 @@ Each system requires its own guest operating system and the applications you wan
 
 One inefficient issue with virtual machines is that each device requires its own operating system. Instead, organisations are moving to a container machine. 
 
-Containers allow you to run different applications all on one device without the need of running multiple diffrent virtual devices. 
+Containers allow you to run different applications all on one device without the need of running multiple different virtual devices. 
 
 The benefit is, each application is isolated from one another making it easy to remove and add other containers.
 
