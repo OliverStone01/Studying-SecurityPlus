@@ -8,9 +8,9 @@
 
 To have high availability, you must have high resilience to attacks and other challenges that may cause your system to go down.
 
-To have high availability, your system must be ready to take over incase something goes down.  This means you will need more systems running that is being used and you will also see higher energy costs to run these systems.
+To have high availability, your system must be ready to take over in case something goes down.  This means you will need more systems running that is being used and you will also see higher energy costs to run these systems.
 
-Another method for high availability is to use server clustering. This is where you combine two or more servers to act as a back up incase the other fails. This also means you can have quick scalability and can be turned on during configuration.
+Another method for high availability is to use server clustering. This is where you combine two or more servers to act as a back up in case the other fails. This also means you can have quick scalability and can be turned on during configuration.
 
 The servers will use a shared database server so that they do not all need to read and write data all the time.
 
@@ -22,7 +22,7 @@ Site resiliency is having a second site that is up to date with all the data and
 
 This is usually in a completely different part of the world to protect against natural disasters or power outages. 
 
-A hot site is an exact replica of your data centre where we keep everything up to date including software updates and backups of your data. This allows us to swap over immediately if we needed to incase the first site went down.
+A hot site is an exact replica of your data centre where we keep everything up to date including software updates and backups of your data. This allows us to swap over immediately if we needed to in case the first site went down.
 
 A cold site is an empty building with no hardware which means you would need to bring all your data and hardware to the site before you can be operational again. 
 
