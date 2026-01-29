@@ -8,7 +8,7 @@
 
 Security awareness is the act of training employees to spot security threats like phishing emails and have the information on what to do if they spot a threat.
 
-We also train users to recognise anomalous behaviour (Things that dont look normal on their device):
+We also train users to recognise anomalous behavior (Things that don't look normal on their device):
 - Risky actions: modifying a host file or uploading sensitive data.
 - Unexpected activity: Logging on from another country or sudden spikes in data transfers.
 - Unintentional mistakes: Mistyping a domain, losing a USB drive, or misconfiguring device security.
