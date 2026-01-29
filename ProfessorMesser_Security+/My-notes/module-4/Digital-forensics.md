@@ -7,7 +7,7 @@
 ### Notes
 
 
-Digital forensics is the process of collecting, preserving, and analysing data. Not only are we trying to understand what happened, but also to improve defences and when needed, to support legal proceedings.
+Digital forensics is the process of collecting, preserving, and analysing data. Not only are we trying to understand what happened, but also to improve defenses and when needed, to support legal proceedings.
 
 The key is best practices. RFC 3227 provides industry guidelines on evidence collection and archiving. Security professionals must carefully document how evidence was acquired, kept intact, and how you maintained its integrity.
 
