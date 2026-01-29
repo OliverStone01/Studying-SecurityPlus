@@ -8,7 +8,7 @@
 
 It is important to keep up to date with the threat actors that threaten your organisation. There are tools that you can use to get more information about hacker groups and what techniques they are likely to use.
 
-OSINT = Open source inteligence
+OSINT = Open source intelligence
 
 This is open source public data and information that can tell you more about an attacker. This can be social media and discussion groups. The government also puts data on display such as public hearings, reports, and websites. 
 
