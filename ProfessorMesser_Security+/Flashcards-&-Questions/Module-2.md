@@ -72,7 +72,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>12. What is a hactivist?</summary>
+  <summary>12. What is a hacktivist?</summary>
   - A hacker motivated by philosophical, revenge, disruption. These attackers can be highly sophisticated but funding may be limited.
 </details>
 
@@ -166,7 +166,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>2. How can we protect against watering hole attacks?</summary>
-  - We need a layered defence system and also make sure that firewalls and IPs are setup correctly.
+  - We need a layered defense system and also make sure that firewalls and IPs are setup correctly.
 </details>
 
 -----
@@ -304,7 +304,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>2. Are these updates Safe?</summary>
-  - Mostly, but it is still important to keep backups incase.
+  - Mostly, but it is still important to keep backups in case.
 </details>
 
 -----
@@ -324,7 +324,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>3. What are the diffrent types of data injection?</summary>
+  <summary>3. What are the different types of data injection?</summary>
   - HTML, SQL, XML, LDAP
 </details>
 
@@ -359,7 +359,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>2. What is cross site scripting?</summary>
-  - Attackers sending/storing malicous code onto a webserver.
+  - Attackers sending/storing malicious code onto a webserver.
 </details>
 
 
@@ -376,7 +376,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>5. What is a persistant XSS attack?</summary>
+  <summary>5. What is a persistent XSS attack?</summary>
   - An attacker injecting their code into a database that is loaded when anyone visits the site.
 </details>
 
@@ -404,7 +404,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>2. Who is able to ammend the firmware?</summary>
+  <summary>2. Who is able to amend the firmware?</summary>
   - The vendors.
 </details>
 
@@ -441,7 +441,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>8. What else may you need when using legacy platforms?</summary>
-  - Additional secuirty devices or features to protect the network.
+  - Additional security devices or features to protect the network.
 </details>
 
 
@@ -469,7 +469,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>4. What does a hypervisor do?</summary>
-  - It manages the relationship between physical and virutal resources.
+  - It manages the relationship between physical and virtual resources.
 </details>
 
 
@@ -739,7 +739,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>10. How can you protect agains worms?</summary>
+  <summary>10. How can you protect against worms?</summary>
   - Firewalls and IDS/IPS systems.
 </details>
 
