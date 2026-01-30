@@ -128,7 +128,7 @@ This is a prediction of how long equipment will run before failing again.
 
 <details>
   <summary>What are the consequences for failing to comply with compliance standards?</summary>
-  Jail time, fines, loss of licence, loss of partnership, and reputational damage.
+  Jail time, fines, loss of license, loss of partnership, and reputational damage.
 </details>
 
 <details>
@@ -407,7 +407,7 @@ This person ensures compliance is met with laws, regulations, security, and priv
 </details>
 
 <details>
-  <summary>What anomalous behaviour do we also train users to spot?</summary>
+  <summary>What anomalous behavior do we also train users to spot?</summary>
   Risky actions (modifying host files), unexpected activity (log in attempt from a different country), and unintentional mistakes (mistyping domains).
 </details>
 
