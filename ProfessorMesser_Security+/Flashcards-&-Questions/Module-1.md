@@ -185,7 +185,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>7. Give 3 examples of how you can insure Availability:</summary>
-  - Building systems using redundancy, Fault tolerance (adding extra components incase of failure), and Patching systems doing updates and fixing security holes.
+  - Building systems using redundancy, Fault tolerance (adding extra components in case of failure), and Patching systems doing updates and fixing security holes.
 </details>
 
 
@@ -224,7 +224,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>5. Are hash values different in length depending on the ammount of data passed to the algorithm?</summary>
+  <summary>5. Are hash values different in length depending on the amount of data passed to the algorithm?</summary>
   - No, hash values are typically the same length no matter how much data you pass to the algorithm.
 </details>
 
@@ -293,7 +293,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>1. What is a Gap Analysis?</summary>
-  - The study of diffrence between where your security is now and where you want it to be.
+  - The study of difference between where your security is now and where you want it to be.
 </details>
 
 
@@ -418,14 +418,14 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>2. What is Access Control Vastibule?</summary>
+  <summary>2. What is Access Control Vestibule?</summary>
   - The act of restricting access to areas where other areas are open.
 </details>
 
 
 <details>
   <summary>3. Give an example where access control vestibule is used:</summary>
-  - When you have multiple interal doors that are unlocked when the access door is locked. But once the access door is unlocked, the other lock to prevent immediate access.
+  - When you have multiple internal doors that are unlocked when the access door is locked. But once the access door is unlocked, the other lock to prevent immediate access.
 </details>
 
 
@@ -511,7 +511,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>1. What is change management?</summary>
-  - The way we process updates and patches to systems to prevent downtime and security vulnerabilities in any enviroment
+  - The way we process updates and patches to systems to prevent downtime and security vulnerabilities in any environment
 </details>
 
 
@@ -548,13 +548,13 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>6. What can we use to test the change before pushing to production?</summary>
-  - We can copy our systems to a sandbox enviroment and test the roll out and then test the backout plan.
+  - We can copy our systems to a sandbox environment and test the roll out and then test the back out plan.
 </details>
 
 
 <details>
-  <summary>7. What is a backout plan?</summary>
-  - A backout plan the the plan for reversing the upgrade using things like backups and reverting to previous software system versions.
+  <summary>7. What is a back out plan?</summary>
+  - A back out plan the the plan for reversing the upgrade using things like backups and reverting to previous software system versions.
 </details>
 
 -----
@@ -587,7 +587,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>5. What is important about the scope when doing upgrades?</summary>
-  - It tells you what systems need to be upgraded and how long you have to complete the task. It is important that you only complete the tasks taht have been approved during the time allocated.
+  - It tells you what systems need to be upgraded and how long you have to complete the task. It is important that you only complete the tasks that have been approved during the time allocated.
 </details>
 
 
@@ -604,7 +604,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>8. What is classed as a dependancy system?</summary>
+  <summary>8. What is classed as a dependency system?</summary>
   - When a system relies on other systems. This means that when you upgrade one software, you may be required to upgrade the other.
 </details>
 
@@ -621,7 +621,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>1. What does the public key infrastructure refer to?</summary>
-  - The procedures, hardware, and software that creates, distributes, manages, stores, and revokes digital certificates. It also referes to the binding on the public keys to people or devices.
+  - The procedures, hardware, and software that creates, distributes, manages, stores, and revokes digital certificates. It also refers to the binding on the public keys to people or devices.
 </details>
 
 
@@ -633,7 +633,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>3. What is asymmetric encryption?</summary>
-  - To use two diffrent keys to encrypt and decrypt data.
+  - To use two different keys to encrypt and decrypt data.
 </details>
 
 
@@ -657,7 +657,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>7. Explain how Bob would send Alice a message using asymmetric encryption.</summary>
-  - Bob would encrypt his message using Alices public key. He will then send this encrypted data to Alice who would then decrypt the message using her private key.
+  - Bob would encrypt his message using Alice's public key. He will then send this encrypted data to Alice who would then decrypt the message using her private key.
 </details>
 
 
@@ -678,7 +678,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>3. What are the 4 types on encyption we can do to data at rest?</summary>
+  <summary>3. What are the 4 types on encryption we can do to data at rest?</summary>
   - individual file encryption, full disk encryption, record-level encryption, or transparent encryption
 </details>
 
@@ -690,7 +690,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>5. What software can we use for full-disj encryption?</summary>
+  <summary>5. What software can we use for full-disk encryption?</summary>
   - Windows = Bitlocker, Mac = FileVault
 </details>
 
@@ -708,7 +708,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>8. Do alogrithms need to be kept secret?</summary>
+  <summary>8. Do algorithms need to be kept secret?</summary>
   - No, only the keys.
 </details>
 
@@ -856,19 +856,19 @@ Versatile memory which is where we store our keys and hardware configuration inf
 
 
 <details>
-  <summary>3. What is steganography?</summary>
+  <summary>3. What is stenography?</summary>
   - The process of obfuscation data in an image
 </details>
 
 
 <details>
-  <summary>4. What does the word steganography mean from?</summary>
+  <summary>4. What does the word stenography mean from?</summary>
   - Concealed writing
 </details>
 
 
 <details>
-  <summary>5. What is the data in steganography called?</summary>
+  <summary>5. What is the data in stenography called?</summary>
   - Cover Text
 </details>
 
@@ -880,13 +880,13 @@ Versatile memory which is where we store our keys and hardware configuration inf
 
 
 <details>
-  <summary>7. What is audio steganography?</summary>
+  <summary>7. What is audio stenography?</summary>
   - Hiding data in audio files.
 </details>
 
 
 <details>
-  <summary>8. What is video steganography?</summary>
+  <summary>8. What is video stenography?</summary>
   - Hiding data in video files.
 </details>
 
