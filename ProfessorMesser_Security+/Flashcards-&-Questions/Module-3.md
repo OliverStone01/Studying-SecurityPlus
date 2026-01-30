@@ -234,13 +234,13 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>10. Give two examples of non-human-readable data.</summary>
-  - Barcodes  
+  - Barcode  
   - Encoded data
 </details>
 
 <details>
   <summary>11. Give an example of a hybrid between non-human and human-readable data.</summary>
-  - Some barcodes contain the numbers under the barcode itself.
+  - Some barcode's contain the numbers under the barcode itself.
 </details>
 
 
