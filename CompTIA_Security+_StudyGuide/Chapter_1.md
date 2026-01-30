@@ -6,9 +6,13 @@ Security professionals are responsible for protecting confidentiality, integrity
 
 **Cybersecurity Objectives**
 
-The three key objectives of cybersecurity programs are confidentiality, integrity, and availability.
+The three key objectives of cybersecurity programs are **confidentiality, integrity, and availability**.
 
-Confidentiality ensures that unauthorised individuals are unable to gain access to sensitive information. Integrity ensures that there are no unauthorised modifications to information or systems. Availability ensures that information and systems are ready to meet the needs of legitimate users.
+Confidentiality ensures that unauthorised individuals are unable to gain access to sensitive information. This can be done with firewalls, access control lists, and encryption.
+
+Integrity ensures that there are no unauthorised modifications to information or systems intentionally or unintentionally. 
+
+Availability ensures that information and systems are ready to meet the needs of legitimate users.
 
 These three key objectives are known as the CIA Triad.
 
