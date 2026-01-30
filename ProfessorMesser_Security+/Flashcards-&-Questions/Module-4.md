@@ -342,7 +342,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>What is a EDR (Endpoint Detection and Response)?</summary>
-  This is an advanced anti-virus that extends beyond signatures and checks user behaviour, process monitoring, and machine learning to identify threats. EDR’s also provide root-cause analysis.
+  This is an advanced anti-virus that extends beyond signatures and checks user behavior, process monitoring, and machine learning to identify threats. EDR’s also provide root-cause analysis.
 </details>
 
 <details>
@@ -985,7 +985,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 </details>
 
 <details>
-  <summary>What are common automations created?</summary>
+  <summary>What are common automation's created?</summary>
   Patching, Configurations, Scaling, Monitoring, Onboarding/Off-boarding, Guardrails, Security group monitoring, Help desk integration, Access controls, DevOps, and APIs.
 </details>
 
@@ -1466,7 +1466,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>What can we do to solve these concerns?</summary>
-  Encrypt the data travelling over the network and make sure the correct authentication methods are set up.
+  Encrypt the data traveling over the network and make sure the correct authentication methods are set up.
 </details>
 
 <details>
