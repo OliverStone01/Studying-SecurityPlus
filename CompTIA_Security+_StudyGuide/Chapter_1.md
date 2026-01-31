@@ -56,7 +56,7 @@ We can categorise the potential impact of a security incident by the following c
 Risks often cross categories and you should'nt feel the need to shoehorn every risk into one category.
 
 **Identity theft**
-If a data breach occurs, the most common 
+If a data breach occurs, the effects of that breach can often extend beyond the organisation affecting customers, employees, and other individual stakeholders. The most common impact on these groups is the risk of identity theft by exposing **PPI** (Personally Identifiable Information) to unethical 
 
 **Implementing Security Controls**
 Technical and business leaders will express the level of protection requirements by writing the control objectives that the organisation wishes to achieve. Security controls are specific measures that fulfill the security objectives of an organisation.
