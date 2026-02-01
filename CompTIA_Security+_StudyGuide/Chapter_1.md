@@ -56,20 +56,19 @@ We can categorise the potential impact of a security incident by the following c
 Risks often cross categories and you should'nt feel the need to shoehorn every risk into one category.
 
 **Identity theft**
-If a data breach occurs, the effects of that breach can often extend beyond the organisation affecting customers, employees, and other individual stakeholders. The most common impact on these groups is the risk of identity theft by exposing **PPI** (Personally Identifiable Information) to unethical individuals.
+If a data breach occurs, the effects of that breach can often extend beyond the organisation affecting customers, employees, and other individual stakeholders. The most common impact on these groups is the risk of identity theft by exposing **PPI** (Personally Identifiable Information) to unethical individuals. The most common PII elements used in a identity theft is, Social security numbers, bank account and card details, drivers' license numbers, and passport data.
 
 **Implementing Security Controls**
-Technical and business leaders will express the level of protection requirements by writing the control objectives that the organisation wishes to achieve. Security controls are specific measures that fulfill the security objectives of an organisation.
+Technical and business leaders will express the level of protection requirements by writing the **control objectives** that the organisation wishes to achieve. Security controls are specific measures that fulfill the security objectives of an organisation.
 
 **Gap analysis**
-During a gap analysis, the cybersecurity professonal reviews the control objectives and then examines the control designed to achieve those objectives. If there are any cases where the controls do not meet the control objective, this is a gap. These gaps should be treated as potential risks and remediated as time and resources permit.
+During a gap analysis, cybersecurity professionals reviews the control objectives and then examines the control designed to achieve those objectives. If there are any cases where the controls do not meet the control objective, this is a gap. These gaps should be treated as potential risks and remediated as time and resources permit.
 
 **Security Control categories**
-
 Security controls are categorised based on the way they achieve their objectives. Here are the four different categories:
 - **Technical controls** are digital controls such as firewall rules, access control lists, intrusion prevention systems, and encryption.
-- **Operational controls** are controls used to manage technology in a secure manaer. This includes user access reviews, log monitoring, and vulnerability management.
-- **Managerial controls** are procedures that focus on the risk management process. This includes, periodic risk assesments, security planning excercises, and incorperation of security into the organisations change management.
+- **Operational controls** are controls used to manage technology in a secure manner. This includes user access reviews, log monitoring, and vulnerability management.
+- **Managerial controls** are procedures that focus on the risk management process. This includes, periodic risk assessments, security planning exercises, and incorporation of security into the organisations change management.
 - **Physical controls** are controls that impact the physical world. for example, fences, lighting, and alarms.
 
 
