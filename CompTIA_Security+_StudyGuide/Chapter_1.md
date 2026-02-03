@@ -71,5 +71,6 @@ Security controls are categorised based on the way they achieve their objectives
 - **Managerial controls** are procedures that focus on the risk management process. This includes, periodic risk assessments, security planning exercises, and incorporation of security into the organisations change management.
 - **Physical controls** are controls that impact the physical world. for example, fences, lighting, and alarms.
 
+Organisations must should select security controls that meets their control objectives based on the criteria and parameters set by the organisation and outside regulators. 
 
 
