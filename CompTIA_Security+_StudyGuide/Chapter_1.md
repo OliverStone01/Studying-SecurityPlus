@@ -73,4 +73,6 @@ Security controls are categorised based on the way they achieve their objectives
 
 Organisations must should select security controls that meets their control objectives based on the criteria and parameters set by the organisation and outside regulators. 
 
+For example, an organisation that handles sensitive information might decide confidentiality requires the highest levels of controls but their website is not of critical importance. 
 
+Many control objectives require a combination of technical, operational, and managerial controls.
