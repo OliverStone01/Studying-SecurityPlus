@@ -42,19 +42,13 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>7. What are the six control types?</summary>
-  - Preventive, deterrent, detective, corrective, compensating, directive
-</details>
-
-
-<details>
-  <summary>8. What is preventive control?</summary>
+  <summary>7. What is preventive control?</summary>
   - Prevents access to a specific resource. For example, a firewall, security policies, locked doors, or guards checking ID to make sure they have access.
 </details>
 
 
 <details>
-  <summary>9. Give an example of preventive controls for each control category</summary>
+  <summary>8. Give an example of preventive controls for each control category</summary>
   
   - Technical: Firewall
   - Managerial: Security policy such as on-boarding policy
@@ -64,13 +58,13 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>10. What are deterrent controls?</summary>
+  <summary>9. What are deterrent controls?</summary>
   - To deter and try prevent attackers from their attack. This can be done using warning signs and a threat of demotion if an employee accesses areas they are not supposed to.
 </details>
 
 
 <details>
-  <summary>11. Give an example of deterrent controls for each control category</summary>
+  <summary>10. Give an example of deterrent controls for each control category</summary>
   
   - Technical: Splash screen (Warning Screen)
   - Managerial: Threat of demotion for accessing restricted areas.
@@ -80,13 +74,13 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>12. What are detective controls?</summary>
+  <summary>11. What are detective controls?</summary>
   - These controls are not likely to stop an attack or intrusion but they log and store information about what happened so that it can be investigated later.
 </details>
 
 
 <details>
-  <summary>13. Give an example of detective controls for each control category</summary>
+  <summary>12. Give an example of detective controls for each control category</summary>
   
   - Technical: Collecting and reviewing system logs
   - Managerial: Review log in reports
@@ -96,13 +90,13 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>14. What are corrective controls?</summary>
+  <summary>13. What are corrective controls?</summary>
   - These controls are taken after an event has occurred to try reverse or minimise the effect to the system or business with minimal downtime.
 </details>
 
 
 <details>
-  <summary>15. Give an example of corrective controls for each control category</summary>
+  <summary>14. Give an example of corrective controls for each control category</summary>
   
   - Technical: Restoring from a backup
   - Managerial: Creating policies for reporting security issues.
@@ -112,13 +106,13 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>16. What are compensating controls?</summary>
+  <summary>15. What are compensating controls?</summary>
   - Using temporary solutions to fix issues until you are able to fix the main issue permanently.
 </details>
 
 
 <details>
-  <summary>17. Give an example of compensating controls for each control category</summary>
+  <summary>16. Give an example of compensating controls for each control category</summary>
   
   - Technical: Firewall blocking until the app is patched
   - Managerial: Separation of duties
@@ -128,13 +122,13 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>18. What are directive controls?</summary>
+  <summary>17. What are directive controls?</summary>
   - This is where you give direct orders to people to try improve security. This is a very weak security control.
 </details>
 
 
 <details>
-  <summary>19. Give an example of directive controls for each control category</summary>
+  <summary>18. Give an example of directive controls for each control category</summary>
   
   - Technical: Store sensitive files in a protected folder
   - Managerial: Create compliance policies and procedures
@@ -237,7 +231,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>7. What is the difference between a public and private key?</summary>
-  - A public key is kept secret and is used when hashing data you want to send to someone. The person receiving your message then uses your public key (Which can be shared with anyone) to decrypt your message to make sure nothing has been changed in the message and to confirm the message came from you.
+  - A private key is kept secret and is used when decrypting messages others have sent you or encrypting data before sending. The person receiving your message then uses your public key (Which can be shared with anyone) to decrypt your message to make sure nothing has been changed in the message and to confirm the message came from you.
 </details>
 
 
