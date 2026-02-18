@@ -12,7 +12,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>2. What is a technical control?</summary>
+  <summary>2. What are technical controls?</summary>
   - Using software to control what functions can and cannot be used on a system. Firewalls can be used to block network traffic entering and leaving a system. Operating system controls can be used to prevent users from accessing functions and data
 </details>
 
@@ -42,7 +42,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>7. What is preventive control?</summary>
+  <summary>7. What are preventive controls?</summary>
   - Prevents access to a specific resource. For example, a firewall, security policies, locked doors, or guards checking ID to make sure they have access.
 </details>
 
