@@ -172,8 +172,8 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>6. Give 4 examples of how you can insure integrity:</summary>
-  - Hashing the data, using Digital Signatures, Using certificates, and non-repudiation.
+  <summary>6. Give 3 examples of how you can insure integrity:</summary>
+  - Hashing the data, using Digital Signatures, and Using certificates.
 </details>
 
 
