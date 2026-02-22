@@ -660,7 +660,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 ### Encrypting data
 
 <details>
-  <summary>1.What do we call data in storage?</summary>
+  <summary>1. What do we call data in storage?</summary>
   - Data at rest
 </details>
 
@@ -718,7 +718,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 ### Key exchange
 
 <details>
-  <summary>1.What is out-of-band key exchange?</summary>
+  <summary>1. What is out-of-band key exchange?</summary>
   - Exchanging keys off the internet. In person for example
 </details>
 
@@ -742,7 +742,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 
 <details>
-  <summary>5.What is key exchange algorithm?</summary>
+  <summary>5. What is key exchange algorithm?</summary>
   - This is where we take our private key and merge it with someone elses public key. Once the other person does the same with their private key and our public key, we can symmetric keys without any data going over the internet.
 </details>
 
@@ -982,7 +982,7 @@ Versatile memory which is where we store our keys and hardware configuration inf
 
 
 <details>
-  <summary>7.What is the standard format for a digital certificate?</summary>
+  <summary>7. What is the standard format for a digital certificate?</summary>
   - X.509
 </details>
 
