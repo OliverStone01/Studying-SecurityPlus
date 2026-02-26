@@ -13,7 +13,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>2. What are technical controls?</summary>
-  - Using software to control what functions can and cannot be used on a system. Firewalls can be used to block network traffic entering and leaving a system. Operating system controls can be used to prevent users from accessing functions and data
+  - Using software for control. This includes what functions can and cannot be used on a system. Firewalls can be used to block network traffic entering and leaving a system. Operating system controls can be used to prevent users from accessing functions and data
 </details>
 
 
