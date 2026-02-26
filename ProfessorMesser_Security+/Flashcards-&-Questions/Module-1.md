@@ -31,7 +31,7 @@ To reveal the answer, click on the question or the `>` arrow to the left side of
 
 <details>
   <summary>5. What are physical controls</summary>
-  - These are physical security controls to prevent physical access such as fences, locks, badge readers, and bollards.
+  - Physical security controls are physical objects used to prevent physical access such as fences, locks, badge readers, and bollards.
 </details>
 
 
